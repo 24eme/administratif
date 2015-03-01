@@ -1189,8 +1189,6 @@ A compter de son immatriculation, ils seront entièrement pris en charge
 par la Société qui devra les amortir avant toute distribution de
 bénéfices, et au plus tard dans le délai de cinq ans.
 
-
-
 \newpage
 
 Fait à Paris, le 30/03/2015
@@ -1204,33 +1202,21 @@ En autant d'exemplaires que requis par la loi :
 
 &nbsp;
 
-&nbsp;
-
-Signature du gérant (Bon pour acceptation des fonctions de gérant)
+Signature des gérants : (Bon pour acceptation des fonctions de gérant)
 
 &nbsp;
 
 M. LAURENT Vincent
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](images/signature_gerant_1.jpg)\
 
 M. LE METAYER Jean-Baptiste
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](images/signature_gerant_2.jpg)\
 
 M. PETIT Mathurin
 
-&nbsp;
-
-&nbsp;
+![](images/signature_gerant_3.jpg)\
 
 &nbsp;
 
@@ -1240,27 +1226,15 @@ Signatures des associés : (Lu et approuvé)
 
 M. LAURENT Vincent
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](images/signature_lu_approuve_1.jpg)\
 
 M. LE METAYER Jean-Baptiste
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](images/signature_lu_approuve_2.jpg)\
 
 M. PETIT Mathurin
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](images/signature_lu_approuve_3.jpg)\
 
 \newpage
 
