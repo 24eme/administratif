@@ -639,7 +639,7 @@ travail et de la sécurité sociale.
 Les gérants sont choisis par les associés pour une durée de 2 ans. La
 nomination est prononcée à la majorité du nombre total des voix sur
 première convocation et à la majorité des voix des associés présents ou
-représentés sur deuxième convocation*. *
+représentés sur deuxième convocation.
 
 Ils sont rééligibles et révocables.
 
