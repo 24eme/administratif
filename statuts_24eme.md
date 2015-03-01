@@ -1272,17 +1272,17 @@ M. PETIT Mathurin
 
 \newpage
 
-# Annexe I - État des apports en nature
+## Annexe I - État des apports en nature
 
 &nbsp;
 
-# Annexe II - État des actes accomplis pour le compte de la société en cours de formation
+## Annexe II - État des actes accomplis pour le compte de la société en cours de formation
 
 |  Nom de l'apporteur | Nature l'opération          |  Montant engagé (en €) |
 |---------------- |--------------------------------------|----------------------|
 | Vincent LAURENT |  Serveur VM | 172,52 € TTC  |
 | Vincent LAURENT | 3 noms de domaine chez 55 € TTC Online (dont 1 avec hébergement)  | 55 € TTC  |
 
-# Annexe III - Mandat pour les actes à accomplir pour le compte de la société en cours d’immatriculation
+## Annexe III - Mandat pour les actes à accomplir pour le compte de la société en cours d’immatriculation
 
 &nbsp;
