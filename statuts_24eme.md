@@ -23,7 +23,7 @@ SIEGE : 226 rue de Tolbiac, 75013 Paris
 
 **ONT ETABLI AINSI QU'IL SUIT LES STATUTS D'UNE SCOP ARL DEVANT EXISTER ENTRE EUX ET TOUTE PERSONNE QUI VIENDRAIT ULTERIEUREMENT A ACQUERIR LA QUALITE D'ASSOCIE.**
 
-\newpage
+&nbsp;
 
 ## Préambule
 
@@ -82,7 +82,6 @@ L'adhésion de coopérateurs salariés à notre Société coopérative les rend
 solidairement membres du mouvement des sociétés coopératives de
 production.
 
-\newpage
 
 ## TITRE I - Forme - dénomination - durée - objet - siège social
 
@@ -146,7 +145,6 @@ droits de vote, et dans tout autre département par décision de
 l'assemblée des associés statuant à la majorité requise pour la
 modification des statuts.
 
-\newpage
 
 ## TITRE II - Capital social et souscriptions au capital
 
@@ -316,7 +314,6 @@ Les sommes qu'elles représentent sont assimilées à des créances
 ordinaires et remboursées dans les conditions prévues par les présents
 statuts.
 
-\newpage
 
 ## TITRE III - Associés - Acquisition et perte de la qualité d'associé
 
@@ -605,7 +602,6 @@ d'Epargne au 31 décembre de l'exercice précédent.
 Les dispositions du présent article sont applicables aux héritiers et
 ayants droit de l'associé décédé.
 
-\newpage
 
 ## TITRE IV - Administration et contrôle
 
@@ -740,7 +736,6 @@ réviseur aura remis son rapport à la Société.
 Dans ce cas, le gérant présente obligatoirement un rapport sur la
 situation de l'entreprise.
 
-\newpage
 
 ## TITRE V - Assemblées d'associés
 
@@ -918,7 +913,6 @@ caractère limitatif :
 -   La prorogation ou la dissolution anticipée de la Société ;
 -   La fusion de la Société.
 
-\newpage
 
 ## TITRE VI - Comptes sociaux - Répartition des bénéfices
 
@@ -1082,7 +1076,6 @@ directement ou indirectement, au cours de l'existence de la Société ou à
 son terme, aux associés ou travailleurs de celle-ci ou à leurs héritiers
 et ayants droit.
 
-\newpage
 
 ## TITRE VII - Dissolution - Liquidation - Contestations
 
@@ -1146,7 +1139,6 @@ une ou plusieurs coopératives de production, à une union ou fédération
 de coopératives de production ou à une collectivité territoriale ou à
 une entreprise de l'Economie Sociale et Solidaire.
 
-\newpage
 
 ## TITRE VIII - Personnalité morale et actes accomplis antérieurement à la constitution ou à l'immatriculation de la société
 
