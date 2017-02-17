@@ -4,7 +4,7 @@ SOCIETE COOPERATIVE ET PARTICIPATIVE
 
 A RESPONSABILITE LIMITEE, A CAPITAL VARIABLE
 
-SIEGE : 226 rue de Tolbiac, 75013 Paris
+SIEGE : 12 rue de l'Amiral Mouchez, 75014 Paris
 
 # STATUTS
 
@@ -13,7 +13,7 @@ SIEGE : 226 rue de Tolbiac, 75013 Paris
 
 **LES SOUSSIGNES**
 
--   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au 226 rue de Tolbiac, 75013 Paris
+-   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au 12 rue de l'Amiral Mouchez, 75014 Paris
 
 -   M. LE METAYER Jean-Baptiste, né le 30/01/1986 à Levallois Perret (92) , domicilié au 4 rue Henri Coudert, 95600 Eaubonne
 
@@ -136,7 +136,7 @@ participation ou au soutien d'autres coopératives de production.
 
 ### Article 5 - Siège social
 
-Le Siège social est fixé à 226 rue de Tolbiac, 75013 Paris.
+Le siège social est fixé au 12 rue de l'Amiral Mouchez, 75014 Paris.
 
 Il peut être transféré dans le même département ou dans un département
 limitrophe par décision du gérant, sous réserve de ratification par
@@ -157,7 +157,7 @@ réparties entre les associés en proportion de leurs apports.
 Les soussignés, dont les noms suivent, apportent à la Société :
 
 -   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au
-    226 rue de Tolbiac, 75013 Paris, apporte à la société 576 € (cinq
+    5 rue de l'Amiral Mouchez, 75014 Paris, apporte à la société 576 € (cinq
     cent soixante-seize euros) représentés par 24 parts sociales
 
 -   M. LE METAYER Jean-Baptiste, né le 30/01/1986 à Levallois
@@ -1191,7 +1191,7 @@ bénéfices, et au plus tard dans le délai de cinq ans.
 
 \newpage
 
-Fait à Paris, le 30/03/2015
+Fait à Paris, le 10/01/2017
 
 En autant d'exemplaires que requis par la loi :
 
