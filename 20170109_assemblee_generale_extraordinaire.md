@@ -1,4 +1,3 @@
-
 **24ème**
 
 SCOP SARL à capital variable
@@ -9,13 +8,9 @@ RCS N° 810 720 557 PARIS
 
 # Procès-verbal de l'assemblée générale extraordinaire du 09 janvier 2017
 
-L'an deux mille dix-sept, le neuf Janvier à seize heures, les associés
-de la société 24ème, société coopérative et participative, à
-responsabilité limitée, à capital variable, se sont réunis au siège
-social sur convocation régulière de la gérance.
+L'an deux mille dix-sept, le neuf Janvier à seize heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance.
 
-Tel qu’il en est justifié par la feuille de présence annexée au présent
-procès-verbal :
+Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
 
 Sont présents :
 
