@@ -1,6 +1,6 @@
 # Administratifs du 24ème
 
-Activité administrative de la société 24ème.
+Activité administrative de la société 24ème
 
 ## Mise à disposition des documents
 
