@@ -12,7 +12,7 @@ statuts_24eme.pdf: statuts_24eme.md
 	pandoc -V geometry:"top=0.6cm, bottom=1.5cm, left=1cm, right=1cm" -H inc/statuts_header.tex -t latex -o $@ $^
 
 %.pdf: %.md
-	pandoc -V geometry:"top=0.6cm, bottom=1.5cm, left=1cm, right=1cm" -t latex -o $@ $^
+	pandoc -V geometry:"top=0.6cm, bottom=1.5cm, left=1cm, right=1cm" -H inc/header.tex -t latex -o $@ $^
 
 clean:
 	rm -f ${TARGETS}
