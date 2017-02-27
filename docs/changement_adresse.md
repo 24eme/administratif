@@ -83,7 +83,7 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
 
 La procédure est décrite sur cette page : https://www.service-public.fr/professionnels-entreprises/vosdroits/F31479
 
-Envoyer à l'attention de la CCI de PARIS, 2 place de la Bourse, 75002 PARIS :
+Envoyer à : CCI de PARIS, 2 place de la Bourse, 75002 PARIS :
 
 * un exemplaire de l'acte ayant décidé le transfert du siège social, certifié conforme par le représentant légal,
 * un exemplaire des statuts mis à jour, daté et certifié conforme à l'original par le représentant légal,
@@ -94,7 +94,7 @@ Envoyer à l'attention de la CCI de PARIS, 2 place de la Bourse, 75002 PARIS :
 
 Le tarif est valable :
 * si pas de changement de déépartement
-* si un associé unique n'assume pas personnellement la direction de la société)
+* si un associé unique n'assume pas personnellement la direction de la société
 
 Il correspond à la ligne dans la catégorie RCS - Personnes Morales : "Avec avis au BODACC et dépôt d'acte (sauf changement de forme : voir ci-après)"
 
