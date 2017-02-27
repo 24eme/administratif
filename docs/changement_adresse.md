@@ -23,6 +23,9 @@ Elle doit contenir les deux résolutions suivantes :
 
     Le reste de l'article demeure sans changement.
 
+Voici la dernière assemblée générale extraordinaire de changement d'adresse : [Assemblée générale extraordinaire du 9 janvier 2017](https://github.com/24eme/administratif/blob/master/20170109_assemblee_generale_extraordinaire.md)
+
+
 ### 2. Publier le changement d'adresse dans un journal d'annonces légales
 
 Par exemple dans l'itinérant : https://www.litinerant.fr/forms/transfert-siege.html
