@@ -104,3 +104,12 @@ Il correspond à la ligne dans la catégorie RCS - Personnes Morales : "Avec avi
 La liste des tarifs est consultables sur cette page : https://www.infogreffe.fr/documents-officiels/infogreffe-gratuit.html
 
 Pour accélerer la demande il est conseillé de rappeler la CCI au bout de 2 semaines et demi, le mardi après-midi ou le jeudi après-midi.
+
+## Liste des organismes auprès de qui éffectuer le changement d'adresse pour le 24ème
+
+* Crédit mutuel (KBIS)
+* Online
+* CIAMT
+* April
+
+(Liste encore à compléter)
