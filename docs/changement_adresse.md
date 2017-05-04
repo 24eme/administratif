@@ -86,11 +86,11 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
 
 La procédure est décrite sur cette page : https://www.service-public.fr/professionnels-entreprises/vosdroits/F31479
 
-Envoyer à : CCI de PARIS, 2 place de la Bourse, 75002 PARIS :
+Le plus efficace est de le déposer directement à la CCIP (2 Rue de Viarmes, 75001 Paris), sinon il peut être envoyer à l'adresse suivante : CCI de PARIS, 9 Rue Coquillière, 75001 Paris
 
 * un exemplaire de l'acte ayant décidé le transfert du siège social, certifié conforme par le représentant légal,
 * un exemplaire des statuts mis à jour, daté et certifié conforme à l'original par le représentant légal,
-* Le formulaire M2
+* 2 exemplaires du formulaire M2
 * un justificatif de jouissance des nouveaux locaux : titre de propriété, contrat de bail, factures d'électricité...
 * L'attestation de parution ou de l'avis paru dans un journal d'annonces légales
 * Un chèque de 198,64 € à l'odre du "Tribunal du Commerce"
