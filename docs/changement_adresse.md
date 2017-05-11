@@ -77,7 +77,7 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
     * **Nom de naissance** : *Nom du gérant*
     * **Nom du d'usage** : *Nom du gérant*
     * **Prénom** : *Prénom du gérant*
-    * **Né(e) le ** : *Date de naissance du gérant* à *Ville de naissance du gérant*
+    * **Né(e) le** : *Date de naissance du gérant* **à** *Ville de naissance du gérant*
     * **Nationalité** : *Nationalité du gérant*
     * **Domicile** : *Nouvelle adresse*
     * **Code postal** : *Nouveau code postal*
