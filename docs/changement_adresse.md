@@ -53,14 +53,14 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
     * [x] **TRANSFERT**
 * Cadre 12 :
     * **Date** : *Date de l'AGE*
-    * **POUR UN TRANSFERT** : [x] **Siège**
+    * **POUR UN TRANSFERT** : [x] **Siège-Établissement principal**
     * Pour un transfert : [x] Fermé
     * **Adresse** : *Ancienne adresse*
     * **Code postal** : *Ancien code postal*
     * **Commune** : *Ancienne commune*
 * Cadre 13 :
     * **Date** : *Date de l'AGE*
-    * **L'Établissement devient** : [x] **Siège**
+    * **L'Établissement devient** : [x] **Siège-Établissement principal**
     * **Adresse** : *Nouvelle adresse*
     * **Code postal** : *Nouveau code postal*
     * **Commune** : *Nouvelle commune*
@@ -72,6 +72,16 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
     * **EFFECTIF SALARIE de l’établissement créé** : *Nombre de salarié*
     * **Date d’embauche du 1 er salarié** : 21/12/2015
     * **Effectif salarié de l’entreprise** : 3
+* Cadres 19 :
+    * **Qualité** : *Co-gérant*
+    * **Nom de naissance** : *Nom du gérant*
+    * **Nom du d'usage** : *Nom du gérant*
+    * **Prénom** : *Prénom du gérant*
+    * **Né(e) le ** : *Date de naissance du gérant* à *Ville de naissance du gérant*
+    * **Nationalité** : *Nationalité du gérant*
+    * **Domicile** : *Nouvelle adresse*
+    * **Code postal** : *Nouveau code postal*
+    * **Commune** : *Nouvelle commune*
 * Cadre 22 :
     * **ADRESSE de correspondance** : [x] **Déclarée au cadre n°** 13
 * Cadre 23 :
