@@ -8,6 +8,7 @@ Activité administrative de la société 24ème
 - [Assemblée générale ordinaire annuelle du 30 mars 2016](https://github.com/24eme/administratif/blob/master/20160330_assemblee_generale_ordinaire.md)
 - [Assemblée générale ordinaire annuelle du 23 novembre 2016](https://github.com/24eme/administratif/blob/master/20161123_assemblee_generale_ordinaire.md)
 - [Assemblée générale extraordinaire du 9 janvier 2017](https://github.com/24eme/administratif/blob/master/20170109_assemblee_generale_extraordinaire.md)
+- [Assemblée générale ordinaire annuelle du 30 mars 2017](https://github.com/24eme/administratif/blob/master/20170330_assemblee_generale_ordinaire.md)
 
 ## Procédures administratives
 

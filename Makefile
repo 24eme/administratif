@@ -1,4 +1,4 @@
-TARGETS=images/signature_gerant_1.jpg images/signature_gerant_2.jpg images/signature_gerant_3.jpg images/signature_lu_approuve_1.jpg images/signature_lu_approuve_2.jpg images/signature_lu_approuve_3.jpg images/paraphe.jpg statuts_24eme.pdf 20170109_assemblee_generale_extraordinaire.pdf 20161123_assemblee_generale_ordinaire.pdf 20160330_assemblee_generale_ordinaire.pdf
+TARGETS=images/signature_gerant_1.jpg images/signature_gerant_2.jpg images/signature_gerant_3.jpg images/signature_lu_approuve_1.jpg images/signature_lu_approuve_2.jpg images/signature_lu_approuve_3.jpg images/paraphe.jpg statuts_24eme.pdf 20170109_assemblee_generale_extraordinaire.pdf 20161123_assemblee_generale_ordinaire.pdf 20160330_assemblee_generale_ordinaire.pdf 20170330_assemblee_generale_ordinaire.pdf
 
 all: ${TARGETS}
 
