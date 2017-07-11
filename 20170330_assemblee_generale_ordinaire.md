@@ -40,8 +40,8 @@ Après discussion sur ce point, et plus personne ne demandant la parole, le Pré
 L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion du premier exercice social 2016/2017 ainsi qu'il suit :
 
 - 84% à la part travail affectée à la RSP ;
-- 15% à la réserve légale ;
-- 1% à la réserve statutaire dite fonds de développement ;
+- 0% à la réserve légale ;
+- 16% à la réserve statutaire dite fonds de développement ;
 - 0% en dividendes ;
 
 Cette résolution est adoptée à l'unanimité
