@@ -13,6 +13,7 @@ Activité administrative de la société 24ème
 ## Procédures administratives
 
 - [Changement d'adresse](https://github.com/24eme/administratif/blob/master/docs/changement_adresse.md)
+- [Publication des comptes](https://github.com/24eme/administratif/blob/master/docs/publication_comptes.md)
 
 ## Utilisation
 
