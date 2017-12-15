@@ -1,4 +1,4 @@
-# Condition Générales de vente
+# Conditions Générales de Vente
 
 ## Article 1 - Définitions
 
