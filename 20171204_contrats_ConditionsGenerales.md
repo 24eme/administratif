@@ -142,7 +142,7 @@ Le 24ÈME n'est pas responsable à quelque titre que ce soit pour les dommages i
 
 Toute action dirigée contre le CLIENT par un tiers constitue un préjudice indirect et, par conséquent, n'ouvre pas droit à réparation.
 
-Le 24ÈME garantit le CLIENT contre toute réclamation de tiers ayant pour fondement un droit de propriété intellectuelle auquel la réalisation de la Prestation du 24ÈME aurait porté atteinte.
+Le 24ÈME garantit le CLIENT contre toute réclamation de tiers ayant pour fondement le droit d'auteur, les droits voisins et les droits des producteurs de bases de données auquel la réalisation de la Prestation du 24ÈME aurait porté atteinte.
 
 ## Article 17 - Responsabilité du CLIENT
 
