@@ -1,4 +1,57 @@
-# Conditions Particulières
+% ![](images/logo.pdf "")
+% **Contrat de développement logiciel**
+% **Conditions Particulières**
+\rhead{ Conditions Particulières }
+
+**Entre les soussignés :**
+
+\ 
+
+\	la société **24ÈME**
+ 
+\	SARL Scop immatriculée au registre du commerce de Paris
+ 
+\	sous le numéro SIRET 810 720 557 00026
+
+\ 
+
+\	dont le siège social est situé au :
+
+\ 
+
+\	12 rue de l'Amiral Mouchez
+
+\	75014 Paris
+
+\ 
+
+\	ci-dessous dénommée **24ÈME** ou **le Prestataire**, d'une part,
+
+\ 
+
+**Et :**
+
+\ 
+
+\	le **XXX**
+
+\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
+
+\ 
+
+\	dont le siège social est situé au :
+
+\ 
+
+\	XXX rue XXXXXXXX
+
+\	XXXX XXXXX
+
+\ 
+
+\	ci-dessous dénommé **le CLIENT**, d'autre part.
+
+\newpage
 
 ## Article 1 - Objet de la Prestation
 
@@ -114,6 +167,8 @@ Les factures sont adressées à l'adresse du CLIENT.
 
 Les modalités d'application et de calcul des intérêts de retard sont fixés dans les «\ Conditions Générales de Vente\ ».
 
+\newpage
+
 # Annexes
 
 ## Conditions financières 
@@ -148,7 +203,7 @@ Les coûts journaliers des intervennants prenant part au projet :
 Le 24ÈME met à disposition du projet :
 
  - 1 Directeur technique : XXX
- - 3 Concepteurs / Développeur « full stack » : XXX
+ - 3 Concepteurs / Développeurs « full stack » : XXX
 
 ## Périmettre et découpage de la Prestation
 

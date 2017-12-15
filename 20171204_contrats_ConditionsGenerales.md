@@ -1,4 +1,57 @@
-# Conditions Générales de Vente
+% ![](images/logo.pdf "")
+% **Conditions Générales de Vente**
+\rhead{ Conditions Générales de Vente }
+
+**Entre les soussignés :**
+
+\ 
+
+\	\	\	la société **24ÈME**
+
+\	\	\	SARL Scop immatriculée au registre du commerce de Paris
+
+\	\	\	sous le numéro SIRET 810 720 557 00026
+
+\ 
+
+\	\	\	dont le siège social est situé au :
+
+\ 
+
+\	\	\	12 rue de l'Amiral Mouchez
+
+\	\	\	75014 Paris
+
+\ 
+
+\	\	\	ci-dessous dénommée **24ÈME** ou **le Prestataire**, d'une part,
+
+\ 
+
+**et :**
+
+\ 
+
+\	\	\	le **XXX**
+
+\	\	\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
+
+\ 
+
+\	\	\	dont le siège social est situé au :
+
+\ 
+
+\	\	\	XXX rue XXXXXXXX
+
+\	\	\	XXXX XXXXX
+
+\ 
+
+\	\	\	ci-dessous dénommé **le CLIENT**, d'autre part.
+
+\newpage
+
 
 ## Article 1 - Définitions
 
@@ -248,6 +301,30 @@ EN CAS D'AUTRES LITIGES, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE GRAN
 
 Les Parties élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec vis de réception.
 
+\ 
 
+\ 
 
-Fait à Paris, en deux exemplaires originaux.
+Fait en deux exemplaires originaux.
+
+\ 
+
+\ 
+
+Le 24ÈME                                                                                      Le CLIENT                                     
+--------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------
+Nom :                                                                                         Nom :                                                                                 
+\                                                                                             
+Prénom :                                                                                      Prénom :                                                                              
+\                                                                                             
+Qualité :                                                                                     Qualité :                                                                             
+\                                                                                             
+Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .   
+\                                                                                             
+Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature : 
+\                                                                                            
+\                                                                                           
+\                                                                                          
+\                                                                                         
+\                                                                                             
+\                                                                                                 
