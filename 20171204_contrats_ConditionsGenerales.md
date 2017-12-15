@@ -6,7 +6,7 @@ Au sens des présentes, chacune des expressions ci-dessous aura la signification
 
 **Contrat** : documents tels que définis à l'article 3 du présent document.
 
-**Dysfonctionnement** : Tout défaut des traitements faisant l'objet de la Prestation, reproductible les deux parties, indépendamment d'une mauvaise utilisation et toute non conformité aux accords pris lors des phases de Conception.
+**Dysfonctionnement** : Tout défaut des traitements faisant l'objet de la Prestation, reproductible par les deux parties, indépendamment d'une mauvaise utilisation et toute non conformité aux accords pris lors des phases de Conception.
 
 **Licence Open Source** : Licence logicielle autorisant le libre usage et la libre réutilisation de logiciel telle que définie par les «\ Debian Free Software Guidelines\ » dont une copie peut être obtenue depuis l'url http://debian.org/social_contract#guidelines
 
@@ -18,7 +18,7 @@ Au sens des présentes, chacune des expressions ci-dessous aura la signification
 
 Le présent contrat a pour objet la réalisation d'une Prestation qui a :
 
- - soit été définie avec précisions à l'article 1 des «\ Conditions partculières\ » attenantes à ce contrat.
+ - soit été définie avec précision à l'article 1 des «\ Conditions partculières\ » attenantes à ce contrat.
  - soit fait l'objet d'un «\ Devis\ » où est indiqué le nombre de jours commandé pour chaque corps de métier sollicité
 
  La Prestation peut être découpée en plusieurs lots numérotés et définis de manière unitaire.
@@ -38,7 +38,7 @@ Les documents contractuels constituant le Contrat, par ordre de priorité, sont 
 
 Les «\ Conditions particulières\ » définissent la durée de la Prestation.
 
-Il entre en vigueur à compter du commencement de la réalisation de la Prestation. Il s'achève à l'extinction de la Période de garantie.
+Le contrat entre en vigueur à compter du commencement de la réalisation de la Prestation. Il s'achève à l'extinction de la Période de garantie. Il ne serait excéder 18 mois.
 
 ## Article 5 - Collaboration
 
@@ -46,7 +46,7 @@ Les parties conviennent de collaborer étroitement dans le cadre de leurs relati
 
 En particulier, le CLIENT s'engage à maintenir une collaboration active et régulière en fournissant au 24ÈME l'ensemble des éléments nécessaires à la réalisation de la Prestation.
 
-En retour, le 24ÈME s'engage à tenir informer régulièrement le CLIENT de l'avancement des travaux et à lui mettre à disposition le fruits de ses travaux.
+En retour, le 24ÈME s'engage à tenir informer régulièrement le CLIENT de l'avancement des travaux et à lui mettre à disposition le fruit de ses travaux.
 
 ## Article 6 - Maîtrise d'ouvrage
 
@@ -65,7 +65,7 @@ Pour permettre au 24ÈME de mener à bien sa Prestation, le CLIENT veillera à :
  - mettre à disposition du 24ÈME tous les éléments nécessaires à la bonne connaissance des problématiques métiers, des utilisateurs et de l'environnement liés à la Prestation ;
  - mettre le 24ÈME en relation avec tous les membres de son personnel ou de ses fournisseurs susceptibles de lui fournir ces éléments ;
  - désigner un correspondant habilité à prendre ou transmettre rapidement les décisions nécessaires ;
- - mettre disposition toutes les données nécessaires à la réalisation de la Prestation dans un format dont les spécifications techniques sont publiques et sans restriction d'accès ni de mise en œuvre ;
+ - mettre à disposition toutes les données nécessaires à la réalisation de la Prestation dans un format dont les spécifications techniques sont publiques et sans restriction d'accès ni de mise en œuvre ;
  - mettre en place tous les moyens nécessaires pour que le 24ÈME puisse accomplir ses fonctions.
 
 Le 24ÈME détermine la composition de l'équipe nécessaire pour exécuter la Prestation qui fait l'objet du Contrat ou du Devis et en assure le contrôle et l'encadrement.
@@ -74,7 +74,7 @@ L'une ou l'autre des Parties peut demander la modification des prestations ou de
 
 ## Article 8 - Moyens humains mis en œuvre
 
-Le 24ÈME s'engage à faire exécuter les prestations par un personnel qualifié. Dans l'hypothèse ou pour une quelle que raison que ce soit, une personne en charge de l'exécution de la Prestation devenait indisponible, le 24ÈME s'engage à désigner le plus rapidement possible une personne à titre temporaire de compétence équivalente, et ce dans un délai maximum de vingt jours ouvrés suivant la survenance de cet évènement.
+Le 24ÈME s'engage à faire exécuter les prestations par un personnel qualifié. Dans l'hypothèse ou pour une quelque raison que ce soit, une personne en charge de l'exécution de la Prestation devenait indisponible, le 24ÈME s'engage à désigner le plus rapidement possible une personne à titre temporaire de compétence équivalente, et ce dans un délai maximum de vingt jours ouvrés suivant la survenance de cet évènement.
 
 Le 24ÈME garantit ses compétences techniques par, d'une part, le niveau de qualification et d'expérience vérifiable des personnes affectées à la réalisation de la Prestation et, d'autre part, par le support effectif à tous les niveaux de sa direction.
 
