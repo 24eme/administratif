@@ -61,25 +61,25 @@ Ce Contrat s'applique aux éléments listés en Annexes.
 
 ## Article 2 - Durée
 
-Le présent Contrat est conclu pour une durée maximale de 18 mois à compter de la signture du Contrat.
+Le présent Contrat est conclu pour une durée maximale de 18 mois à compter de la signature du Contrat.
 
 ## Article 3 - Organisation et suivi de la Prestation
 
-La Prestation est organisée en Lots. A défaut d'avoir défini un nombre de Lots, la Prestation est constituée d'un unique Lot.
+La Prestation est organisée en Lots. À défaut d'avoir défini un nombre de Lots, la Prestation est constituée d'un unique Lot.
 
 Les annexes des présentes «\ Conditions Particulières\ » décrivent les fonctionnalités de la Prestation qui seront développées pour chaque Lot ainsi que le nombre d'Itérations affectées à chaque Lot.
 
-Chaque Lot se découpe en trois temps : 
+Chaque Lot se découpe en trois temps :
 
  - la Période d'Itérations : durant cette période, le 24ÈME réalise les différentes fonctionnalités de la Prestation. Les fonctionnalités sont développées durant des Itérations. Le Comité de Sprint définit et valide les développements réalisées lors de chaque Itération.
- - la Période de Recette : durant cette période le 24ÈME et le CLIENT travaillent ensemble, au sein d'un Comité de recette, pour identifier et corriger les Dyfonctionnements afin que la Prestation puisse être mise en production.
- - la Période de Garantie : durant cette période, le 24ÈME corrige les Dyfonctionnements identifiés.
+ - la Période de Recette : durant cette période le 24ÈME et le CLIENT travaillent ensemble, au sein d'un Comité de recette, pour identifier et corriger les Dysfonctionnements afin que la Prestation puisse être mise en production.
+ - la Période de Garantie : durant cette période, le 24ÈME corrige les Dysfonctionnements identifiés.
 
 ## Article 4 - Comité de Sprint
 
-Au début chaque Itération, le Comité de Sprint se réunit pour définir les objetifs de l'Itération, c'est à dire les éléments à réaliser et les modifications à apporter à ce qui a déjà été réalisé. Les objectifs de l'Itération prennent en compte les besoins perçus du CLIENT, les contraintes techniques et les ressources affectées à l'Itération.
+Au début chaque Itération, le Comité de Sprint se réunit pour définir les objectifs de l'Itération, c’est-à-dire les éléments à réaliser et les modifications à apporter à ce qui a déjà été réalisé. Les objectifs de l'Itération prennent en compte les besoins perçus du CLIENT, les contraintes techniques et les ressources affectées à l'Itération.
 
-A la fin de chaque Itération, le 24ÈME présente les développements réalisés durant l'Itération au Comité de Sprint qui controle si les réalisations sont conformes aux éléments définis en début d'Itération.
+À la fin de chaque Itération, le 24ÈME présente les développements réalisés durant l'Itération au Comité de Sprint qui contrôle si les réalisations sont conformes aux éléments définis en début d'Itération.
 
 Sont membres de droit du Comité de Sprint :
 
@@ -92,7 +92,7 @@ Le 24ÈME informe le Comité de Sprint de l'avancement du projet et du temps pas
 
 Les décisions du Comité de Sprint se prennent par consensus.
 
-A défaut de concensus, les représentants du 24ÈME choisissent une des options évoquées. Ils sont comptables de ce choix lors du prochain Comité de Sprint qui en valide la pertinence. Si le Comité de Sprint invalide le choix pris par le 24ÈME, le temps et les moyens mis en oeuvre pour sa réalisation ne sont pas comptabilisés.
+À défaut de consensus, les représentants du 24ÈME choisissent une des options évoquées. Ils sont comptables de ce choix lors du prochain Comité de Sprint qui en valide la pertinence. Si le Comité de Sprint invalide le choix pris par le 24ÈME, le temps et les moyens mis en œuvre pour sa réalisation ne sont pas comptabilisés.
 
 Le Comité de Sprint convoque le Comité de Recette lorsque le Lot a été réalisé.
 
@@ -104,17 +104,17 @@ Le Comité de Sprint se réunit chez l'une des deux Parties.
 
 Le Comité de recette est en charge de la vérification fonctionnelle, graphique, ergonomique et technique des développements réalisés. Il vérifie la conformité des développements avec les décisions prises lors des Comités de Sprint.
 
-Le Comité de Recette se réunit durant le temps affecté par le Comité de Sprint pour identifier et corriger les Dysfonctionnements empechant la mise en production du Lot concerné.
+Le Comité de Recette se réunit durant le temps affecté par le Comité de Sprint pour identifier et corriger les Dysfonctionnements empêchant la mise en production du Lot concerné.
 
 Le Comité se réunit chez l'une des deux Parties.
 
-A l'issu du Comité de Recette, le 24ÈME corrige les Dysfonctionnements qui n'ont pas été corrigés pendant la tenue du Comité.
+À l'issu du Comité de Recette, le 24ÈME corrige les Dysfonctionnements qui n'ont pas été corrigés pendant la tenue du Comité.
 
 Une fois que tous les Dysfonctionnements identifiés par le Comité sont corrigés, le 24ÈME met en production le Lot concerné.
 
 ## Article 6 - Comité de Direction
 
-Le Comité de Direction est en charge d'arbitrer les différents qui n'auraient pas pu être résolus par les Comités de Sprint et de Recette.
+Le Comité de Direction est en charge d'arbitrer les différends qui n'auraient pas pu être résolus par les Comités de Sprint et de Recette.
 
 Il est composé de :
 
@@ -133,21 +133,21 @@ Pour convoquer valablement le Comité de Direction, le demandeur doit proposer u
 
 Il se réunit chez l'une des deux Parties.
 
-## Article 7 - Moyens mis en oeuvre
+## Article 7 - Moyens mis en œuvre
 
-Les moyens humains mis en oeuvre par le 24ÈME dans le cadre de la Prestation sont détaillés en Annexes des présentes «\ Conditions Particulières\ ».
+Les moyens humains mis en œuvre par le 24ÈME dans le cadre de la Prestation sont détaillés en Annexes des présentes «\ Conditions Particulières\ ».
 
 Le 24ÈME déclare disposer de tous les moyens matériels et logiciels nécessaire pour réaliser la Prestation.
 
 ## Article 8 - Lieu de réalisation de la Prestation
 
-La Prestation sera réalisée enssentiellement dans les lieux et locaux du 24ÈME.
+La Prestation sera réalisée essentiellement dans les lieux et locaux du 24ÈME.
 
 ## Article 9 - Conditions financières
 
-Le budget fixé dans le cadre du Contrat est présentés en Annexe des présentes  «\ Conditions Particulières\ ».
+Le budget fixé dans le cadre du Contrat est présenté en Annexe des présentes  «\ Conditions Particulières\ ».
 
-Le calcul du coût se base sur le temps passé et sur le coût journalier des intervenants en fonction de leurs compétences, sur la base d'une estimation réalisée à partir des éléments fournis par le CLIENT et des discussions successices.
+Le calcul du coût se base sur le temps passé et sur le coût journalier des intervenants en fonction de leurs compétences, sur la base d'une estimation réalisée à partir des éléments fournis par le CLIENT et des discussions successives.
 
 Le budget peut être revu après accord des deux parties. Les coûts journaliers des intervenants présentés en Annexes des présentes «\ Conditions Particulières\ » sont alors pris en compte pour établir les évolutions du budget.
 
@@ -159,7 +159,7 @@ Chaque Lot fait l'objet des échéances de règlement suivants :
  - 30% facturés lors de la 3ème réunion du Comité de Sprint ou lors de la tenue du Comité de Recette ;
  - 30% facturés à la mise en production de l'ensemble des fonctionnalités du Lot.
 
-Les montants associés à chaque échéance de règlement sont définies en Annexe des présentes «\ Conditions Particulières\ ».
+Les montants associés à chaque échéance de règlement sont définis en Annexe des présentes «\ Conditions Particulières\ ».
 
 Les factures présentées par le 24ÈME sont réglés par le CLIENT sous 30 jours par virement ou chèque bancaire.
 
@@ -171,7 +171,7 @@ Les modalités d'application et de calcul des intérêts de retard sont fixés d
 
 # Annexes
 
-## Conditions financières 
+## Conditions financières
 
 En contrepartie de la Prestation définie au présent Contrat, le CLIENT s'engage à régler au 24ÈME la somme de XX XXX,XX € HT.
 
@@ -182,7 +182,7 @@ La Prestation est découpée en XXX Lots :
 
 ## Montants liés aux échéances de règlement
 
-Pour le Lot 1, les montants associés à chaque échéance sont 
+Pour le Lot 1, les montants associés à chaque échéance sont
 
  - X XXX,XX € HT facturés à la commande ;
  - X XXX,XX € HT facturés lors de la 3ème réunion du Comité de Sprint ou lors de la tenue du Comité de Recette ;
@@ -192,7 +192,7 @@ XXX
 
 ## Coût journaliers des intervenants
 
-Les coûts journaliers des intervennants prenant part au projet :
+Les coûts journaliers des intervenants prenant part au projet :
 
  - Directeur technique : XXX,XX € HT
  - Concepteur : XXX,XX € HT
@@ -205,6 +205,6 @@ Le 24ÈME met à disposition du projet :
  - 1 Directeur technique : XXX
  - 3 Concepteurs / Développeurs « full stack » : XXX
 
-## Périmettre et découpage de la Prestation
+## Périmètre et découpage de la Prestation
 
 XXXX
