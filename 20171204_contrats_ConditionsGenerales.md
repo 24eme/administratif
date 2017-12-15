@@ -2,11 +2,11 @@
 
 ## Article 1 - Définitions
 
-Au sens des présentes, chacune des expressions ci-dessous aura la signification donnée dans sa défintion, à savoir :
+Au sens des présentes, chacune des expressions ci-dessous aura la signification donnée dans sa définition, à savoir :
 
 **Contrat** : documents tels que définis à l'article 3 du présent document.
 
-**Dysfonctionnement** : Tout défaut des traitements faisant l'objet de la Prestation, reproductible par les deux parties, indépendamment d'une mauvaise utilisation et toute non conformité aux accords pris lors des phases de Conception.
+**Dysfonctionnement** : Tout défaut des traitements faisant l'objet de la Prestation, reproductible par les deux parties, indépendamment d'une mauvaise utilisation et toute non-conformité aux accords pris lors des phases de Conception.
 
 **Licence Open Source** : Licence logicielle autorisant le libre usage et la libre réutilisation de logiciel telle que définie par les «\ Debian Free Software Guidelines\ » dont une copie peut être obtenue depuis l'url http://debian.org/social_contract#guidelines
 
@@ -18,12 +18,12 @@ Au sens des présentes, chacune des expressions ci-dessous aura la signification
 
 Le présent contrat a pour objet la réalisation d'une Prestation qui a :
 
- - soit été définie avec précision à l'article 1 des «\ Conditions partculières\ » attenantes à ce contrat.
- - soit fait l'objet d'un «\ Devis\ » où est indiqué le nombre de jours commandé pour chaque corps de métier sollicité
+ - soit été définie avec précision à l'article 1 des «\ Conditions particulières\ » attenantes à ce contrat.
+ - soit fait l'objet d'un «\ Devis\ » où est indiqué le nombre de jours commandé pour chaque corps de métier sollicité.
 
- La Prestation peut être découpée en plusieurs lots numérotés et définis de manière unitaire.
+La Prestation peut être découpée en plusieurs lots numérotés et définis de manière unitaire.
 
-Le 24ÈME garantit au CLIENT qu'il a la pleine et entière capacité de conclure et d'exécuter le Contrat et lui garantit qu'à la date de signature des présentes, elle n'est soumise à aucun engagement qui serait en conflit avec les dispositions du contrat.
+Le 24ÈME garantit au CLIENT qu'il a la pleine et entière capacité de conclure et d'exécuter le Contrat et lui garantit qu'à la date de signature des présentes, il n'est soumis à aucun engagement qui serait en conflit avec les dispositions du Contrat.
 
 ## Article 3 - Documents contractuels
 
@@ -62,7 +62,7 @@ Le 24ÈME fournira les services relatifs à la Prestation tels que définis dans
 
 Pour permettre au 24ÈME de mener à bien sa Prestation, le CLIENT veillera à :
 
- - mettre à disposition du 24ÈME tous les éléments nécessaires à la bonne connaissance des problématiques métiers, des utilisateurs et de l'environnement liés à la Prestation ;
+ - mettre à disposition du 24ÈME tous les éléments nécessaires à la bonne connaissance des problématiques métiers, des utilisateurs et de l'environnement lié à la Prestation ;
  - mettre le 24ÈME en relation avec tous les membres de son personnel ou de ses fournisseurs susceptibles de lui fournir ces éléments ;
  - désigner un correspondant habilité à prendre ou transmettre rapidement les décisions nécessaires ;
  - mettre à disposition toutes les données nécessaires à la réalisation de la Prestation dans un format dont les spécifications techniques sont publiques et sans restriction d'accès ni de mise en œuvre ;
@@ -74,7 +74,7 @@ L'une ou l'autre des Parties peut demander la modification des prestations ou de
 
 ## Article 8 - Moyens humains mis en œuvre
 
-Le 24ÈME s'engage à faire exécuter les prestations par un personnel qualifié. Dans l'hypothèse ou pour une quelque raison que ce soit, une personne en charge de l'exécution de la Prestation devenait indisponible, le 24ÈME s'engage à désigner le plus rapidement possible une personne à titre temporaire de compétence équivalente, et ce dans un délai maximum de vingt jours ouvrés suivant la survenance de cet évènement.
+Le 24ÈME s'engage à faire exécuter les prestations par un personnel qualifié. Dans l'hypothèse où pour une quelque raison que ce soit, une personne en charge de l'exécution de la Prestation devenait indisponible, le 24ÈME s'engage à désigner le plus rapidement possible une personne à titre temporaire de compétence équivalente, et ce dans un délai maximum de vingt jours ouvrés suivant la survenance de cet évènement.
 
 Le 24ÈME garantit ses compétences techniques par, d'une part, le niveau de qualification et d'expérience vérifiable des personnes affectées à la réalisation de la Prestation et, d'autre part, par le support effectif à tous les niveaux de sa direction.
 
@@ -87,11 +87,11 @@ Le CLIENT s'engage à faire participer aux réunions de Conception de la Prestat
 
 ## Article 9 - Moyens matériels mis en œuvre
 
-Le 24ÈME dotera son personnel de tous les moyens matériels nécessaires à la réalisation de l'objet de la Prestation. Tous les sous-traitants, qu'il soit sous la forme d'entreprises ou d'indépendants en profession libérale dispose également de leur propre métériel.
+Le 24ÈME dotera son personnel de tous les moyens matériels nécessaires à la réalisation de l'objet de la Prestation. Tous les sous-traitants, qu'il soit sous la forme d'entreprises ou d'indépendants en profession libérale dispose également de leur propre matériel.
 
 Le CLIENT ne pourra imposer au 24ÈME le recours à des moyens logiciels disponibles sous d'autres licences que des Licences Open Source.
 
-Si l'objet du contrat y contraint, la prestation pourra toutefois être réalisée en tout ou parties avec des moyens et matériels propriété du CLIENT. Leur désignation et les conditions d'utilisation sont alors définies dans les «\ Conditions particulières\ ». Cette condition est en particulier valable dans le cas où le 24ÈME doit reproduire des environnements stricto identiques à l'environnement de production. Dans ce cas, les coût induits seront imputés au CLIENT directement ou refacturés. Ces acquisitions nécessiteront néanmoins la signature d'un Devis ou d'un Avenant accepté par le CLIENT.
+Si l'objet du contrat y contraint, la prestation pourra toutefois être réalisée en tout ou parties avec des moyens et matériels propriété du CLIENT. Leur désignation et les conditions d'utilisation sont alors définies dans les «\ Conditions particulières\ ». Cette condition est en particulier valable dans le cas où le 24ÈME doit reproduire des environnements stricto identiques à l'environnement de production. Dans ce cas, les coûts induits seront imputés au CLIENT directement ou refacturés. Ces acquisitions nécessiteront néanmoins la signature d'un Devis ou d'un Avenant accepté par le CLIENT.
 
 ## Article 10 - Lieu de réalisation de la Prestation
 
@@ -99,7 +99,7 @@ Les lieux et locaux où la Prestation sont réalisés sont désignés dans les �
 
 ## Article 11 - Horaires, prévention et sécurité
 
-Les horaires de travail des personnes affectuées seront compris dans ceux pratiqués par le CLIENT, sauf convention contraire.
+Les horaires de travail des personnes affectées seront compris dans ceux pratiqués par le CLIENT, sauf convention contraire.
 
 L'exécution des prestations dans les locaux ou dépendances du CLIENT, au titre du présent Contrat, implique pour le 24ÈME de s'engager à respecter les conditions d'hygiène et de sécurité fixées par le Code du travail.
 
@@ -111,9 +111,9 @@ Le CLIENT informera le 24ÈME de tout accident de travail survenu dans ses locau
 
 Le CLIENT :
 
- - s'oblige à apporter une collaboration active et régulière au 24ÈME dans a réalisation de la Prestation et à désigner un responsable pour l'ensemble du projet visé au présent Contrat ;
- - s'oblige à informer le 24ÈME des nouveaux prestataires que le CLIENT souhaite faire participer au projet afin que le 24ÈME puisse réaliser de manière optimale ses missions ;
- - s'engage à mettre le 24ÈME en relation avec son personnel qualifié ou celui de ses prestataires selon les besoins communiqués par le 24ÈME pour lui permettre d'exécuter ses obligations telles qu'elles résultent du présent Contrat ;
+ - s'oblige à apporter une collaboration active et régulière au 24ÈME dans sa réalisation de la Prestation et à désigner un responsable pour l'ensemble du projet visé au présent Contrat\ ;
+ - s'oblige à informer le 24ÈME des nouveaux prestataires que le CLIENT souhaite faire participer au projet afin que le 24ÈME puisse réaliser de manière optimale ses missions\ ;
+ - s'engage à mettre le 24ÈME en relation avec son personnel qualifié ou celui de ses prestataires selon les besoins communiqués par le 24ÈME pour lui permettre d'exécuter ses obligations telles qu'elles résultent du présent Contrat\ ;
  - s'engage à fournir l'ensemble des éléments nécessaires à la réalisation de la Prestation.
 
 ## Article 13 - Conditions financières
@@ -132,9 +132,9 @@ Lorsque la Prestation nécessite des déplacements des intervenants du 24ÈME en
 
 ## Article 15 - Intérêts de retard
 
-Tout retard de paiement de la part du CLIENT pourra entraîner automatiquement, et après mise en demeure par le 24ÈME restée inopérante pendant un délais de quinze jours, l'application d'intérêts de retard au taux légal en vigueur au jour de la mise en demeure.
+Tout retard de paiement de la part du CLIENT pourra entraîner automatiquement, et après mise en demeure par le 24ÈME restée inopérante pendant un délai de quinze jours, l'application d'intérêts de retard au taux légal en vigueur au jour de la mise en demeure.
 
-## Article 16 - Reponsabilité du 24ÈME
+## Article 16 - Responsabilité du 24ÈME
 
 Les Parties conviennent expressément que le 24ÈME est soumis à une obligation de moyens au titre des présentes.
 
@@ -146,13 +146,13 @@ Le 24ÈME garantit le CLIENT contre toute réclamation de tiers ayant pour fonde
 
 ## Article 17 - Responsabilité du CLIENT
 
-Le CLIENT assume la responsabilité éditoriale liée à la Prestation. et est donc seul responsable des contenus et informations mises à disposition via des services de communications électroniques.
+Le CLIENT assume la responsabilité éditoriale liée à la Prestation, et est donc seul responsable des contenus et informations mises à disposition via des services de communications électroniques.
 
-De même, le CLIENT assume la responsabilité relatives aux obligations liées aux traitements et à la conservation de données à caractère personnel.
+De même, le CLIENT assume la responsabilité relative aux obligations liées aux traitements et à la conservation de données à caractère personnel.
 
-En conséquence, le CLIENT s'engage à faire son affaire personnelle de toute réclaramation et/ou procédure, quelque qu'en soient les formes et nature, formulée contre le 24ÈME, et qui se rattacherait directement ou indirectement aux informations mises en ligne, aux traitements de données à caractère personnel ou leur conservation dans le cadre la Prestation.
+En conséquence, le CLIENT s'engage à faire son affaire personnelle de toute réclamation et/ou procédure, quelque qu'en soient les formes et nature, formulée contre le 24ÈME, et qui se rattacherait directement ou indirectement aux informations mises en ligne, aux traitements de données à caractère personnel ou leur conservation dans le cadre la Prestation.
 
-A cet effet, le CLIENT s'engage notamment à régler directement à l'auteur des réclamation toutes sommes que celui-ci exigerait du 24ÈME.
+A cet effet, le CLIENT s'engage notamment à régler directement à l'auteur des réclamations toutes sommes que celui-ci exigerait du 24ÈME.
 
 Ces engagements continueront pendant une durée de deux ans après l'expiration du Contrat.
 
@@ -164,9 +164,9 @@ Chacune des Parties s'engage à régler toutes les primes afin que l'autre Parti
 
 ## Article 19 - Force majeure
 
-De manière expresse, sont considées comme cas de force majeure ou cas fortuits outre ceux habituellement retenus par la jurisprudence des cours et tribunaux français : grèves totales ou partielles, internes ou externes à l'entreprise, lock-out,  intempéries, épidémies, blocages des moyens de transport ou d'approvisionnement pour quelque raison que ce soit, tremblements de terre, incendies, tempêtes, inondations, dégâts des eaux, restrictions gouvernementales ou légales, modifications légales ou réglementaires des formes de commercialisation, blocage total ou partiel des moyens de télécommunications ou de communication, y compris les réseaux, et tout autre cas indépendant de la volonté expresse de Parties et empêchant l'exécution normal du présent Contrat.
+De manière expresse, sont considérées comme cas de force majeure ou cas fortuits outre ceux habituellement retenus par la jurisprudence des cours et tribunaux français : grèves totales ou partielles, internes ou externes à l'entreprise, lock-out,  intempéries, épidémies, blocages des moyens de transport ou d'approvisionnement pour quelque raison que ce soit, tremblements de terre, incendies, tempêtes, inondations, dégâts des eaux, restrictions gouvernementales ou légales, modifications légales ou réglementaires des formes de commercialisation, blocage total ou partiel des moyens de télécommunications ou de communication, y compris les réseaux, et tout autre cas indépendant de la volonté expresse des Parties et empêchant l'exécution normal du présent Contrat.
 
-La Partie victime d'un cas de force majeure en informe l'autre Partie dans un délais de 5 jours ouvrables.
+La Partie victime d'un cas de force majeure en informe l'autre Partie dans un délai de 5 jours ouvrables.
 
 La survenance d'un cas de force majeure suspendra, dans un premier temps, de plein droit, l'exécution du présent Contrat.
 
@@ -174,11 +174,11 @@ Si au-delà d'une période de trois mois, les Parties constatent la persistance 
 
 ## Article 20 - Confidentialité
 
-Le CLIENT et le 24ÈME s'informent mutuellement sur le degré de confidentialité des informations partagées. Par défaut, elles s'interdisent de divulguer à l'exértieur les données, documents, méthodes, outils dont il pourront avoir connaissance à l'occasion de l'exécution du Contrat.
+Le CLIENT et le 24ÈME s'informent mutuellement sur le degré de confidentialité des informations partagées. Par défaut, elles s'interdisent de divulguer à l'extérieur les données, documents, méthodes, outils dont ils pourront avoir connaissance à l'occasion de l'exécution du Contrat.
 
 Chacune des Parties s'engage à faire respecter ces obligations par ses employés, société mère, filiales, sous-traitants et maîtres d’œuvre éventuels.
 
-L'obligation de confidentialité continuera pendant une durée de deux ans après l'expiration du Contrat. A l'issue de ce délais, les Parties détruisent les documents et données confidentielles.
+L'obligation de confidentialité continuera pendant une durée de deux ans après l'expiration du Contrat. À l'issue de ce délai, les Parties détruisent les documents et données confidentielles.
 
 Cependant, les Parties ne sauraient être tenues responsables d'aucune divulgation si :
 
@@ -190,15 +190,15 @@ Cependant, les Parties ne sauraient être tenues responsables d'aucune divulgati
  - la communication desdits éléments est nécessaire à la bonne réalisation de la Prestation ;
  - les éléments ont été transmis en dehors des systèmes de communication électronique dont la sécurité a été validée par le 24ÈME et le CLIENT.
 
- Toutefois, les Parties pourront, l'une et l'autre, s'accorder par voie expresse, mail, fax ou courrier, l'autorisation de communiquer certaines informations, documents ou références si une demande est effectuée par l'une ou l'autre des parties, dans ce sens.
+Toutefois, les Parties pourront, l'une et l'autre, s'accorder par voie expresse, mail, fax ou courrier, l'autorisation de communiquer certaines informations, documents ou références si une demande est effectuée par l'une ou l'autre des parties, dans ce sens.
 
-## Article 21 - Propriété.
+## Article 21 - Propriété
 
 Le CLIENT demeure propriétaire des données et contenus de toutes natures fournis au 24ÈME dans le cadre de la Prestation.
 
 Le 24ÈME et le CLIENT partagent les droits d'auteurs et d'utilisation des logiciels, traitements et documents réalisés dans le cadre de la Prestation. Il est donc convenu que le CLIENT pourra faire héberger les logiciels faisant l'objet de la Prestation sur des serveurs non possédés par le 24ÈME.
 
-Les logiciels développés pour le CLIENT seront des logiciels utilisant des composants logiciels développés par le 24ÈME ou par des tiers sous Licence Open Source. Ces logiciels développés dans le cadre de la Prestation seront publié sous Licence AGPL. Cette licence implique la publication du code source du logiciel. Les éventuels tiers modifiant le code source de cette application seront tenus de les publier également sous cette même licence.
+Les logiciels développés pour le CLIENT seront des logiciels utilisant des composants logiciels développés par le 24ÈME ou par des tiers sous Licence Open Source. Ces logiciels développés dans le cadre de la Prestation seront publiés sous Licence AGPL. Cette licence implique la publication du code source du logiciel. Les éventuels tiers modifiant le code source de cette application seront tenus de les publier également sous cette même licence.
 
 Pour les développements s'appuyant sur des technologies diffusées sous Licences Open Source, le 24ÈME s'engage à reverser à la communauté les modifications réalisées de ces logiciels.
 
@@ -208,19 +208,21 @@ Les différents éléments constituant la Prestation qui sont réalisés par le 
 
 La maintenance sera effectuée à distance et, si la nature du problème le nécessite, sur le site d'hébergement des traitements faisant l'objet de la Prestation.
 
-Dans le cadre de cette garantie, le CLIENT s'interdit expressément de procéder à toute modification et/ou adpatation de toute ou partie des traitements faisant l'objet de la Prestation sans le consentement exprès et préalable du 24ÈME.
+Dans le cadre de cette garantie, le CLIENT s'interdit expressément de procéder à toute modification et/ou adaptation de toute ou partie des traitements faisant l'objet de la Prestation sans le consentement exprès et préalable du 24ÈME.
 
-Après l'échéance du terme de la période de garantie, le 24ÈME pourra intervenir pour corriger les éventuels Dysfonctionnements des traitements sur la base d'un contrat sépcifique, ou à défaut, selon les devis spécifiques établis par le 24ÈME selon la tarification annonée au CLIENT.
+Après l'échéance du terme de la période de garantie, le 24ÈME pourra intervenir pour corriger les éventuels Dysfonctionnements des traitements sur la base d'un contrat spécifique, ou à défaut, selon les devis spécifiques établis par le 24ÈME selon la tarification annoncée au CLIENT.
 
 ## Article 23 - Sous-traitance
 
 Le présent Contrat pourra faire l'objet d'une sous-traitance partielle par le 24ÈME.
 
+Le cas échéant, le CLIENT en est informé par le 24ÈME.
+
 ## Article 24 - Incessibilité
 
 Le présent Contrat ne pourra faire l'objet d'aucune cession ou transfert partiel ou total à titre gracieux ou onéreux, par l'une des parties sans l'accord écrit et préalable de l'autre Partie.
 
-A titre dérogatoire, chacune des Parties pourra, sous réserve d'en aviser préalablement l'autre Partie, librement céder et/ou transférer le bénévice du présent Contrat à tout tiers dont elle détient, directement ou indirectement, plus de 50% de son capital social ; ou dont le capital social est détenu à plus de 50% par une entité identique à celle qui détient plus de 50% de son capital social sous la condition que le tiers considéré ait expressément accepté par écrit l'ensemble des dispositions figurant au présent Contrat.
+A titre dérogatoire, chacune des Parties pourra, sous réserve d'en aviser préalablement l'autre Partie, librement céder et/ou transférer le bénéfice du présent Contrat à tout tiers dont elle détient, directement ou indirectement, plus de 50% de son capital social ; ou dont le capital social est détenu à plus de 50% par une entité identique à celle qui détient plus de 50% de son capital social sous la condition que le tiers considéré ait expressément accepté par écrit l'ensemble des dispositions figurant au présent Contrat.
 
 ## Article 25 - Publicité
 
@@ -230,22 +232,22 @@ Par ailleurs, le CLIENT autorise expressément le 24ÈME à faire figurer son no
 
 ## Article 26 - Dispositions générales
 
-Si une ou plusieurs stipulations du présent Contrat sont tenue pour non valides ou déclarées telles en application d'un loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et leur portée.
+Si une ou plusieurs stipulations du présent Contrat sont tenues pour non valides ou déclarées telles, en application d'une loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et leur portée.
 
-Le présent Contrat, ainsi que ses annexes, expriment l'intégralité des obligations des Partie. Aucune autre condition générale ou spécifique figurant dans les documents envoyés ou remis par les Parties ne pourrait s'intégrer au présent Contrat.
+Le présent Contrat, ainsi que ses annexes, expriment l'intégralité des obligations des Parties. Aucune autre condition générale ou spécifique figurant dans les documents envoyés ou remis par les Parties ne pourrait s'intégrer au présent Contrat.
 
-Le fait pour l'un des Parties de ne pas se prévaloir d'un manquement par l'autre Partie à l'une quelconque des obligations visées dans les présences, ne saurait être interprété pour l'avenir comme une rénonciation à l'obligation en cause.
+Le fait pour l'un des Parties de ne pas se prévaloir d'un manquement par l'autre Partie à l'une quelconque des obligations visées dans les présences, ne saurait être interprété pour l'avenir comme une renonciation à l'obligation en cause.
 
-En cas de difficultés d'interprétation entre l'un quelconque des titres figurant entête des clauses et l'une quelconque des clause, les titres seront déclarés inexistants.
+En cas de difficultés d'interprétation entre l'un quelconque des titres figurant entête des clauses et l'une quelconque des clauses, les titres seront déclarés inexistants.
 
-Le présent contrat est soumis à la loi français, tant pour les règles de forme que pour les règles de fond.
+Le présent contrat est soumis à la loi française, tant pour les règles de forme que pour les règles de fond.
 
-EN CAS DE LITIGE COMMERCIAL, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE COMMERCE DE PARIS, NONOBSTANT PLURALITÉ DE DÉFENDEURS OU APPEL EN GARANTIE, MÊME POUR LES PROCÉDURES D'URGENCE OU LES PROCÉDURES CONSERVATOIRES, EN RÉFÉRE OU SUR REQUÊTE.
+EN CAS DE LITIGE COMMERCIAL, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE COMMERCE DE PARIS, NONOBSTANT PLURALITÉ DE DÉFENDEURS OU APPEL EN GARANTIE, MÊME POUR LES PROCÉDURES D'URGENCE OU LES PROCÉDURES CONSERVATOIRES, EN RÉFÉRÉ OU SUR REQUÊTE.
 
-EN CAS D'AUTRES LITIGES, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE GRANDE INSTANCE DE PARIS, NONOBSTANT PLURALITÉ DE DÉRFENDEURS OU APPEL EN GARANTIE, MÊME POUR LES PROCÉDURES D'URGENCE OU LES PROCÉDURES CONSERVATOIRES, EN RÉFÉRE OU SUR REQUÊTE.
+EN CAS D'AUTRES LITIGES, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE GRANDE INSTANCE DE PARIS, NONOBSTANT PLURALITÉ DE DÉFENDEURS OU APPEL EN GARANTIE, MÊME POUR LES PROCÉDURES D'URGENCE OU LES PROCÉDURES CONSERVATOIRES, EN RÉFÉRÉ OU SUR REQUÊTE.
 
-Les Partie élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Partie devra être notifié sans délai à l'autre Partie par lettre recommandée avec vis de réception.
+Les Parties élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec vis de réception.
 
 
 
-Fait à Paris, en deux exemplaire originaux.
+Fait à Paris, en deux exemplaires originaux.
