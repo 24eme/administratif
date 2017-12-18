@@ -7,49 +7,49 @@
 
 \ 
 
-\	la société **24ÈME**
+\	\	\	la société **24ÈME**
  
-\	SARL Scop immatriculée au registre du commerce de Paris
+\	\	\	SARL Scop immatriculée au registre du commerce de Paris
  
-\	sous le numéro SIRET 810 720 557 00026
+\	\	\	sous le numéro SIRET 810 720 557 00026
 
 \ 
 
-\	dont le siège social est situé au :
+\	\	\	dont le siège social est situé au :
 
 \ 
 
-\	12 rue de l'Amiral Mouchez
+\	\	\	12 rue de l'Amiral Mouchez
 
-\	75014 Paris
-
-\ 
-
-\	ci-dessous dénommée **24ÈME** ou **le Prestataire**, d'une part,
+\	\	\	75014 Paris
 
 \ 
 
-**Et :**
+\	\	\	ci-dessous dénommée **24ÈME** ou **le Prestataire**, d'une part,
 
 \ 
 
-\	le **XXX**
-
-\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
+**et :**
 
 \ 
 
-\	dont le siège social est situé au :
+\	\	\	le **XXX**
+
+\	\	\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
 
 \ 
 
-\	XXX rue XXXXXXXX
-
-\	XXXX XXXXX
+\	\	\	dont le siège social est situé au :
 
 \ 
 
-\	ci-dessous dénommé **le CLIENT**, d'autre part.
+\	\	\	XXX rue XXXXXXXX
+
+_	\	\	XXXX XXXXX
+
+\ 
+
+\	\	\	ci-dessous dénommé **le CLIENT**, d'autre part.
 
 \newpage
 
@@ -166,6 +166,37 @@ Les factures présentées par le 24ÈME sont réglés par le CLIENT sous 30 jour
 Les factures sont adressées à l'adresse du CLIENT.
 
 Les modalités d'application et de calcul des intérêts de retard sont fixés dans les «\ Conditions Générales de Vente\ ».
+
+
+\ 
+
+\ 
+
+Fait en deux exemplaires originaux.
+
+\ 
+
+\ 
+
+
+
+Le 24ÈME                                                                                      Le CLIENT
+--------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------
+Nom :                                                                                         Nom :
+\ 
+Prénom :                                                                                      Prénom :
+\ 
+Qualité :                                                                                     Qualité :
+\ 
+Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .
+\ 
+Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature :
+\ 
+\ 
+\ 
+\ 
+\ 
+\ 
 
 \newpage
 

@@ -1,5 +1,6 @@
 % ![](images/logo.pdf "")
 % **Conditions Générales de Vente**
+% **Version 1.0**
 \rhead{ Conditions Générales de Vente }
 
 **Entre les soussignés :**
@@ -89,7 +90,7 @@ Les documents contractuels constituant le Contrat, par ordre de priorité, sont 
 
 ## Article 4 - Durée et entrée en vigueur
 
-Les «\ Conditions particulières\ » définissent la durée de la Prestation.
+Les «\ Conditions particulières\ » ou le Devis définissent la durée de la Prestation.
 
 Le contrat entre en vigueur à compter du commencement de la réalisation de la Prestation. Il s'achève à l'extinction de la Période de garantie. Il ne serait excéder 18 mois.
 
@@ -99,7 +100,7 @@ Les parties conviennent de collaborer étroitement dans le cadre de leurs relati
 
 En particulier, le CLIENT s'engage à maintenir une collaboration active et régulière en fournissant au 24ÈME l'ensemble des éléments nécessaires à la réalisation de la Prestation.
 
-En retour, le 24ÈME s'engage à tenir informer régulièrement le CLIENT de l'avancement des travaux et à lui mettre à disposition le fruit de ses travaux.
+En retour, le 24ÈME s'engage à tenir informé régulièrement le CLIENT de l'avancement des travaux et à lui mettre à disposition le fruit de ses travaux.
 
 ## Article 6 - Maîtrise d'ouvrage
 
@@ -211,7 +212,7 @@ Ces engagements continueront pendant une durée de deux ans après l'expiration 
 
 ## Article 18 - Assurance
 
-Chacune des Parties déclare être assurée auprès d'une compagne d'assurance notoirement solvable et établie en France pour toutes les conséquences dommageables des actes dont elle pourrait être tenue pour responsable en vertu du présent Contrat.
+Chacune des Parties déclare être assurée auprès d'une compagnie d'assurance notoirement solvable et établie en France pour toutes les conséquences dommageables des actes dont elle pourrait être tenue pour responsable en vertu du présent Contrat.
 
 Chacune des Parties s'engage à régler toutes les primes afin que l'autre Partie puisse faire valoir ses droits.
 
@@ -261,7 +262,7 @@ Les différents éléments constituant la Prestation qui sont réalisés par le 
 
 La maintenance sera effectuée à distance et, si la nature du problème le nécessite, sur le site d'hébergement des traitements faisant l'objet de la Prestation.
 
-Dans le cadre de cette garantie, le CLIENT s'interdit expressément de procéder à toute modification et/ou adaptation de toute ou partie des traitements faisant l'objet de la Prestation sans le consentement exprès et préalable du 24ÈME.
+Dans le cadre de cette garantie, le CLIENT s'interdit expressément de procéder à toute modification et/ou adaptation de toute ou partie des traitements faisant l'objet de la Prestation sans le consentement express et préalable du 24ÈME.
 
 Après l'échéance du terme de la période de garantie, le 24ÈME pourra intervenir pour corriger les éventuels Dysfonctionnements des traitements sur la base d'un contrat spécifique, ou à défaut, selon les devis spécifiques établis par le 24ÈME selon la tarification annoncée au CLIENT.
 
@@ -299,7 +300,7 @@ EN CAS DE LITIGE COMMERCIAL, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE 
 
 EN CAS D'AUTRES LITIGES, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE GRANDE INSTANCE DE PARIS, NONOBSTANT PLURALITÉ DE DÉFENDEURS OU APPEL EN GARANTIE, MÊME POUR LES PROCÉDURES D'URGENCE OU LES PROCÉDURES CONSERVATOIRES, EN RÉFÉRÉ OU SUR REQUÊTE.
 
-Les Parties élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec vis de réception.
+Les Parties élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec avis de réception.
 
 \ 
 
