@@ -92,7 +92,7 @@ Les documents contractuels constituant le Contrat, par ordre de priorité, sont 
 
 Les «\ Conditions particulières\ » ou le Devis définissent la durée de la Prestation.
 
-Le contrat entre en vigueur à compter du commencement de la réalisation de la Prestation. Il s'achève à l'extinction de la Période de garantie. Il ne serait excéder 18 mois.
+Le contrat entre en vigueur à compter du commencement de la réalisation de la Prestation. Il s'achève à l'extinction de la Période de garantie. Il ne saurait excéder 18 mois.
 
 ## Article 5 - Collaboration
 
@@ -323,9 +323,9 @@ Qualité :                                                                      
 Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .   
 \                                                                                             
 Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature : 
-\                                                                                            
-\                                                                                           
-\                                                                                          
 \                                                                                         
-\                                                                                             
-\                                                                                                 
+\                                                                                         
+\                                                                                         
+\                                                                                         
+\                                                                                         
+\                                                                                         

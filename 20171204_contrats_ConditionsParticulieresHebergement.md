@@ -1,6 +1,6 @@
 % ![](images/logo.pdf "")
-% **Conditions Particulières concernant des prestation d'hébergement
-% **Contrat n°2017121801**
+% **Conditions Particulières concernant des prestation d'hébergement**
+% **Contrat n°XXXXXXXXX**
 \rhead{ Conditions Particulières Hébergement }
 
 **Entre les soussignés :**
