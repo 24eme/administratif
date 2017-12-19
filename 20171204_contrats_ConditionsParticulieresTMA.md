@@ -1,5 +1,5 @@
 % ![](images/logo.pdf "")
-% **Condistion Particulières relatives à une Prestation de TMA**
+% **Conditions Particulières relatives à une Prestation de TMA**
 % **Contrat n° XXXXXXXX**
 \rhead{ Conditions Particulières - TMA }
 
@@ -9,7 +9,7 @@
 
 \	\	\	la société **24ÈME**
  
-\	\	\	SARL Scop immatriculée au registre du commerce de Paris
+\	\	\	ScopARL immatriculée au registre du commerce de Paris
  
 \	\	\	sous le numéro SIRET 810 720 557 00026
 
@@ -60,7 +60,7 @@ Le présent Contrat a pour objet la réalisation d’une Prestation de maintenan
  - la mise en place de correctifs ;
  - la modification des développements ;
  - le développement de nouveaux modules spécifiques ;
- - toute autre demande qui peut être traitée dans le cadre de la maintenance et acceptée comme telle.
+ - toutes autres demandes pouvant être traitées dans le cadre de la maintenance et acceptées comme telles.
 
 Cette TMA s’applique uniquement au projet de dématérialisation économique et ses services associés.
 
@@ -84,7 +84,7 @@ Le présent Contrat est tacitement reconduit tous les 6 mois pour une durée de 
 
 ## Article 5 - Résiliation
 
-En plus de Cas de force majeures tels que définit dans les «\ Conditions Générales de Vente\ », l'une des deux Parties peut résilier le présent Contrat en notifiant l'autre Partie dans un délais de trois mois avant la fin du Contrat par lettre recommandée avec avis de réception.
+En plus de Cas de force majeures tels que définis dans les «\ Conditions Générales de Vente\ », l'une des deux Parties peut résilier le présent Contrat en notifiant l'autre Partie dans un délais de trois mois avant la fin du Contrat par lettre recommandée avec avis de réception.
 
 ## Article 6 - Documents contractuels
 
@@ -114,15 +114,15 @@ Le 24ÈME s'engage à prendre en compte toutes les demandes correctives bloquant
 
 Pour les autres demandes, le CLIENT émet un souhait de délais de prise en compte et de réalisation. Le 24ÈME en tient compte dans la résolution du problème.
 
-La prise en compte d’une demande se traduit de manière effective par l’apport d’une réponse sous quelque forme que se soit avec une estimation de temps de correction du problème soulevé.
+La prise en compte d’une demande se traduit de manière effective par l’apport d’une réponse sous quelque forme que ce soit avec une estimation de temps de correction du problème soulevé.
 
-Le CLIENT valide les corresctions effectuées dans le cadre du présent Contrat.
+Le CLIENT valide les corrections effectuées dans le cadre du présent Contrat.
 
 ## Article 8 - Rapports d'activités
 
 Le 24ÈME apporte au CLIENT une visibilité sur les réalisations effectuées dans le cadre du présent Contrat.
 
-A cette fin, au minimum une fois par trimestre, le 24ÈME envoie au CLIENT le relevé des taches et du temps passé par ses équipes sur les projets et demandes liées au Contrat.
+A cette fin, au minimum une fois par trimestre, le 24ÈME envoie au CLIENT le relevé des taches et du temps passé par ses équipes sur les projets et demandes liés au Contrat.
 
 ## Article 9 - Comité de pilotage
 
@@ -149,11 +149,11 @@ Le Comité de pilotage fait l'objet d'un Compte rendu rédigé par les deux Part
 
 ## Article 10 - Conditions financières
 
-Le budget fixé dans le cadre du présent Contrat est fixé et validé par les deux Parties en Annexes des présences «\ Conditions Particulières\ ».
+Le budget fixé dans le cadre du présent Contrat est fixé et validé par les deux Parties en Annexes des présentes «\ Conditions Particulières\ ».
 
-Le budget est alloué aux corrections et évolutions demandées par le CLIENT. Leur coût se base sur le temps passé et le coût journalier des intervenants en fonction des compétences mises en oeuvre.
+Le budget est alloué aux corrections et évolutions demandées par le CLIENT. Leurs coûts se basent sur le temps passé et le coût journalier des intervenants en fonction des compétences mises en oeuvre.
 
-La grille tarifaire en Annexes des présences «\ Conditions Particulières\ » indique le coût journaliter de chaque compétence.
+La grille tarifaire en Annexes des présentes «\ Conditions Particulières\ » indique le coût journalier de chaque compétence.
 
 Si le budget total alloué au présent Contrat risque d'être épuisé, le 24ÈME en informe le CLIENT.
 
@@ -162,7 +162,7 @@ A l'épuisement du budget alloué, le Contrat est clos. Aucune demande ne peut a
 Toutefois, le CLIENT peut, à sa demande, prolonger le Contrat jusqu'à son terme :
 
  - en allouant un budget supplémentaire au présent Contrat ;
- - en réglant les demandes réalisées après la date à laquelle le 24ÈME a informé le CLIENT de l'équipement du budget sur la base du temps passé et du coût journaliers des compétences mises en oeuvre.
+ - en réglant les demandes réalisées après la date à laquelle le 24ÈME a informé le CLIENT de l'équipement du budget sur la base du temps passé et du coût journalier des compétences mises en oeuvre.
 
 Au terme du Contrat, si le budget n'est pas épuisé, le crédit restant fait l'objet d'un crédit supplémentaire sur le Contrat suivant ou d'un avoir valable sur une prochaine Prestation.
 
