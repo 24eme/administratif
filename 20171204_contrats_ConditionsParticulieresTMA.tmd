@@ -33,7 +33,7 @@
 
 \ 
 
-\	\	\	le **XXXNOMXXX**
+\	\	\	XXXNOMXXX
 
 \	\	\	immatriculé sous le numéro SIRET XXXSIRETXXX
 
@@ -84,7 +84,7 @@ Le présent Contrat est tacitement reconduit tous les 6 mois pour une durée de 
 
 ## Article 5 - Résiliation
 
-En plus de Cas de force majeures tels que définis dans les «\ Conditions Générales de Vente\ », l'une des deux Parties peut résilier le présent Contrat en notifiant l'autre Partie dans un délai de trois mois avant la fin du Contrat par lettre recommandée avec avis de réception.
+En plus de Cas de force majeure tels que définis dans les «\ Conditions Générales de Vente\ », l'une des deux Parties peut résilier le présent Contrat en notifiant l'autre Partie dans un délai de trois mois avant la fin du Contrat par lettre recommandée avec avis de réception.
 
 ## Article 6 - Documents contractuels
 
@@ -107,7 +107,7 @@ Pour chaque demande, le CLIENT indique si la demande est :
  - une demande corrective bloquante, lorsque le CLIENT ne peut plus effectuer de tâche sur l'un des modules logiciels couvert par le Contrat ;
  - une demande corrective individuelle, lorsque le CLIENT demande une correction des données stockées sur la base d'un exemple particulier sans que ce cas soit reproductible sur d'autres cas de figure ;
  - une demande corrective non bloquante, lorsque le CLIENT demande une correction d'une fonctionnalité qui ne bloque pas le fonctionnement normal du module logiciel couvert par le Contrat ;
- - une demande ponctuelle, lorsque le CLIENT demande la réalisation d'une procédure sur mesure ou de production de données qui ne peut réaliser directement via un module logiciel couvert par le Contrat ;
+ - une demande ponctuelle, lorsque le CLIENT demande la réalisation d'une procédure sur mesure ou de production de données qu'il ne peut réaliser directement via un module logiciel couvert par le Contrat ;
  - une demande d'évolution, lorsque le CLIENT souhaite faire évoluer le logiciel afin d'en simplifier l'usage ou d'en augmenter les fonctionnalités.
 
 Le 24ÈME s'engage à prendre en compte toutes les demandes correctives bloquantes sous 4h aux horaires de bureau (9h30-18h30) du lundi au vendredi.
@@ -151,9 +151,9 @@ Le Comité de pilotage fait l'objet d'un Compte rendu rédigé par les deux Part
 
 Le budget fixé dans le cadre du présent Contrat est fixé et validé par les deux Parties en Annexes des présentes «\ Conditions Particulières\ ».
 
-Le budget est alloué aux corrections et évolutions demandées par le CLIENT. Leurs coûts se basent sur le temps passé et le coût journalier des intervenants en fonction des compétences mises en œuvre.
+Le budget est alloué aux corrections et évolutions demandées par le CLIENT. Leurs coûts se basent sur le temps passé et le coût journalier des compétences sollicitées.
 
-La grille tarifaire en Annexes des présentes «\ Conditions Particulières\ » indique le coût journalier de chaque compétence.
+Une grille tarifaire en Annexes des présentes «\ Conditions Particulières\ » indique le coût journalier de chaque compétence.
 
 Si le budget total alloué au présent Contrat risque d'être épuisé, le 24ÈME en informe le CLIENT.
 
@@ -162,7 +162,7 @@ Si le budget total alloué au présent Contrat risque d'être épuisé, le 24ÈM
 Toutefois, le CLIENT peut, à sa demande, prolonger le Contrat jusqu'à son terme :
 
  - en allouant un budget supplémentaire au présent Contrat ;
- - en réglant les demandes réalisées après la date à laquelle le 24ÈME a informé le CLIENT de l'équipement du budget sur la base du temps passé et du coût journalier des compétences mises en œuvre.
+ - en réglant, sur la base du temps passé et du coût journalier des compétences mises en œuvre, les demandes réalisées après la date à laquelle le 24ÈME a informé le CLIENT de l'épuisement du budget.
 
 Au terme du Contrat, si le budget n'est pas épuisé, le crédit restant fait l'objet d'un crédit supplémentaire sur le Contrat suivant ou d'un avoir valable sur une prochaine Prestation.
 
@@ -171,7 +171,7 @@ Au terme du Contrat, si le budget n'est pas épuisé, le crédit restant fait l'
 Le 24ÈME facture le CLIENT dans le cadre du présent Contrat :
 
  - 50% du budget à la signature du Contrat ;
- - 50% du budget trois mois avant la fin du Contrat. Cette échéance ne peut faire l'objet d'une facturation avant l'envoi du Rapport d'activité portant sur les réalisations passées.
+ - 50% du budget trois mois avant la fin du Contrat. Cette échéance ne peut faire l'objet d'une facturation avant l'envoi du Rapport d'activité portant sur les réalisations traitées.
 
 Les éventuels budgets supplémentaires sont facturés à la prolongation du Contrat.
 
@@ -179,7 +179,7 @@ Les réalisations effectuées au temps passé sont facturées mensuellement sur 
 
 Si à la signature des présentes «\ Conditions particulières\ » et de leurs Annexes, les Parties n'ont pas défini de budget, la facturation se fait sur la base du temps passé.
 
-Les factures sont à régler sous 30 jours par virement ou par chèque bancaire.
+Les factures sont adressées hors taxe et sont à régler sous 30 jours par virement ou par chèque bancaire.
 
 
 \ 
@@ -222,6 +222,6 @@ XXXCONDITIONSBUDGETAIRESXXX
 
 ## Coût journaliers des compétences
 
-Les coûts journaliers des compétences sollicitables dans le cadre du présent contrat :
+Les coûts journaliers des compétences sollicitables dans le cadre du présent Contrat :
 
 ###LISTCOMPETENCESXXX
