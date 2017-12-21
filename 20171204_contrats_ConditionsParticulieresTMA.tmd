@@ -110,13 +110,13 @@ Le CLIENT effectue les demandes :
 
 Pour chaque demande, le CLIENT indique si la demande est :
 
- - une demande corrective bloquante, lorsque le CLIENT ne peut plus effectuer de tache sur l'un des modules logiciels couvert par le Contrat ;
+ - une demande corrective bloquante, lorsque le CLIENT ne peut plus effectuer de tâche sur l'un des modules logiciels couvert par le Contrat ;
  - une demande corrective individuelle, lorsque le CLIENT demande une correction des données stockées sur la base d'un exemple particulier sans que ce cas soit reproductible sur d'autres cas de figure ;
  - une demande corrective non bloquante, lorsque le CLIENT demande une correction d'une fonctionnalité qui ne bloque pas le fonctionnement normal du module logiciel couvert par le Contrat ;
  - une demande ponctuelle, lorsque le CLIENT demande la réalisation d'une procédure sur mesure ou de production de données qu'il ne peut réaliser directement via un module logiciel couvert par le Contrat ;
  - une demande d'évolution, lorsque le CLIENT souhaite faire évoluer le logiciel afin d'en simplifier l'usage ou d'en augmenter les fonctionnalités.
 
-Le 24ÈME s'engage à prendre en compte toutes les demandes correctives bloquantes sous 4h aux horaires de bureaux (9h30-18h30) du lundi au vendredi. 
+Le 24ÈME s'engage à prendre en compte toutes les demandes correctives bloquantes sous 4h aux horaires de bureau (9h30-18h30) du lundi au vendredi.
 
 Pour les autres demandes, le CLIENT émet un souhait de délais de prise en compte et de réalisation. Le 24ÈME en tient compte dans la résolution du problème.
 
@@ -128,7 +128,7 @@ Le CLIENT valide les corrections effectuées dans le cadre du présent Contrat.
 
 Le 24ÈME apporte au CLIENT une visibilité sur les réalisations effectuées dans le cadre du présent Contrat.
 
-A cette fin, au minimum une fois par trimestre, le 24ÈME envoie au CLIENT le relevé des taches et du temps passé par ses équipes sur les projets et demandes liés au Contrat.
+À cette fin, au minimum une fois par trimestre, le 24ÈME envoie au CLIENT le relevé des tâches et du temps passé par ses équipes sur les projets et demandes liés au Contrat.
 
 ## Article 9 - Comité de pilotage
 
