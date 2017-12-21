@@ -1,6 +1,6 @@
 % ![](images/logo.pdf "")
 % **Conditions Particulières relatives à une Prestation de TMA**
-% **Contrat n° XXXXXXXX**
+% **Contrat n° XXXNOCONTRATXXX**
 \rhead{ Conditions Particulières - TMA }
 
 **Entre les soussignés :**
@@ -33,9 +33,9 @@
 
 \ 
 
-\	\	\	le **XXX**
+\	\	\	le **XXXNOMXXX**
 
-\	\	\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
+\	\	\	immatriculé sous le numéro SIRET XXXSIRETXXX
 
 \ 
 
@@ -43,9 +43,9 @@
 
 \ 
 
-\	\	\	XXX rue XXXXXXXX
+\	\	\	XXXADRESSEXXX
 
-_	\	\	XXXX XXXXX
+\	\	\	XXXCPVILLEXXX
 
 \ 
 
@@ -218,13 +218,12 @@ Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 ## Conditions budgétaire
 
-En contrepartie de la Prestation définie au présent Contrat, le CLIENT s'engage à régler au 24ÈME la somme de XX XXX,XX € HT correspondant à la prestation de TMA sur la période du XX XXXX XXXX au XXX XXXXX XXXX, soit un budget semestriel de XX XXXX,XX € HT.
+XXXCONDITIONSBUDGETAIRESXXX
 
-## Coût journaliers des intervenants
+## Coût journaliers des compétences
 
-Les coûts journaliers des intervenants prenant part au projet :
+Les coûts journaliers des compétences solicitables dans le cadre du présent contrat :
 
- - Directeur technique : XXX,XX € HT
- - Concepteur / Ergonome : XXX,XX € HT
- - Développeur « full stack » / Administrateur système : XXX,XX € HT
+###LISTCOMPETENCESXXX
+
 

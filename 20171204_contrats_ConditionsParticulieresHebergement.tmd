@@ -1,7 +1,7 @@
 % ![](images/logo.pdf "")
 % **Conditions Particulières concernant des prestation d'hébergement**
-% **Contrat n°XXXXXXXXX**
-\rhead{ Conditions Particulières Hébergement }
+% **Contrat n°XXXNOCONTRATXXX**
+\rhead{ Conditions Particulières - Hébergement }
 
 **Entre les soussignés :**
 
@@ -33,9 +33,9 @@
 
 \ 
 
-\	\	\	**XXXX**
+\	\	\	**XXXNOMXXX**
 
-\	\	\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
+\	\	\	immatriculé sous le numéro SIRET XXXSIRETXXX
 
 \ 
 
@@ -43,9 +43,9 @@
 
 \ 
 
-\	\	\	XX XXXX XXXXXXXXXX
+\	\	\	XXXADRESSEXXX
 
-\	\	\	XXXXX XXXXXXXX
+\	\	\	XXXCPVILLEXXX
 
 \ 
 
@@ -171,18 +171,17 @@ Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 ### Serveur de production
 
-XXXX
+XXXSERVEURPRODXXX
 
 ### Serveur de spare
 
-XXXX
+XXXSERVEURSPAREXXX
 
 ### Infogérance mensuelle
 
 Domaines concernés par la garantie « services » : 
 
- - XXXXX
- - XXXXX
+XXXDOMAINESXXX
 
 Bande Passante en Mbps : 2Mbps
 
@@ -198,13 +197,15 @@ Garanties de temps : 5j/7
       
 ##Annexe 3 - Conditions financières
 
-Installation et configuration des serveurs : XXX € HT
+Installation et configuration des serveurs : XXXPRIXINSTALLATIONXXX € HT
+
+XXXREMISEINSTALLATION
 
 Détails des prestations mensuelles : 
 
- - Location et garanties matérielles : XXX € HT 
- - Garantie disponibilité « réseau » : XXX € HT
- - Infogérance et garantie disponibilité « services » : XXX € HT
+ - Location et garanties matérielles : XXXPRIXLOCATIONXXX € HT 
+ - Garantie disponibilité « réseau » : XXXPRIXRESEAUXXX € HT
+ - Infogérance et garantie disponibilité « services » : XXXPRIXSERVICEXXX € HT
 
-Total : XXX € HT mensuels
+Total : XXXPRIXMENSUELXXX € HT mensuels
 

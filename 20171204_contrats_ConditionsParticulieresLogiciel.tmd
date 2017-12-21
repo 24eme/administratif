@@ -1,7 +1,7 @@
 % ![](images/logo.pdf "")
-% **Contrat de développement logiciel**
-% **Conditions Particulières**
-\rhead{ Conditions Particulières }
+% **Conditions Particulières - Développement logiciel**
+% **Contrat n° XXXNOCONTRATXXX**
+\rhead{ Conditions Particulières - Développement}
 
 **Entre les soussignés :**
 
@@ -33,9 +33,9 @@
 
 \ 
 
-\	\	\	le **XXX**
+\	\	\	le **XXXNOMXXX**
 
-\	\	\	immatriculé sous le numéro SIRET XXX XXX XXX XXXXX
+\	\	\	immatriculé sous le numéro SIRET XXXSIRETXXX
 
 \ 
 
@@ -43,9 +43,9 @@
 
 \ 
 
-\	\	\	XXX rue XXXXXXXX
+\	\	\	XXXADRESSEXXX
 
-_	\	\	XXXX XXXXX
+\	\	\	XXXCPVILLEXXX
 
 \ 
 
@@ -55,7 +55,7 @@ _	\	\	XXXX XXXXX
 
 ## Article 1 - Objet de la Prestation
 
-Le présent Contrat a pour objet la réalisation d'une Prestation de XXX.
+Le présent Contrat a pour objet la réalisation d'une Prestation de développement de XXXOBJETDEVELOPPEMENTXXX.
 
 Ce Contrat s'applique aux éléments listés en Annexes.
 
@@ -204,38 +204,28 @@ Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 ## Conditions financières
 
-En contrepartie de la Prestation définie au présent Contrat, le CLIENT s'engage à régler au 24ÈME la somme de XX XXX,XX € HT.
+En contrepartie de la Prestation définie au présent Contrat, le CLIENT s'engage à régler au 24ÈME la somme de XXXPRIXSOMMEXXX € HT.
 
-La Prestation est découpée en XXX Lots :
+La Prestation est découpée en XXXNBLOTSXXX Lots :
 
- - Le lot 1 représente un budget de X XXXX,XX € HT.
- - XXX
+XXXLISTPRIXLOTXXX
 
 ## Montants liés aux échéances de règlement
 
-Pour le Lot 1, les montants associés à chaque échéance sont
-
- - X XXX,XX € HT facturés à la commande ;
- - X XXX,XX € HT facturés lors de la 3ème réunion du Comité de Sprint ou lors de la tenue du Comité de Recette ;
- - X XXX,XX € HT facturés à la mise en production de l'ensemble des fonctionnalités du Lot.
-
-XXX
+XXXLISTMONTANTLOTSXXX
 
 ## Coût journaliers des intervenants
 
-Les coûts journaliers des intervenants prenant part au projet :
+Les coûts journaliers des compétences prenant part au projet :
 
- - Directeur technique : XXX,XX € HT
- - Concepteur : XXX,XX € HT
- - Développeur « full stack » : XXX,XX € HT
+XXXLISTPRIXCOMPETENCESXXX
 
 ## Moyens humains
 
 Le 24ÈME met à disposition du projet :
 
- - 1 Directeur technique : XXX
- - 3 Concepteurs / Développeurs « full stack » : XXX
+XXXLISTINTERVENANTSXXX
 
 ## Périmètre et découpage de la Prestation
 
-XXXX
+XXXPERIMETREXXX
