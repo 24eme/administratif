@@ -1,10 +1,4 @@
-**24ème**
-
-SCOP SARL à capital variable
-
-12 rue de l'Amiral Mouchez 75014 PARIS
-
-RCS N° 810 720 557 PARIS
+\rhead{ PV AG Novembre 2017 }
 
 # Procès-verbal de l'assemblée générale ordinaire annuelle du 23 novembre 2017
 
