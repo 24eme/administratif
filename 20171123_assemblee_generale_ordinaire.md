@@ -45,7 +45,7 @@ Après discussion sur ces différents points, et plus personne ne demandant la p
 
 ### PREMIERE RESOLUTION
 
-L'Assemblée Générale des associés de la Société 24ème, après avoir entendu le rapport de gestion de la gérance, approuve, tels qu'ils ont été établis et lui sont présentés, les dits rapports dans leur ensemble ainsi que les comptes de l'exercice social clos le 30 juin 2017, le bilan et le montant des dépenses et charges non déductibles visées par l'article 224 quater du CGI.
+L'Assemblée Générale des associés de la Société 24ème, après avoir entendu le rapport de gestion du Président de la séance, approuve, tels qu'ils ont été établis et lui sont présentés, les dits rapports dans leur ensemble ainsi que les comptes de l'exercice social clos le 30 juin 2017, le bilan et le montant des dépenses et charges non déductibles visées par l'article 224 quater du CGI.
 
 Elle prend également acte de la lecture du rapport annuel de révision coopérative.
 
@@ -68,7 +68,7 @@ Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
 ### TROISIEME RESOLUTION
 
-L'Assemblée Générale des associés de la Société 24ème prend acte de la lecture du rapport spécial du gérant concernant les conventions passés dans la cadre de l'article L. 223-19 du nouveau Code de Commerce et approuve telles qu'elles lui sont présentées l'ensemble des dites conventions.
+L'Assemblée Générale des associés de la Société 24ème prend acte de la lecture du rapport spécial du Président de la séance concernant les conventions passés dans la cadre de l'article L. 223-19 du nouveau Code de Commerce et approuve telles qu'elles lui sont présentées l'ensemble des dites conventions.
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
