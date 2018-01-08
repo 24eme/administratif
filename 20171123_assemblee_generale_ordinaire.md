@@ -68,7 +68,7 @@ Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
 ### TROISIEME RESOLUTION
 
-L'Assemblée Générale des associés de la Société 24ème prend acte de la lecture du rapport spécial du gérant concernant les conventions passés dans la cadre de l'article L. 223-19 du nouveau Code de Commerce et approuvent telles qu'elles lui sont présentées l'ensemble des dites conventions.
+L'Assemblée Générale des associés de la Société 24ème prend acte de la lecture du rapport spécial du gérant concernant les conventions passés dans la cadre de l'article L. 223-19 du nouveau Code de Commerce et approuve telles qu'elles lui sont présentées l'ensemble des dites conventions.
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
