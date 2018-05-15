@@ -16,6 +16,14 @@ Activité administrative de la société 24ème
 
 - [Changement d'adresse](https://github.com/24eme/administratif/blob/master/docs/changement_adresse.md)
 - [Publication des comptes](https://github.com/24eme/administratif/blob/master/docs/publication_comptes.md)
+- [Procédure de dégrèvement à la CFE](https://github.com/24eme/administratif/blob/master/docs/degrevement_cfe.md)
+
+## Modèles de contrats
+
+- [Conditions Générales](20171204_contrats_ConditionsGenerales.tmd)
+- [Conditions Particulières Hébergement](20171204_contrats_ConditionsParticulieresHebergement.tmd)
+- [Conditions Particulières Logiciel](20171204_contrats_ConditionsParticulieresLogiciel.tmd)
+- [Conditions Particulières TMA](20171204_contrats_ConditionsParticulieresTMA.tmd)
 
 ## Utilisation
 
