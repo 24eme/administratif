@@ -1,10 +1,4 @@
-**24ème**
-
-SCOP ARL à capital variable
-
-12, rue de l'Amiral Mouchez 75014 PARIS
-
-RCS N° 810 720 557 PARIS
+\rhead{ PV AG Mai 2018 }
 
 # Procès-verbal de l'assemblée générale ordinaire réunie à titre extraordinaire du 07 mai 2018
 
