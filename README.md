@@ -26,6 +26,7 @@ Activité administrative de la société 24ème
 - [Conditions Particulières Hébergement](20171204_contrats_ConditionsParticulieresHebergement.tmd)
 - [Conditions Particulières Logiciel](20171204_contrats_ConditionsParticulieresLogiciel.tmd)
 - [Conditions Particulières TMA](20171204_contrats_ConditionsParticulieresTMA.tmd)
+- [Contrat de travail à Durée Indéterminée](contrat_travail_cdi.md)
 
 ## Utilisation
 
