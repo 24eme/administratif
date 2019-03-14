@@ -33,9 +33,9 @@
 
 \ 
 
-\	\	\	XXXNOMXXX
+\	\	\	l'**Association des Viticulteurs d'Alsace**
 
-\	\	\	immatriculé sous le numéro XXXSIRETXXX
+\	\	\	immatriculée sous le numéro SIRET 778 904 599 00033
 
 \ 
 
@@ -43,9 +43,9 @@
 
 \ 
 
-\	\	\	XXXADRESSEXXX
+\	\	\	12 avenue de la foire aux vins
 
-\	\	\	XXXCPVILLEXXX
+\	\	\	68000 COLMAR
 
 \ 
 
@@ -64,7 +64,7 @@ Au sens des présentes, chacune des expressions ci-dessous aura la signification
 
 **Licence Open Source** : Licence logicielle autorisant le libre usage et la libre réutilisation de logiciel telle que définie par les «\ Debian Free Software Guidelines\ » dont une copie peut être obtenue depuis l'url http://debian.org/social_contract#guidelines
 
-**Licence AGPL** : Licence Open Source de diffusion logicielle «\  Affero General Public License\ » dont une copie peut être obtenu depuis l'url http://gnu.org/licenses/agpl-3.0.html
+**Licence AGPL** : Licence Open Source de diffusion logicielle «\  Affero General Public License\ » dont une copie peut être obtenue depuis l'url http://gnu.org/licenses/agpl-3.0.html
 
 **Prestation** : Ensemble des services fournis dans le cadre du présent Contrat.
 
@@ -112,7 +112,7 @@ Dans l'hypothèse visée à l'alinéa précédent, le 24ÈME ne saurait être te
 
 ## Article 7 - Conditions d'exécution de la Prestation
 
-Les parties conviennent que le 24ÈME mettra en œuvre toute son habileté, ses soins et sa diligence afin de satisfaire à ses devoirs en vertu du Contrat et remplira toutes ses obligations dans le respect des règles admises dans la profession et conformément aux dispositions légales et réglementaires en vigueur dans le territoire.
+Les parties conviennent que le 24ÈME mettra en œuvre toute son habileté, ses soins et sa diligence afin de satisfaire à ses devoirs en vertu du Contrat et remplira toutes ses obligations dans le respect des règles admises dans la profession et conformément aux dispositions légales et réglementaires en vigueur sur le territoire.
 
 Le 24ÈME fournira les services relatifs à la Prestation tels que définis dans les «\ Conditions particulières\ » ou le «\ Devis\ ». Aucun service ne pourra être exécuté s'il n'a pas été préalablement accepté dans le cadre d'une commande telle que définie par des «\ Conditions particulières\ » ou un «\ Devis\ ».
 
@@ -130,9 +130,9 @@ L'une ou l'autre des Parties peut demander la modification des prestations ou de
 
 ## Article 8 - Moyens humains mis en œuvre
 
-Le 24ÈME s'engage à faire exécuter les prestations par un personnel qualifié. Dans l'hypothèse où pour une quelque raison que ce soit, une personne en charge de l'exécution de la Prestation devenait indisponible, le 24ÈME s'engage à désigner le plus rapidement possible une personne à titre temporaire de compétence équivalente, et ce dans un délai maximum de vingt jours ouvrés suivant la survenance de cet évènement.
+Le 24ÈME s'engage à faire exécuter les prestations par un personnel qualifié. Dans l'hypothèse où pour une quelque raison que ce soit, une personne en charge de l'exécution de la Prestation devenait indisponible, le 24ÈME s'engage à désigner à titre temporaire et le plus rapidement possible une personne de compétence équivalente, et ce dans un délai maximum de vingt jours ouvrés suivant la survenance de cet évènement.
 
-Le 24ÈME garantit ses compétences techniques par, d'une part, le niveau de qualification et d'expérience vérifiable des personnes affectées à la réalisation de la Prestation et, d'autre part, par le support effectif à tous les niveaux de sa direction.
+Le 24ÈME garantit ses compétences techniques par, d'une part, le niveau de qualification et d'expérience vérifiables des personnes affectées à la réalisation de la Prestation et, d'autre part, par le support effectif à tous les niveaux de sa direction.
 
 Les absences éventuelles du personnel affecté à la Prestation ne devront par perturber l'avancement normal des travaux.
 
@@ -143,15 +143,15 @@ Le CLIENT s'engage à faire participer aux réunions de Conception de la Prestat
 
 ## Article 9 - Moyens matériels mis en œuvre
 
-Le 24ÈME dotera son personnel de tous les moyens matériels nécessaires à la réalisation de l'objet de la Prestation. Tous les sous-traitants, qu'il soit sous la forme d'entreprises ou d'indépendants en profession libérale dispose également de leur propre matériel.
+Le 24ÈME dotera son personnel de tous les moyens matériels nécessaires à la réalisation de l'objet de la Prestation. Tout sous-traitant, qu'il soit sous la forme d'entreprises ou d'indépendants en profession libérale dispose également de leur propre matériel.
 
 Le CLIENT ne pourra imposer au 24ÈME le recours à des moyens logiciels disponibles sous d'autres licences que des Licences Open Source.
 
-Si l'objet du contrat y contraint, la prestation pourra toutefois être réalisée en tout ou parties avec des moyens et matériels propriété du CLIENT. Leur désignation et les conditions d'utilisation sont alors définies dans les «\ Conditions particulières\ ». Cette condition est en particulier valable dans le cas où le 24ÈME doit reproduire des environnements stricto identiques à l'environnement de production. Dans ce cas, les coûts induits seront imputés au CLIENT directement ou refacturés. Ces acquisitions nécessiteront néanmoins la signature d'un Devis ou d'un Avenant accepté par le CLIENT.
+Si l'objet du contrat y contraint, la prestation pourra toutefois être réalisée en tout ou partie avec des moyens et matériels propriété du CLIENT. Leur désignation et les conditions d'utilisation sont alors définies dans les «\ Conditions particulières\ ». Cette condition est en particulier valable dans le cas où le 24ÈME doit reproduire des environnements stricto identiques à l'environnement de production. Dans ce cas, les coûts induits seront imputés au CLIENT directement ou refacturés. Ces acquisitions nécessiteront néanmoins la signature d'un Devis ou d'un Avenant accepté par le CLIENT.
 
 ## Article 10 - Lieu de réalisation de la Prestation
 
-Les lieux et locaux où la Prestation sont réalisés sont désignés dans les «\ Conditions particulières\ ». Ils peuvent être situés soit chez le 24ÈME, soit chez le CLIENT lorsque cette localisation est indispensable pour la réalisation de la Prestation.
+Les lieux et locaux où la Prestation est réalisée sont désignés dans les «\ Conditions particulières\ ». Ils peuvent être situés soit chez le 24ÈME, soit chez le CLIENT lorsque cette localisation est indispensable pour la réalisation de la Prestation.
 
 ## Article 11 - Horaires, prévention et sécurité
 
@@ -159,7 +159,7 @@ Les horaires de travail des personnes affectées seront compris dans ceux pratiq
 
 L'exécution des prestations dans les locaux ou dépendances du CLIENT, au titre du présent Contrat, implique pour le 24ÈME de s'engager à respecter les conditions d'hygiène et de sécurité fixées par le Code du travail.
 
-Le 24ÈME prendra connaissance des consignes générales et particulières de sécurités à observer lors de sa présence  dans les locaux du CLIENT.
+Le 24ÈME prendra connaissance des consignes générales et particulières de sécurité à observer lors de sa présence  dans les locaux du CLIENT.
 
 Le CLIENT informera le 24ÈME de tout accident de travail survenu dans ses locaux dans les 24 heures.
 
@@ -168,7 +168,7 @@ Le CLIENT informera le 24ÈME de tout accident de travail survenu dans ses locau
 Le CLIENT :
 
  - s'oblige à apporter une collaboration active et régulière au 24ÈME dans sa réalisation de la Prestation et à désigner un responsable pour l'ensemble du projet visé au présent Contrat\ ;
- - s'oblige à informer le 24ÈME des nouveaux prestataires que le CLIENT souhaite faire participer au projet afin que le 24ÈME puisse réaliser de manière optimale ses missions\ ;
+ - s'oblige à informer le 24ÈME des nouveaux prestataires que le CLIENT souhaite faire participer au projet afin que le 24ÈME puisse réaliser ses missions de manière optimale\ ;
  - s'engage à mettre le 24ÈME en relation avec son personnel qualifié ou celui de ses prestataires selon les besoins communiqués par le 24ÈME pour lui permettre d'exécuter ses obligations telles qu'elles résultent du présent Contrat\ ;
  - s'engage à fournir l'ensemble des éléments nécessaires à la réalisation de la Prestation.
 
@@ -182,7 +182,7 @@ Les règlements et conditions de paiement sont fixés en annexe des «\ Conditio
 
 Les frais de transport des intervenants du 24ÈME sont inclus dans les tarifs de l'offre lorsque ces prestations sont réalisées dans la région parisienne (zone de transport de 1 à 5).
 
-Lorsque la Prestation nécessite le déplacement des intervenants du 24ÈME en dehors de la région parisienne et que ces déplacements ont été explicitement prévues dans les «\ Conditions particulières\ » ou le Devis, les frais sont à la charge du 24ÈME.
+Lorsque la Prestation nécessite le déplacement des intervenants du 24ÈME en dehors de la région parisienne et que ces déplacements ont été explicitement prévus dans les «\ Conditions particulières\ » ou le Devis, les frais sont à la charge du 24ÈME.
 
 Lorsque la Prestation nécessite des déplacements des intervenants du 24ÈME en dehors de la région parisienne et que ces déplacements se font à la demande du CLIENT, ces frais sont à la charge du CLIENT.
 
@@ -198,17 +198,17 @@ Le 24ÈME n'est pas responsable à quelque titre que ce soit pour les dommages i
 
 Toute action dirigée contre le CLIENT par un tiers constitue un préjudice indirect et, par conséquent, n'ouvre pas droit à réparation.
 
-Le 24ÈME garantit le CLIENT contre toute réclamation de tiers ayant pour fondement le droit d'auteur, les droits voisins et les droits des producteurs de bases de données auquel la réalisation de la Prestation du 24ÈME aurait porté atteinte.
+Le 24ÈME garantit le CLIENT contre toute réclamation de tiers ayant pour fondement le droit d'auteur, les droits voisins ou les droits des producteurs de bases de données auxquels la réalisation de la Prestation du 24ÈME aurait porté atteinte.
 
 ## Article 17 - Responsabilité du CLIENT
 
-Le CLIENT assume la responsabilité éditoriale liée à la Prestation, et est donc seul responsable des contenus et informations mises à disposition via des services de communications électroniques.
+Le CLIENT assume la responsabilité éditoriale liée à la Prestation, et est donc seul responsable des contenus et informations mis à disposition via des services de communication électronique.
 
 De même, le CLIENT assume la responsabilité relative aux obligations liées aux traitements et à la conservation de données à caractère personnel.
 
-En conséquence, le CLIENT s'engage à faire son affaire personnelle de toute réclamation et/ou procédure, quelque qu'en soient les formes et nature, formulée contre le 24ÈME, et qui se rattacherait directement ou indirectement aux informations mises en ligne, aux traitements de données à caractère personnel ou leur conservation dans le cadre la Prestation.
+En conséquence, le CLIENT s'engage à faire son affaire personnelle de toute réclamation et/ou procédure, quelles qu'en soient les formes et nature, formulée contre le 24ÈME, et qui se rattacherait directement ou indirectement aux informations mises en ligne, aux traitements de données à caractère personnel ou leur conservation dans le cadre de la Prestation.
 
-A cet effet, le CLIENT s'engage notamment à régler directement à l'auteur des réclamations toutes sommes que celui-ci exigerait du 24ÈME.
+A cet effet, le CLIENT s'engage notamment à régler directement à l'auteur des réclamations toute somme que celui-ci exigerait du 24ÈME.
 
 Ces engagements continueront pendant une durée de deux ans après l'expiration du Contrat.
 
@@ -220,13 +220,13 @@ Chacune des Parties s'engage à régler toutes les primes afin que l'autre Parti
 
 ## Article 19 - Force majeure
 
-De manière expresse, sont considérées comme cas de force majeure ou cas fortuits outre ceux habituellement retenus par la jurisprudence des cours et tribunaux français : grèves totales ou partielles, internes ou externes à l'entreprise, lock-out,  intempéries, épidémies, blocages des moyens de transport ou d'approvisionnement pour quelque raison que ce soit, tremblements de terre, incendies, tempêtes, inondations, dégâts des eaux, restrictions gouvernementales ou légales, modifications légales ou réglementaires des formes de commercialisation, blocage total ou partiel des moyens de télécommunications ou de communication, y compris les réseaux, et tout autre cas indépendant de la volonté expresse des Parties et empêchant l'exécution normal du présent Contrat.
+De manière expresse, sont considérés comme cas de force majeure ou cas fortuits, outre ceux habituellement retenus par la jurisprudence des cours et tribunaux français : grèves totales ou partielles, internes ou externes à l'entreprise, lock-out,  intempéries, épidémies, blocages des moyens de transport ou d'approvisionnement pour quelque raison que ce soit, tremblements de terre, incendies, tempêtes, inondations, dégâts des eaux, restrictions gouvernementales ou légales, modifications légales ou réglementaires des formes de commercialisation, blocage total ou partiel des moyens de télécommunication ou de communication, y compris les réseaux, et tout autre cas indépendant de la volonté expresse des Parties et empêchant l'exécution normale du présent Contrat.
 
 La Partie victime d'un cas de force majeure en informe l'autre Partie dans un délai de 5 jours ouvrables.
 
 La survenance d'un cas de force majeure suspendra, dans un premier temps, de plein droit, l'exécution du présent Contrat.
 
-Si au-delà d'une période de trois mois, les Parties constatent la persistance du cas de force majeure, le Contrat sera résilié automatiquement et de plein droit, sauf accord contraire des deux Parties.
+Si au-delà d'une période de trois mois les Parties constatent la persistance du cas de force majeure, le Contrat sera résilié automatiquement et de plein droit, sauf accord contraire des deux Parties.
 
 ## Article 20 - Confidentialité
 
@@ -238,7 +238,7 @@ L'obligation de confidentialité continuera pendant une durée de deux ans aprè
 
 Cependant, les Parties ne sauraient être tenues responsables d'aucune divulgation si :
 
- - les éléments divulgués étaient dans le domaine public à la date de la divulgation ou tomberont dans le domaine public après leur divulgation et/ou communication en dehors de toutes interventions de la Partie qui aura reçu lesdits éléments ;
+ - les éléments divulgués étaient dans le domaine public à la date de la divulgation ou tomberont dans le domaine public après leur divulgation et/ou communication en dehors de toute intervention de la Partie qui aura reçu lesdits éléments ;
  - elles en avaient connaissance ;
  - elles étaient licitement en possession desdits éléments ;
  - elles les obtenaient de tiers par des moyens légitimes ;
@@ -246,11 +246,11 @@ Cependant, les Parties ne sauraient être tenues responsables d'aucune divulgati
  - la communication desdits éléments est nécessaire à la bonne réalisation de la Prestation ;
  - les éléments ont été transmis en dehors des systèmes de communication électronique dont la sécurité a été validée par le 24ÈME et le CLIENT.
 
-Toutefois, les Parties pourront, l'une et l'autre, s'accorder par voie expresse, mail, fax ou courrier, l'autorisation de communiquer certaines informations, documents ou références si une demande est effectuée par l'une ou l'autre des parties, dans ce sens.
+Toutefois, les Parties pourront, l'une et l'autre, s'accorder par voie expresse, mail, fax ou courrier, l'autorisation de communiquer certaines informations, documents ou références si une demande est effectuée par l'une ou l'autre des Parties, dans ce sens.
 
 ## Article 21 - Propriété
 
-Le CLIENT demeure propriétaire des données et contenus de toutes natures fournis au 24ÈME dans le cadre de la Prestation.
+Le CLIENT demeure propriétaire des données et contenus de toute nature fournis au 24ÈME dans le cadre de la Prestation.
 
 Le 24ÈME et le CLIENT partagent les droits d'auteurs et d'utilisation des logiciels, traitements et documents réalisés dans le cadre de la Prestation. Il est donc convenu que le CLIENT pourra faire héberger les logiciels faisant l'objet de la Prestation sur des serveurs non possédés par le 24ÈME.
 
@@ -264,7 +264,7 @@ Les différents éléments constituant la Prestation qui sont réalisés par le 
 
 La maintenance sera effectuée à distance et, si la nature du problème le nécessite, sur le site d'hébergement des traitements faisant l'objet de la Prestation.
 
-Dans le cadre de cette garantie, le CLIENT s'interdit expressément de procéder à toute modification et/ou adaptation de toute ou partie des traitements faisant l'objet de la Prestation sans le consentement express et préalable du 24ÈME.
+Dans le cadre de cette garantie, le CLIENT s'interdit expressément de procéder à toute modification et/ou adaptation de tout ou partie des traitements faisant l'objet de la Prestation sans le consentement express et préalable du 24ÈME.
 
 Après l'échéance du terme de la période de garantie, le 24ÈME pourra intervenir pour corriger les éventuels Dysfonctionnements des traitements sur la base d'un contrat spécifique, ou à défaut, selon les devis spécifiques établis par le 24ÈME selon la tarification annoncée au CLIENT.
 
@@ -284,7 +284,7 @@ A titre dérogatoire, chacune des Parties pourra, sous réserve d'en aviser pré
 
 Le 24ÈME pourra utiliser le nom du CLIENT à titre de référence commerciale sur son site Internet ou dans des documents commerciaux.
 
-Par ailleurs, le CLIENT autorise expressément le 24ÈME à faire figurer son nom et/ou son logo en bas de la page d'accueil du site hébergeant les traitements faisant l'objet de la Prestation ou dans une page spécifique prévue à cet effet telle qu'une page «\ Crédits\ », par exemple. La page sera visible et accessible dès la page d'accueil. Le nom et/ou le logo du 24ÈME peuvent être associé à un hyperlien pointant sur le site Internet du 24ÈME.
+Par ailleurs, le CLIENT autorise expressément le 24ÈME à faire figurer son nom et/ou son logo en bas de la page d'accueil du site hébergeant les traitements faisant l'objet de la Prestation ou dans une page spécifique prévue à cet effet telle qu'une page «\ Crédits\ », par exemple. La page sera visible et accessible dès la page d'accueil. Le nom et/ou le logo du 24ÈME peuvent être associés à un hyperlien pointant sur le site Internet du 24ÈME.
 
 ## Article 26 - Dispositions générales
 
@@ -292,9 +292,9 @@ Si une ou plusieurs stipulations du présent Contrat sont tenues pour non valide
 
 Le présent Contrat, ainsi que ses annexes, expriment l'intégralité des obligations des Parties. Aucune autre condition générale ou spécifique figurant dans les documents envoyés ou remis par les Parties ne pourrait s'intégrer au présent Contrat.
 
-Le fait pour l'un des Parties de ne pas se prévaloir d'un manquement par l'autre Partie à l'une quelconque des obligations visées dans les présentes, ne saurait être interprété pour l'avenir comme une renonciation à l'obligation en cause.
+Le fait pour l'une des Parties de ne pas se prévaloir d'un manquement par l'autre Partie à l'une quelconque des obligations visées dans les présentes, ne saurait être interprété pour l'avenir comme une renonciation à l'obligation en cause.
 
-En cas de difficultés d'interprétation entre l'un quelconque des titres figurant en entête des clauses et l'une quelconque des clauses, les titres seront déclarés inexistants.
+En cas de difficulté d'interprétation entre l'un quelconque des titres figurant en entête des clauses et l'une quelconque des clauses, les titres seront déclarés inexistants.
 
 Le présent contrat est soumis à la loi française, tant pour les règles de forme que pour les règles de fond.
 
@@ -302,7 +302,7 @@ EN CAS DE LITIGE COMMERCIAL, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE 
 
 EN CAS D'AUTRES LITIGES, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE GRANDE INSTANCE DE PARIS, NONOBSTANT PLURALITÉ DE DÉFENDEURS OU APPEL EN GARANTIE, MÊME POUR LES PROCÉDURES D'URGENCE OU LES PROCÉDURES CONSERVATOIRES, EN RÉFÉRÉ OU SUR REQUÊTE.
 
-Les Parties élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec avis de réception.
+Les Parties élisent domicile aux adresses figurant en en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec avis de réception.
 
 \ 
 
@@ -314,20 +314,20 @@ Fait en deux exemplaires originaux.
 
 \ 
 
-Le 24ÈME                                                                                      Le CLIENT                                     
+Le 24ÈME                                                                                      Le CLIENT
 --------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------
-Nom :                                                                                         Nom :                                                                                 
-\                                                                                             
-Prénom :                                                                                      Prénom :                                                                              
-\                                                                                             
-Qualité :                                                                                     Qualité :                                                                             
-\                                                                                             
-Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .   
-\                                                                                             
-Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature : 
-\                                                                                         
-\                                                                                         
-\                                                                                         
-\                                                                                         
-\                                                                                         
-\                                                                                         
+Nom :                                                                                         Nom :
+\ 
+Prénom :                                                                                      Prénom :
+\ 
+Qualité :                                                                                     Qualité :
+\ 
+Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .
+\ 
+Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature :
+\ 
+\ 
+\ 
+\ 
+\ 
+\ 

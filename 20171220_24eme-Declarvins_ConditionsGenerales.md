@@ -5,49 +5,53 @@
 
 **Entre les soussignés :**
 
-\ 
+\
 
 \	\	\	la société **24ÈME**
 
-\	\	\	SARL SCOP immatriculée au registre du commerce de Paris
+\
 
-\	\	\	sous le numéro SIRET 810 720 557 00026
+\	\	\	\	SARL SCOP immatriculée au registre du commerce de Paris
 
-\ 
+\	\	\	\	sous le numéro SIRET 810 720 557 00026
 
-\	\	\	dont le siège social est situé au :
+\	\	\	\	dont le siège social est situé au :
 
-\ 
+\	\	\	\	12 rue de l'Amiral Mouchez, 75014 Paris
 
-\	\	\	12 rue de l'Amiral Mouchez
-
-\	\	\	75014 Paris
-
-\ 
+\
 
 \	\	\	ci-dessous dénommée **24ÈME** ou **le Prestataire**, d'une part,
 
-\ 
+\
 
 **et :**
 
-\ 
+\
 
-\	\	\	XXXNOMXXX
+\	\	\	le **Groupement Declarvin**, consitué de :
 
-\	\	\	immatriculé sous le numéro XXXSIRETXXX
+\
 
-\ 
+\        \        \         **Inter Rhône**, immatriculé sous le numéro SIRET 783 204 001 00029
 
-\	\	\	dont le siège social est situé au :
+\        \        \        \        dont le siège social est situé au :
 
-\ 
+\        \        \        \        6 rue des Trois Faucons, 84000 Avignon
 
-\	\	\	XXXADRESSEXXX
+\        \        \        **CIVP**, immatriculé sous le numéro SIRET 451 070 197 00012
 
-\	\	\	XXXCPVILLEXXX
+\        \        \        \        dont le siège social est situé au :
 
-\ 
+\        \        \        \        RN 7, 83460 Les Arcs-sur-Argens
+
+\        \        \        **IVSE**, immatriculé sous le numéro SIRET 513 558 494 00011
+
+\        \        \        \        dont le siège social est situé au :
+
+\        \        \        \        22 avenue Henri Pontier, 13626 Aix-en-Provence
+
+\
 
 \	\	\	ci-dessous dénommé **le CLIENT**, d'autre part.
 
@@ -304,15 +308,15 @@ EN CAS D'AUTRES LITIGES, COMPÉTENCE EXPRESSE EST ATTRIBUÉE AU TRIBUNAL DE GRAN
 
 Les Parties élisent domicile aux adresses figurant en-tête des présentes. Tout changement d'adresse de l'une des Parties devra être notifié sans délai à l'autre Partie par lettre recommandée avec avis de réception.
 
-\ 
+\
 
-\ 
+\
 
 Fait en deux exemplaires originaux.
 
-\ 
+\
 
-\ 
+\
 
 Le 24ÈME                                                                                      Le CLIENT                                     
 --------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------
@@ -324,7 +328,7 @@ Qualité :                                                                      
 \                                                                                             
 Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .   
 \                                                                                             
-Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature : 
+Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature :
 \                                                                                         
 \                                                                                         
 \                                                                                         
