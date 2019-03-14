@@ -1,4 +1,4 @@
-TARGETS=images/signature_gerant_1.jpg images/signature_gerant_2.jpg images/signature_gerant_3.jpg images/signature_lu_approuve_1.jpg images/signature_lu_approuve_2.jpg images/signature_lu_approuve_3.jpg images/paraphe.jpg statuts_24eme.pdf 20170109_assemblee_generale_extraordinaire.pdf 20161123_assemblee_generale_ordinaire.pdf 20160330_assemblee_generale_ordinaire.pdf 20170330_assemblee_generale_ordinaire.pdf 20171123_assemblee_generale_ordinaire.pdf 20171204_contrats_ConditionsGenerales.pdf 20171204_contrats_ConditionsParticulieresLogiciel.pdf 20171204_contrats_ConditionsParticulieresHebergement.pdf 20171204_contrats_ConditionsParticulieresTMA.pdf
+TARGETS=images/signature_gerant_1.jpg images/signature_gerant_2.jpg images/signature_gerant_3.jpg images/signature_lu_approuve_1.jpg images/signature_lu_approuve_2.jpg images/signature_lu_approuve_3.jpg images/paraphe.jpg statuts_24eme.pdf 20190315_statuts_24eme.pdf 20170109_assemblee_generale_extraordinaire.pdf 20161123_assemblee_generale_ordinaire.pdf 20160330_assemblee_generale_ordinaire.pdf 20170330_assemblee_generale_ordinaire.pdf 20171123_assemblee_generale_ordinaire.pdf 20171204_contrats_ConditionsGenerales.pdf 20171204_contrats_ConditionsParticulieresLogiciel.pdf 20171204_contrats_ConditionsParticulieresHebergement.pdf 20171204_contrats_ConditionsParticulieresTMA.pdf 20180507_assemblee_generale_ordinaire_extraordinaire.pdf 20180330_assemblee_generale_ordinaire.pdf 20181123_assemblee_generale_ordinaire.pdf contrat_travail_cdi.pdf 20190305_24eme-Declarvins_AvenantConditionsTMA.pdf
 
 all: ${TARGETS}
 
@@ -11,11 +11,15 @@ images/paraphe.jpg:
 statuts_24eme.pdf: statuts_24eme.md
 	pandoc -V geometry:"top=0.6cm, bottom=1.5cm, left=1cm, right=1cm" -H inc/statuts_header.tex -t latex -o $@ $^
 
+20190315_statuts_24eme.pdf: 20190315_statuts_24eme.md
+	pandoc -V geometry:"top=0.6cm, bottom=1.5cm, left=1cm, right=1cm" -H inc/statuts_header.tex -t latex -o $@ $^
+
+
 %.pdf: %.md
 	pandoc -V papersize:a4 -V geometry:"top=0.2cm, bottom=5cm, left=1.5cm, right=1.5cm" -H inc/header.tex -t latex -o $@ $^
 
 %.md: %.sed %.tmd
-	sed -f $^ > $@
+	sed -f $^ | sed -f .extra.sed > $@
 
 clean:
 	rm -f ${TARGETS}
