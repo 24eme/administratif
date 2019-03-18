@@ -4,7 +4,7 @@ SOCIETE COOPERATIVE ET PARTICIPATIVE
 
 A RESPONSABILITE LIMITEE, A CAPITAL VARIABLE
 
-SIEGE : 12 rue de l'Amiral Mouchez, 75014 Paris
+SIEGE : 2 place Saint Opportune, 75001 Paris
 
 # STATUTS
 
@@ -13,7 +13,7 @@ SIEGE : 12 rue de l'Amiral Mouchez, 75014 Paris
 
 **LES SOUSSIGNES**
 
--   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au 12 rue de l'Amiral Mouchez, 75014 Paris
+-   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au 2 place Saint Opportune, 75001 Paris
 
 -   M. LE METAYER Jean-Baptiste, né le 30/01/1986 à Levallois Perret (92) , domicilié au 4 rue Henri Coudert, 95600 Eaubonne
 
@@ -136,7 +136,7 @@ participation ou au soutien d'autres coopératives de production.
 
 ### Article 5 - Siège social
 
-Le siège social est fixé au 12 rue de l'Amiral Mouchez, 75014 Paris.
+Le siège social est fixé au 2 place Saint Opportune, 75001 Paris.
 
 Il peut être transféré dans le même département ou dans un département
 limitrophe par décision du gérant, sous réserve de ratification par
@@ -157,7 +157,7 @@ réparties entre les associés en proportion de leurs apports.
 Les soussignés, dont les noms suivent, apportent à la Société :
 
 -   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au
-    5 rue de l'Amiral Mouchez, 75014 Paris, apporte à la société 576 € (cinq
+    12 rue de l'Amiral Mouchez, 75014 Paris, apporte à la société 576 € (cinq
     cent soixante-seize euros) représentés par 24 parts sociales
 
 -   M. LE METAYER Jean-Baptiste, né le 30/01/1986 à Levallois
