@@ -71,7 +71,7 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
 * Cadres 16 :
     * **EFFECTIF SALARIE de l’établissement créé** : *Nombre de salarié*
     * **Date d’embauche du 1 er salarié** : 21/12/2015
-    * **Effectif salarié de l’entreprise** : 3
+    * **Effectif salarié de l’entreprise** : Nombre de salarié
 * Cadres 19 :
     * **Qualité** : *Co-gérant*
     * **Nom de naissance** : *Nom du gérant*
