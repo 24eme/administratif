@@ -1,29 +1,32 @@
-«24ème»
+% ![](images/logo.pdf "")
+% **Statuts**
+\rhead{ Statuts de la société 24ème }
 
-SOCIETE COOPERATIVE ET PARTICIPATIVE
+«**24ème**»
 
-A RESPONSABILITE LIMITEE, A CAPITAL VARIABLE
+Société Coopérative et Participative
 
-SIEGE : 2 place Saint Opportune, 75001 Paris
+À responsabilité limité, à capital variable
 
-# STATUTS
+Siège : 2 place Saint-Opportune, 75001 Paris
+
 
 &nbsp;
 
 
-**LES SOUSSIGNES**
+**Les soussignés**
 
--   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au 2 place Saint Opportune, 75001 Paris
-
+-   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au 2 place Saint-Opportune, 75001 Paris
 -   M. LE METAYER Jean-Baptiste, né le 30/01/1986 à Levallois Perret (92) , domicilié au 4 rue Henri Coudert, 95600 Eaubonne
-
 -   M. LAURENT Vincent, né le 04/08/1987 à Paris (75010), domicilié au 5 rue Bernard Jugault, 92600 Asnières-Sur-Seine
 
 &nbsp;
 
-**ONT ETABLI AINSI QU'IL SUIT LES STATUTS D'UNE SCOP ARL DEVANT EXISTER ENTRE EUX ET TOUTE PERSONNE QUI VIENDRAIT ULTERIEUREMENT A ACQUERIR LA QUALITE D'ASSOCIE.**
+ont établi ainsi qu'il suit les statuts d'une SCOP ARL devant exister entre eux et toute personne qui viendrait ultérieurement a acquérir la qualité d’associé.
 
 &nbsp;
+
+\newpage
 
 ## Préambule
 
@@ -136,7 +139,7 @@ participation ou au soutien d'autres coopératives de production.
 
 ### Article 5 - Siège social
 
-Le siège social est fixé au 2 place Saint Opportune, 75001 Paris.
+Le siège social est fixé au 2 place Saint-Opportune, 75001 Paris.
 
 Il peut être transféré dans le même département ou dans un département
 limitrophe par décision du gérant, sous réserve de ratification par
@@ -144,7 +147,6 @@ l'assemblée des associés statuant à la majorité des trois quarts des
 droits de vote, et dans tout autre département par décision de
 l'assemblée des associés statuant à la majorité requise pour la
 modification des statuts.
-
 
 ## TITRE II - Capital social et souscriptions au capital
 
@@ -157,7 +159,7 @@ réparties entre les associés en proportion de leurs apports.
 Les soussignés, dont les noms suivent, apportent à la Société :
 
 -   M. PETIT Mathurin, né le 07/09/1985 à Ivry Sur Seine, domicilié au
-    12 rue de l'Amiral Mouchez, 75014 Paris, apporte à la société 576 € (cinq
+    2 place Saint-Opportune, 75001 Paris, apporte à la société 576 € (cinq
     cent soixante-seize euros) représentés par 24 parts sociales
 
 -   M. LE METAYER Jean-Baptiste, né le 30/01/1986 à Levallois
@@ -166,9 +168,7 @@ Les soussignés, dont les noms suivent, apportent à la Société :
     représentés par 24 parts sociales
 
 -   M. LAURENT Vincent, né le 04/08/1987 à Paris (75010), domicilié au 5
-    rue Bernard Jugault
-
-92600 Asnières Sur Seine, apporte à la société 576 € (cinq cent
+    rue Bernard Jugault, 92600 Asnières Sur Seine, apporte à la société 576 € (cinq cent
 soixante-seize euros) représentés par 24 parts sociales
 
 Soit un total de 1728 € représentant le montant intégralement libéré des
@@ -1219,6 +1219,8 @@ M. PETIT Mathurin
 ![](images/signature_gerant_3.jpg)\
 
 &nbsp;
+
+\newpage
 
 Signatures des associés : (Lu et approuvé)
 

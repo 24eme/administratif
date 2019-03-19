@@ -9,7 +9,7 @@ images/paraphe.jpg:
 	cp "$@.example" $@
 
 statuts_24eme.pdf: statuts_24eme.md
-	pandoc -V geometry:"top=0.6cm, bottom=1.5cm, left=1cm, right=1cm" -H inc/statuts_header.tex -t latex -o $@ $^
+	pandoc -V papersize:a4 -V geometry:"top=0.2cm, bottom=5cm, left=1.5cm, right=1.5cm" -H inc/statuts_header.tex -t latex -o $@ $^
 
 %.pdf: %.md
 	pandoc -V papersize:a4 -V geometry:"top=0.2cm, bottom=5cm, left=1.5cm, right=1.5cm" -H inc/header.tex -t latex -o $@ $^

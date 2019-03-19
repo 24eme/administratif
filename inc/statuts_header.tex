@@ -2,6 +2,17 @@
 \usepackage{lastpage}
 \usepackage{graphicx}
 \pagestyle{fancy}
-\fancyfoot[L]{Statuts du 24ème}
-\fancyfoot[C]{page~\thepage~sur~\pageref{LastPage}}
-\fancyfoot[R]{\includegraphics{images/paraphe.jpg}}
+\setlength{\headheight}{3cm}
+\fancyhead[L]{
+}
+
+\rhead{ $author$ }
+\lhead{$24^{\small{ème}}$}
+\lfoot{
+\setlength{\unitlength}{1mm}
+\begin{picture}(0,10)
+\put(0,-5){\includegraphics[width=1cm]{images/logo.png}}
+\end{picture}
+}
+\cfoot{}
+\rfoot{\thepage\ / \ \pageref{LastPage}}
