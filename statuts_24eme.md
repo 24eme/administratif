@@ -22,7 +22,7 @@ Siège : 2 place Saint-Opportune, 75001 Paris
 
 &nbsp;
 
-ont établi ainsi qu'il suit les statuts d'une SCOP ARL devant exister entre eux et toute personne qui viendrait ultérieurement a acquérir la qualité d’associé.
+ont établi ainsi qu'il suit les statuts d'une SCOP ARL devant exister entre eux et toute personne qui viendrait ultérieurement à acquérir la qualité d’associé.
 
 &nbsp;
 
