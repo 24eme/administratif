@@ -73,6 +73,7 @@ Il est récupérable ici : https://www.service-public.fr/professionnels-entrepri
     * **Date d’embauche du 1 er salarié** : 21/12/2015
     * **Effectif salarié de l’entreprise** : *Nombre de salarié*
 * Cadres 19 :
+    * **POUR DECLARATION DE MODIFICATION** : *Date de l'AGE* [x] **Modification de la situation personnelle**
     * **Qualité** : *Co-gérant*
     * **Nom de naissance** : *Nom du gérant*
     * **Nom du d'usage** : *Nom du gérant*
