@@ -106,6 +106,8 @@ Le plus efficace est de le déposer directement à la CCIP (2 Rue de Viarmes, 75
 * L'attestation de parution ou de l'avis paru dans un journal d'annonces légales
 * Un chèque de 198,64 € à l'odre du "Tribunal du Commerce"
 
+Il doit y avoir la mention écrite "Certifié conforme" sur la dernière page des statuts et de l'AG et les signatures et paraphes doivent être effectués à l'encre de stylo (pas numérique).
+
 Le tarif est valable :
 * si pas de changement de déépartement
 * si un associé unique n'assume pas personnellement la direction de la société
