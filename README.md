@@ -17,7 +17,7 @@ Activité administrative de la société 24ème
 
 ## Les comptes annuels
 
-- [Tableaux des charges et productions](bilans.csv)
+- [Tableaux des charges et produits](bilans.csv)
 
 ## Procédures administratives
 
