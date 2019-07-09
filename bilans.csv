@@ -1,8 +1,10 @@
-Catégorie,Type,20160701-20170630
-Charges d'exploitation,Autres achats et charges externes,16691
-Charges d'exploitation,"Impôts, taxes et versements assimilés",2241
-Charges d'exploitation,Salaires et traitements,118317
-Charges d'exploitation,Charges sociales,59699
-Charges d'exploitation,Dotations d'exploitation,1166
-Produits d'exploitation,Production vendue service,241121
-Produits d'exploitation,Production stockée,-9130
+Catégorie,Type,20160701-20170630,20170701-20180630
+Charges d'exploitation,Autres achats et charges externes,16691,57644
+Charges d'exploitation,"Impôts, taxes et versements assimilés",2241,1796
+Charges d'exploitation,Salaires et traitements,118317,115719
+Charges d'exploitation,Charges sociales,59699,53057
+Charges d'exploitation,Dotations d'exploitation,1166,10259
+Charges d'exploitation,Autres charges,11,39
+Produits d'exploitation,Production vendue service,241121,289230
+Produits d'exploitation,Production stockée,-9130,0
+Produits d'exploitation,Autres produits,3,37
