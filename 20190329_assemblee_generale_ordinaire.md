@@ -1,6 +1,6 @@
-\rhead{ PV AG Mars 2018 }
+\rhead{ PV AG Mars 2019 }
 
-# Procès-verbal de l'assemblée générale ordinaire annuelle du 29 mars 2018
+# Procès-verbal de l'assemblée générale ordinaire annuelle du 29 mars 2019
 
 L'an deux mille dix-neuf et le vingt-neuf mars à seize heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance.
 
@@ -31,7 +31,7 @@ Après discussion sur ce point, et plus personne ne demandant la parole, le Pré
 
 ## PREMIERE RESOLUTION
 
-L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion du premier exercice social 2017/2018 ainsi qu'il suit :
+L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion du premier exercice social 2018/2019 ainsi qu'il suit :
 
 - 84% à la part travail affectée à la RSP ;
 - 1% à la réserve légale, étant déjà dotée à son maximum ;
@@ -49,7 +49,7 @@ De tout ce que dessus, il a été dressé le présent procès-verbal qui a
 
 &nbsp;
 
-Fait à Paris, en cinq exemplaires, le 29/03/2018
+Fait à Paris, en cinq exemplaires, le 29/03/2019
 
 &nbsp;
 
