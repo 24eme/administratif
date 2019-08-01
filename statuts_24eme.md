@@ -968,12 +968,7 @@ nets de gestion.
 
 ### Article 35 - Répartition des excédents nets
 
-La décision de répartition est prise par le gérant avant la clôture de
-l'exercice et communiquée aux associés lors d'une assemblée générale
-ordinaire réunie extraordinairement ou par lettre remise en main propre
-contre décharge. Elle est ratifiée par l'assemblée générale ordinaire
-appelée à statuer sur les comptes de l'exercice. Le gérant et
-l'Assemblée sont tenus de respecter les règles suivantes :
+Les excédents nets sont affectés et répartis de la manière suivante :
 
 #### 35.1 - Réserve légale
 
@@ -985,14 +980,13 @@ développement.
 
 #### 35.2 - Fonds de développement
 
-Le fonds de développement doit être doté chaque année.
+1% sont affectés au fonds de développement.
 
 #### 35.3 - Ristourne aux salariés
 
-Il sera attribué à tous les travailleurs associés ou non, employés dans
+84% sont attribués à tous les travailleurs associés ou non, employés dans
 la Société et comptant à la clôture de l'exercice, soit trois mois de
-présence dans l'exercice, soit six mois d'ancienneté dans la Société, un
-pourcentage des excédents nets au moins égal à 25 %. Les droits des
+présence dans l'exercice, soit six mois d'ancienneté dans la Société. Les droits des
 bénéficiaires sur cette répartition sont établis au prorata du temps de
 travail.
 
@@ -1000,27 +994,6 @@ travail.
 de participation, il est plus simple de retenir les conditions
 d'attribution de la participation qui prévalent c'est-à-dire la seule
 condition de trois mois d'ancienneté.
-
-#### 35.4 - Intérêts aux parts sociales
-
-Il pourra être attribué un intérêt aux parts sociales. Le total des
-intérêts ne peut chaque année être supérieur, ni au total de la
-répartition aux travailleurs ci-dessus définie, ni au montant affecté
-aux réserves (réserve légale et fonds de développement).
-
-Les parts sociales ouvrant droit à rémunération sont celles qui
-existaient au jour de la clôture de l'exercice et existent toujours à la
-date de l'assemblée générale ordinaire.
-
-En cas de cession, sauf disposition contraire prévue dans l'acte de
-cession, c'est le détenteur des parts sociales au jour de l'assemblée
-générale ordinaire qui a droit à la rémunération.
-
-Le taux d'intérêt est le même pour toutes les parts sociales.
-
-Le versement des intérêts aux parts sociales a lieu, sauf affectation à
-la création de nouvelles parts sociales, au plus tard neuf mois après la
-clôture de l'exercice.
 
 ### Article 36 - Accord de participation
 
