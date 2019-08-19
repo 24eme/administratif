@@ -83,7 +83,7 @@ et par les gérants.
 
 &nbsp;
 
-Fait à Paris, en cinq exemplaires, le 14/03/2019
+Fait à Paris, en cinq exemplaires, le 28/06/2019
 
 &nbsp;
 
@@ -91,7 +91,7 @@ Le président de séance,
 
 &nbsp;
 
-M. Mathurin PETIT
+M. LAURENT Vincent
 
 &nbsp;
 
@@ -105,7 +105,7 @@ Les gérants,
 
 &nbsp;
 
-M. LAURENT Vincent
+M. PETIT Mathurin
 
 &nbsp;
 
@@ -125,7 +125,7 @@ M. LE METAYER Jean-Baptiste
 
 &nbsp;
 
-M. PETIT Mathurin
+M. LAURENT Vincent
 
 &nbsp;
 
