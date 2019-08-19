@@ -21,7 +21,7 @@ L'assemblée est présidée par monsieur Vincent Laurent, gérant.
 Le Président exprime d'abord l’ordre du jour de l’Assemblée, à savoir :
 
 -   Changement des règles tenant à la répartition des excédents nets
--   Modification corrélative de l’article 35 des statuts comprenant les changements des sous articles 35, 35.2, 35.3 et 35.4
+-   Modification corrélative de l’article 35 des statuts
 
 ## PREMIERE RESOLUTION
 
@@ -38,25 +38,38 @@ Cette résolution, mise aux voix, est adoptée à l'unanimité.
 ## DEUXIEME RESOLUTION
 
 En conséquence de la première résolution, l'assemblée décide de
-modifier, de la manière suivante, les articles 35, 35.2, 35.3 et 35.4 des statuts. :
+modifier, de la manière suivante, l'article 35 des statuts.
 
-« Article 35 - Répartition des excédents nets »
 
-Les excédents nets sont affectés et répartis de la manière suivante :
+    « Article 35 - Répartition des excédents nets »
 
-« 35.1 - Réserve légale »
+    Les excédents nets sont affectés et répartis de la manière suivante :
 
-Cet article est inchangé.
 
-« 35.2 - Fonds de développement »
+    « 35.1 - Réserve légale »
 
-1% sont affectés au fonds de développement.
+    15% sont affectés à la réserve légale qui reçoit cette dotation jusqu’à ce qu’elle soit égale au
+    montant le plus élevé atteint par le capital.
+    Ce montant atteint, cette dotation est affectée au fonds de développement.
 
-« 35.3 - Ristourne aux salariés »
 
-84% sont attribués à tous les travailleurs associés ou non, employés dans la Société et comptant à la clôture de l’exercice, soit trois mois de présence dans l’exercice, soit six mois d’ancienneté dans la Société. Les droits des bénéficiaires sur cette répartition sont établis au prorata du temps de travail.
+    « 35.2 - Fonds de développement »
 
-Remarque : Si la part travail tient lieu de Réserve spéciale de participation, il est plus simple de retenir les conditions d’attribution de la participation qui prévalent c’est-à-dire la seule condition de trois mois d’ancienneté.
+    1% sont affectés au fonds de développement.
+
+
+    « 35.3 - Ristourne aux salariés »
+
+    84% sont attribués à tous les travailleurs associés ou non, employés dans la Société et comptant
+    à la clôture de l’exercice, soit trois mois de présence dans l’exercice, soit six mois
+    d’ancienneté dans la Société. Les droits des bénéficiaires sur cette répartition sont établis au
+    prorata du temps de travail.  
+
+    Remarque : Si la part travail tient lieu de Réserve spéciale de participation, il est plus simple
+    de retenir les conditions d’attribution de la participation qui prévalent c’est-à-dire la seule 
+    condition de trois mois d’ancienneté.
+
+
 
 Le reste des articles des statuts demeurent sans changement.
 
