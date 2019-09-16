@@ -1,4 +1,4 @@
-# Procédure administrative un changement de statut
+# Procédure administrative d'un changement de statut
 
 ## Changement simple
 
