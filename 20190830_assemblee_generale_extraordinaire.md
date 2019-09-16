@@ -8,8 +8,8 @@ Tel qu'il en est justifié par la feuille de présence annexée au présent proc
 
 Sont présents :
 
-- M. Mathurin PETIT, propriétaire de 24 parts, gérant.
-- M. Vincent LAURENT, propriétaire de 24 parts, gérant.
+- M. Mathurin PETIT, propriétaire de 24 parts, gérant ;
+- M. Vincent LAURENT, propriétaire de 24 parts, gérant ;
 - M. Jean-Baptiste LE METAYER, propriétaire de 24 parts, gérant.
 
 La feuille de présence permet de constater que trois associés sont présents ou représentés à l'Assemblée, sur un nombre total de trois associés de la coopérative.
@@ -20,17 +20,16 @@ L'assemblée est présidée par monsieur Vincent Laurent, gérant.
 
 Le Président exprime d'abord l’ordre du jour de l’Assemblée, à savoir :
 
--   Changement des règles tenant à la répartition des excédents nets
--   Modification corrélative de l’article 35 des statuts
+-   Changement des règles tenant à la répartition des excédents nets ;
+-   Modification corrélative de l’article 35 des statuts .
 
 ## PREMIERE RESOLUTION
 
-L'assemblée générale extraordinaire des associés décide, suite au conseil de l'URSCOP et du cabinet comptable Sillage de changer la répartition des excédents nets de l'entreprise, pour l'exercice en cours de cloture et pour les suivant en les fixant dans les statuts comme suit :
+L'assemblée générale extraordinaire des associés décide, suite aux conseils de l'URSCOP et du cabinet comptable Sillage de changer la répartition des excédents nets de l'entreprise, pour l'exercice en cours de clôture et pour les suivants, en les fixant dans les statuts comme suit :
 
-- 1% sont affectés au fonds de développement
-- 15% restent affectés à la réserve légale qui reçoit cette dotation jusqu’à ce qu’elle soit égale au montant le plus élevé
-atteint par le capital
-- 84% sont attribués à tous les travailleurs associés ou non, employés dans la Société et comptant à la clôture de l'exercice, soit trois mois de présence dans l'exercice, soit six mois d'ancienneté dans la Société. Les droits des bénéficiaires sur cette répartition sont établis au prorata du temps de travail
+- 1% affectés au fonds de développement ;
+- 15% affectés à la réserve légale qui reçoit cette dotation jusqu’à ce qu’elle soit égale au montant le plus élevé atteint par le capital ;
+- 84% attribués à tous les travailleurs associés ou non, employés dans la Société et comptant à la clôture de l'exercice, soit trois mois de présence dans l'exercice, soit six mois d'ancienneté dans la Société. Les droits des bénéficiaires sur cette répartition sont établis au prorata du temps de travail.
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
@@ -71,9 +70,7 @@ Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
 \newpage
 
-L'ordre du jour étant épuisé, la séance est levée à seize heure et
-il est dressé le présent procès-verbal signé par le président de séance
-et par les gérants.
+L'ordre du jour étant épuisé, la séance est levée à seize heure et il est dressé le présent procès-verbal signé par le président de séance et par les gérants.
 
 &nbsp;
 
@@ -95,14 +92,20 @@ Les gérants,
 
 &nbsp;
 
-M. PETIT Mathurin
+M. PETIT Mathurin ;
 
 ![](images/signature_lu_approuve_3.jpg)\
 
-M. LE METAYER Jean-Baptiste
+M. LE METAYER Jean-Baptiste ;
 
 ![](images/signature_lu_approuve_2.jpg)\
 
-M. LAURENT Vincent
+M. LAURENT Vincent.
 
 ![](images/signature_lu_approuve_1.jpg)\
+
+&nbsp;
+
+&nbsp;
+
+![](images/certifie_conforme.png)\
