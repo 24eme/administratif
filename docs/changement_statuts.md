@@ -4,7 +4,7 @@
 
 ### Assemblée générale
 
-Verbalisé le changement de statut dans une AG, comme par exemple : https://github.com/24eme/administratif/blob/master/20190830_assemblee_generale_extraordinaire.md
+Verbaliser le changement de statut dans une AG, comme par exemple : https://github.com/24eme/administratif/blob/master/20190830_assemblee_generale_extraordinaire.md
 
 #### Déclarer le changement à l'administration
 
