@@ -22,6 +22,8 @@ Activité administrative de la société 24ème
 - [Assemblée générale ordinaire annuelle du 30 mars 2018](https://github.com/24eme/administratif/blob/master/20180330_assemblee_generale_ordinaire.md)
 - [Assemblée générale ordinaire annuelle du 23 novembre 2018](https://github.com/24eme/administratif/blob/master/20181123_assemblee_generale_ordinaire.md)
 - [Assemblée générale extraordinaire du 14 mars 2019](https://github.com/24eme/administratif/blob/master/20190314_assemblee_generale_extraordinaire.md)
+- [Assemblée générale ordinaire du 29 mars 2019](https://github.com/24eme/administratif/blob/master/20190329_assemblee_generale_ordinaire.md)
+- [Assemblée générale extraordinaire du 30 août 2019](https://github.com/24eme/administratif/blob/master/20190830_assemblee_generale_extraordinaire.md)
 
 ## Les comptes annuels
 
