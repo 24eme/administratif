@@ -1211,6 +1211,12 @@ M. PETIT Mathurin
 
 ![](images/signature_lu_approuve_3.jpg)\
 
+&nbsp;
+
+&nbsp;
+
+![](images/certifie_conforme.png)\
+
 \newpage
 
 ## Annexe I - État des apports en nature
