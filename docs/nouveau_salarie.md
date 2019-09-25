@@ -2,7 +2,7 @@
 
 Liste des choses à faire à l'arrivé d'un nouveau salarié
 
-* [ ] Inscription à la visite médical : https://www.ciamt.org/espaceAdherent/
+* [ ] Inscription à la visite médicale : https://www.ciamt.org/espaceAdherent/
 * [ ] Création d'une adresse mail : https://console.online.net/fr/mut/mail/325168/list
 * [ ] Ajout dans l'équipe 24eme de github : https://github.com/orgs/24eme/people
 * [ ] Créer un compte sur nextcloud : https://nextcloud.24eme.fr/index.php/settings/users
