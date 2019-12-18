@@ -1,4 +1,4 @@
-\rhead{ PV AG décembre 2019 }
+\rhead{ PV AG Décembre 2019 }
 
 # Procès-verbal de l'assemblée générale ordinaire annuelle du 18 décembre 2019
 
