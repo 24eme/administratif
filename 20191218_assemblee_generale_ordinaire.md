@@ -1,8 +1,8 @@
-\rhead{ PV AG Novembre 2019 }
+\rhead{ PV AG décembre 2019 }
 
-# Procès-verbal de l'assemblée générale ordinaire annuelle du 25 novembre 2019
+# Procès-verbal de l'assemblée générale ordinaire annuelle du 18 décembre 2019
 
-L'an deux mille dix-neuf et le vingt-cinq novembre à dix heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance.
+L'an deux mille dix-neuf et le dix huit décembre à onze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance.
 
 Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
 
@@ -37,14 +37,14 @@ La présente Assemblée est appelée à délibérer sur l'ordre du jour suivant�
 - Audition du rapport spécial de la gérance sur les conventions article L 223-19.
 - Affectation du résultat
 - Rémunération de la gérance
-- Admission d'associés / Démission d'un nouvel associé
-- Renouvellement du mandat du Gérant.
+- Renouvellement du mandat du Gérant
+- Admission d'associés.
 
 Après discussion sur ces différents points, et plus personne ne demandant la parole, le Président soumet à l'approbation de l'Assemblée les résolutions suivantes :
 
 ## Résolutions de la compétence de l'Assemblée Générale Ordinaire
 
-### PREMIERE RESOLUTION
+### PREMIÈRE RESOLUTION
 
 L'Assemblée Générale des associés de la Société 24ème, après avoir entendu le rapport de gestion du Président de la séance, approuve, tels qu'ils ont été établis et lui sont présentés, les dits rapports dans leur ensemble ainsi que les comptes de l'exercice social clos le 30 juin 2018, le bilan et le montant des dépenses et charges non déductibles visées par l'article 224 quater du CGI.
 
@@ -54,7 +54,7 @@ Elle donne en outre quitus à la gérance de sa gestion pour le dit exercice.
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité,
 
-### DEUXIEME RESOLUTION
+### DEUXIÈME RESOLUTION
 
 L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion de l'exercice social 2019, s'élevant à : 48 725 €, ainsi qu'il suit :
 
@@ -67,13 +67,13 @@ Conformément à l'article 243 bis du Code Général des Impôts, nous vous info
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
-### TROISIEME RESOLUTION
+### TROISIÈME RESOLUTION
 
 L'Assemblée Générale des associés de la Société 24ème prend acte de la lecture du rapport spécial du Président de la séance concernant les conventions passés dans la cadre de l'article L. 223-19 du nouveau Code de Commerce et approuve telles qu'elles lui sont présentées l'ensemble des dites conventions.
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
-### QUATRIEME RESOLUTION
+### QUATRIÈME RESOLUTION
 
 L'Assemblée Générale des associés de la Société 24ème confirme que le mandat de gérance est exercé à titre bénévole et que les rémunérations de Monsieur LAURENT Vincent, Monsieur PETIT Mathurin et Monsieur LE METAYER Jean-Baptiste correspondent au travail qu'ils réalisent dans la société au titre des fonctions techniques mentionnées dans leurs contrats de travail, dont ils rendent compte de l'exécution aux associés à l'occasion de l'assemblée générale ordinaire d'approbation des comptes.
 
@@ -85,13 +85,33 @@ Les associés prennent acte de l’arrivée à expiration du mandat de Monsieur 
 
 Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
+### SIXIÈME RESOLUTION
+
+L'Assemblée Générale des associés de la Société 24ème décide d'accepter en qualité d'associé :
+
+Monsieur POMA Gabriel, domicilié au 158 rue de Ménilmontant 75020 Paris.
+
+L'assemblée prend acte de sa souscription au capital pour un montant de 576 € soit 24 parts sociales de 24 € de valeur nominale.
+
+Cette résolution, mise aux voix, est adoptée à l'unanimité.
+
+### SEPTIÈME RESOLUTION
+
+L'Assemblée Générale des associés de la Société 24ème décide d'accepter en qualité d'associé :
+
+Monsieur MAHAMAT Moussa Adji, domicilié au 3 ter rue du Vieux du Macé 41000 Saint-Denis-sur-Loire.
+
+L'assemblée prend acte de sa souscription au capital pour un montant de 576 € soit 24 parts sociales de 24 € de valeur nominale.
+
+Cette résolution, mise aux voix, est adoptée à l'unanimité.
+
 \newpage
 
-L'ordre du jour étant épuisé, la séance est levée à onze heures et il est dressé le présent procès-verbal signé par le président de séance et par les gérants.
+L'ordre du jour étant épuisé, la séance est levée à midi et il est dressé le présent procès-verbal signé par le président de séance et par les gérants.
 
 &nbsp;
 
-Fait à Paris, en cinq exemplaires, le 25/11/2019
+Fait à Paris, en cinq exemplaires, le 18/12/2019
 
 &nbsp;
 
