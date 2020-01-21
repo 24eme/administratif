@@ -6,7 +6,7 @@ Activité administrative de la société 24ème
 
  - Adresse du siège : 2 place Sainte Opportune, 75001 Paris
  - SIREN : 810 720 557 (R.C.S Paris)
- - SIRET : 810 720 557 00026
+ - SIRET : 810 720 557 00034
  - N°TVA : FR76 810720557
  - Code NAF : 6201Z
 
