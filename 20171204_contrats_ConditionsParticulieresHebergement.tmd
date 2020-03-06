@@ -1,59 +1,59 @@
 % ![](images/logo.pdf "")
-% **Conditions Particulières concernant des prestation d'hébergement**
+% **Conditions Particulières concernant des prestations d'hébergement**
 % **Contrat n°XXXNOCONTRATXXX**
 \rhead{ Conditions Particulières - Hébergement }
 
 **Entre les soussignés :**
 
-\ 
+\
 
 \	\	\	la société **24ÈME**
 
 \	\	\	SARL SCOP immatriculée au registre du commerce de Paris
 
-\	\	\	sous le numéro SIRET 810 720 557 00026
+\	\	\	sous le numéro SIRET 810 720 557 00034
 
-\ 
+\
 
 \	\	\	dont le siège social est situé au :
 
-\ 
+\
 
-\	\	\	12 rue de l'Amiral Mouchez
+\	\	\	2 place Saint-Opportune
 
-\	\	\	75014 Paris
+\	\	\	75001 Paris
 
-\ 
+\
 
 \	\	\	ci-dessous dénommée **24ÈME** ou **le Prestataire**, d'une part,
 
-\ 
+\
 
 **et :**
 
-\ 
+\
 
 \	\	\	XXXNOMXXX
 
 \	\	\	immatriculé sous le numéro SIRET XXXSIRETXXX
 
-\ 
+\
 
 \	\	\	dont le siège social est situé au :
 
-\ 
+\
 
 \	\	\	XXXADRESSEXXX
 
 \	\	\	XXXCPVILLEXXX
 
-\ 
+\
 
 \	\	\	ci-dessous dénommé **le CLIENT**, d'autre part.
 
-\ 
+\
 
-\ 
+\
 
 Ce document est associé aux «\ Conditions Générales \» dans leur version 1.0 ou suppérieure valablement acceptées par les deux Parties. L'acceptation d'une nouvelle version des «\ Conditions Générales\ » annule les versions antérieures.
 
@@ -85,13 +85,13 @@ Dans le cadre d'une infogérance, une garantie de disponibilité de 99,9 % par 
 
 La présente garantie couvre les services suivants :
 
- -  OS : Debian 8
- -  WEB : Apache 2, PHP
+ - OS : Debian 9
+ - WEB : Apache 2, PHP
  - MAIL : Exim
  - BDD : CouchDB
  - SSH : OpenSSH
  - Divers : Tomcat, SSL
-      
+
 Dans le cas d'une défaillance du Prestataire à cette règle, le Prestataire s'engage à rembourser sous forme d'un avoir sur une prochaine facture du Client les sommes suivantes, calculées en fonction de la durée de la défaillance des services et du montant consacré à cette garantie :
 
 ­Disponibilité                   Équivalent horaire d'indisponibilité des services           Avoir sur la prochaine facture
@@ -133,34 +133,34 @@ Pour chaque tranche de 3 % de disponibilité perdue : 20 % d'avoir supplément
 
 Le montant total de l'avoir ne pourra excéder 100 % de la redevance mensuelle effectivement réglée par le client pour la prestation de location prévue à cet article.
 
-\ 
+\
 
-\ 
+\
 
 Fait en deux exemplaires originaux.
 
 
-\ 
+\
 
-\ 
+\
 
-Le 24ÈME                                                                                      Le CLIENT                                     
+Le 24ÈME                                                                                      Le CLIENT
 --------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------
-Nom :                                                                                         Nom :                                                                                 
-\                                                                                             
-Prénom :                                                                                      Prénom :                                                                              
-\                                                                                             
-Qualité :                                                                                     Qualité :                                                                             
-\                                                                                             
-Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .   
-\                                                                                             
-Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature : 
-\                                                                                         
-\                                                                                         
-\                                                                                         
-\                                                                                         
-\                                                                                         
-\                                                                                         
+Nom :                                                                                         Nom :
+\
+Prénom :                                                                                      Prénom :
+\
+Qualité :                                                                                     Qualité :
+\
+Date :                                                                                        Date :  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .
+\
+Signature : \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   Signature :
+\
+\
+\
+\
+\
+\
 
 
 \newpage
@@ -179,7 +179,7 @@ XXXSERVEURSPAREXXX
 
 ### Infogérance mensuelle
 
-Domaines concernés par la garantie « services » : 
+Domaines concernés par la garantie « services » :
 
 XXXDOMAINESXXX
 
@@ -194,16 +194,15 @@ Garanties de temps : 5j/7
  - Facturation : trimestrielle à échoir
  - Reconduction : tacite trimestrielle
  - Condition de résiliation : par LRAR, 3 mois avant échéance
-      
-##Annexe 3 - Conditions financières
+
+## Annexe 3 - Conditions financières
 
 XXXCONDITIONSFINANCIERESINSTALLATIONXXX
 
-Détails des prestations mensuelles : 
+Détails des prestations mensuelles :
 
- - Location et garanties matérielles : XXXPRIXLOCATIONXXX € HT 
+ - Location et garanties matérielles : XXXPRIXLOCATIONXXX € HT
  - Garantie disponibilité « réseau » : XXXPRIXRESEAUXXX € HT
  - Infogérance et garantie disponibilité « services » : XXXPRIXSERVICEXXX € HT
 
 Total : XXXPRIXMENSUELXXX € HT mensuels
-
