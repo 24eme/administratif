@@ -40,10 +40,10 @@ Activité administrative de la société 24ème
 
 ## Modèles de contrats
 
-- [Conditions Générales](20171204_contrats_ConditionsGenerales.tmd)
-- [Conditions Particulières Hébergement](20171204_contrats_ConditionsParticulieresHebergement.tmd)
-- [Conditions Particulières Logiciel](20171204_contrats_ConditionsParticulieresLogiciel.tmd)
-- [Conditions Particulières TMA](20171204_contrats_ConditionsParticulieresTMA.tmd)
+- [Conditions Générales](contrats_ConditionsGenerales.md)
+- [Conditions Particulières Hébergement](contrats_ConditionsParticulieresHebergement.md)
+- [Conditions Particulières Logiciel](contrats_ConditionsParticulieresLogiciel.md)
+- [Conditions Particulières TMA](contrats_ConditionsParticulieresTMA.md)
 - [Contrat de travail à Durée Indéterminée](contrat_travail_cdi.md)
 
 ## Utilisation
