@@ -2,7 +2,7 @@
 
 Ces taxes sont à payer en début d'année pour l'année en cours.
 
-Elles sont toutes indexés sur la masse salariale.
+Elles sont toutes indexés sur la masse salariale (Pour l'OPCO les apprentis ne sont pas compté dans la masse salariale)
 
 Le cabinet comptable nous envoi les documents déjà complétés en février, il y a juste à les signer, joindre le paiement et les envoyer.
 
