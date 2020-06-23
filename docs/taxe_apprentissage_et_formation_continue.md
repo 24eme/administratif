@@ -10,6 +10,7 @@ Tableau de la répartion des taxes par type et organisme :
 
 | Type 	| Organisme 	| Année 	| Taux  	| Masse salariale brute (n-1)	| Montant HT 	|
 |----------------------	|-----------	|-------	|---------	|-----------------	|------------	|
+| Taxe d'apprentissage 	| CCI Paris 	| 2020 	| 	|  	| 135 € 	|
 | Formation professionnelle Continue  	| ADESATT 	| 2020 	| 0,02 % 	| 159 033 € 	| 32 € 	|
 | Formation professionnelle Continue | OPCO ATLAS | 2020 | 0,575 % | 152 936 € | 879 € |
 | Taxe d'apprentissage 	| CCI Paris 	| 2019 	| 0,68 % 	| 116 514 € 	| 792 € 	|
