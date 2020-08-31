@@ -8,7 +8,7 @@
 
 \	\	\	La Société 24ème Société Coopérative de Production à responsabilité limitée à capital variable (SCOP ARL),
 
-\	\	\	dont le siège social est situé 12 rue de l’Amiral Mouchez 75014 Paris, immatriculée au registre du commerce
+\	\	\	dont le siège social est situé 2 place Saint-Opportune 75001 Paris, immatriculée au registre du commerce
 
 \   \   \   et des Sociétés de Paris sous le numéro 810 720 557, représenté par XXXASSOCIENOMXXX,
 
