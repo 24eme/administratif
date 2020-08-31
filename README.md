@@ -24,6 +24,7 @@ Activité administrative de la société 24ème
 - [Assemblée générale extraordinaire du 14 mars 2019](https://github.com/24eme/administratif/blob/master/20190314_assemblee_generale_extraordinaire.md)
 - [Assemblée générale ordinaire du 29 mars 2019](https://github.com/24eme/administratif/blob/master/20190329_assemblee_generale_ordinaire.md)
 - [Assemblée générale extraordinaire du 30 août 2019](https://github.com/24eme/administratif/blob/master/20190830_assemblee_generale_extraordinaire.md)
+- [Assemblée générale ordinaire du 18 décembre 2019](https://github.com/24eme/administratif/blob/master/20191218_assemblee_generale_ordinaire.md)
 
 ## Les comptes annuels
 
@@ -40,10 +41,13 @@ Activité administrative de la société 24ème
 
 ## Modèles de contrats
 
-- [Conditions Générales](20171204_contrats_ConditionsGenerales.tmd)
-- [Conditions Particulières Hébergement](20171204_contrats_ConditionsParticulieresHebergement.tmd)
-- [Conditions Particulières Logiciel](20171204_contrats_ConditionsParticulieresLogiciel.tmd)
-- [Conditions Particulières TMA](20171204_contrats_ConditionsParticulieresTMA.tmd)
+- [Conditions Générales](contrats_ConditionsGenerales.md)
+- [Conditions Particulières Hébergement](contrats_ConditionsParticulieresHebergement.md)
+- [Conditions Particulières Logiciel](contrats_ConditionsParticulieresLogiciel.md)
+- [Conditions Particulières TMA](contrats_ConditionsParticulieresTMA.md)
+
+## Modèles de contrats de travail
+
 - [Contrat de travail à Durée Indéterminée](contrat_travail_cdi.md)
 
 ## Utilisation
