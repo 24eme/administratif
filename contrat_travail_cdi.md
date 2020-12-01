@@ -73,7 +73,7 @@ La durée du travail du salarié est fixée à 35 heures hebdomadaires.
 
 Le salarié exercera au sein de la Société la fonction de développeur informatique, correspondant au niveau cadre de la convention collective « Syntec »
 
-A ce titre, l’employé aura pour fonctions de mener à bien toutes missions liées à sa qualification et d’une façon générale s’engage à se conformer strictement aux instructions qui lui seront données par la Direction.
+A ce titre, le salarié aura pour fonctions de mener à bien toutes missions liées à sa qualification et d’une façon générale s’engage à se conformer strictement aux instructions qui lui seront données par la Direction.
 
 Dans le cadre de son pouvoir de gestion, la Société se réserve la possibilité de faire évoluer ces tâches, dans le respect de la qualification du salarié et au regard des nécessités de son  organisation.
 
