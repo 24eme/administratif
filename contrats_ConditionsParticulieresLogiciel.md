@@ -77,13 +77,13 @@ Les annexes des présentes «\ Conditions Particulières\ » décrivent les fonc
 
 Chaque Lot se découpe en trois temps :
 
- - la Période d'Itérations : durant cette période, le 24ÈME réalise les différentes fonctionnalités de la Prestation. Les fonctionnalités sont développées durant des Itérations. Le Comité de Sprint définit et valide les développements réalisées lors de chaque Itération.
+ - la Période d'Itérations : durant cette période, le 24ÈME réalise les différentes fonctionnalités de la Prestation. Les fonctionnalités sont développées durant des Itérations. Le Comité de Sprint définit et valide les développements réalisés lors de chaque Itération.
  - la Période de Recette : durant cette période le 24ÈME et le CLIENT travaillent ensemble, au sein d'un Comité de recette, pour identifier et corriger les Dysfonctionnements afin que la Prestation puisse être mise en production.
  - la Période de Garantie : durant cette période, le 24ÈME corrige les Dysfonctionnements identifiés.
 
 ## Article 4 - Comité de Sprint
 
-Au début chaque Itération, le Comité de Sprint se réunit pour définir les objectifs de l'Itération, c’est-à-dire les éléments à réaliser et les modifications à apporter à ce qui a déjà été réalisé. Les objectifs de l'Itération prennent en compte les besoins perçus du CLIENT, les contraintes techniques et les ressources affectées à l'Itération.
+Au début de chaque Itération, le Comité de Sprint se réunit pour définir les objectifs de l'Itération, c’est-à-dire les éléments à réaliser et les modifications à apporter à ce qui a déjà été réalisé. Les objectifs de l'Itération prennent en compte les besoins perçus du CLIENT, les contraintes techniques et les ressources affectées à l'Itération.
 
 À la fin de chaque Itération, le 24ÈME présente les développements réalisés durant l'Itération au Comité de Sprint qui contrôle si les réalisations sont conformes aux éléments définis en début d'Itération.
 
@@ -143,7 +143,7 @@ Il se réunit chez l'une des deux Parties.
 
 Les moyens humains mis en œuvre par le 24ÈME dans le cadre de la Prestation sont détaillés en Annexes des présentes «\ Conditions Particulières\ ».
 
-Le 24ÈME déclare disposer de tous les moyens matériels et logiciels nécessaire pour réaliser la Prestation.
+Le 24ÈME déclare disposer de tous les moyens matériels et logiciels nécessaires pour réaliser la Prestation.
 
 ## Article 8 - Lieu de réalisation de la Prestation
 
