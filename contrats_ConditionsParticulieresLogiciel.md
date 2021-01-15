@@ -83,7 +83,7 @@ Chaque Lot se découpe en trois temps :
 
 ## Article 4 - Comité de Sprint
 
-Au début chaque Itération, le Comité de Sprint se réunit pour définir les objectifs de l'Itération, c’est-à-dire les éléments à réaliser et les modifications à apporter à ce qui a déjà été réalisé. Les objectifs de l'Itération prennent en compte les besoins perçus du CLIENT, les contraintes techniques et les ressources affectées à l'Itération.
+Au début de chaque Itération, le Comité de Sprint se réunit pour définir les objectifs de l'Itération, c’est-à-dire les éléments à réaliser et les modifications à apporter à ce qui a déjà été réalisé. Les objectifs de l'Itération prennent en compte les besoins perçus du CLIENT, les contraintes techniques et les ressources affectées à l'Itération.
 
 À la fin de chaque Itération, le 24ÈME présente les développements réalisés durant l'Itération au Comité de Sprint qui contrôle si les réalisations sont conformes aux éléments définis en début d'Itération.
 
