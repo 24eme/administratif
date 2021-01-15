@@ -77,7 +77,7 @@ Les annexes des présentes «\ Conditions Particulières\ » décrivent les fonc
 
 Chaque Lot se découpe en trois temps :
 
- - la Période d'Itérations : durant cette période, le 24ÈME réalise les différentes fonctionnalités de la Prestation. Les fonctionnalités sont développées durant des Itérations. Le Comité de Sprint définit et valide les développements réalisées lors de chaque Itération.
+ - la Période d'Itérations : durant cette période, le 24ÈME réalise les différentes fonctionnalités de la Prestation. Les fonctionnalités sont développées durant des Itérations. Le Comité de Sprint définit et valide les développements réalisés lors de chaque Itération.
  - la Période de Recette : durant cette période le 24ÈME et le CLIENT travaillent ensemble, au sein d'un Comité de recette, pour identifier et corriger les Dysfonctionnements afin que la Prestation puisse être mise en production.
  - la Période de Garantie : durant cette période, le 24ÈME corrige les Dysfonctionnements identifiés.
 
