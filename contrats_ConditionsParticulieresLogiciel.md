@@ -143,7 +143,7 @@ Il se réunit chez l'une des deux Parties.
 
 Les moyens humains mis en œuvre par le 24ÈME dans le cadre de la Prestation sont détaillés en Annexes des présentes «\ Conditions Particulières\ ».
 
-Le 24ÈME déclare disposer de tous les moyens matériels et logiciels nécessaire pour réaliser la Prestation.
+Le 24ÈME déclare disposer de tous les moyens matériels et logiciels nécessaires pour réaliser la Prestation.
 
 ## Article 8 - Lieu de réalisation de la Prestation
 
