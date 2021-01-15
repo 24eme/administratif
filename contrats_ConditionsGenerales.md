@@ -220,7 +220,7 @@ Chacune des Parties s'engage à régler toutes les primes afin que l'autre Parti
 
 ## Article 19 - Force majeure
 
-De manière expresse, sont considérées comme cas de force majeure ou cas fortuits outre ceux habituellement retenus par la jurisprudence des cours et tribunaux français : grèves totales ou partielles, internes ou externes à l'entreprise, lock-out,  intempéries, épidémies, blocages des moyens de transport ou d'approvisionnement pour quelque raison que ce soit, tremblements de terre, incendies, tempêtes, inondations, dégâts des eaux, restrictions gouvernementales ou légales, modifications légales ou réglementaires des formes de commercialisation, blocage total ou partiel des moyens de télécommunications ou de communication, y compris les réseaux, et tout autre cas indépendant de la volonté expresse des Parties et empêchant l'exécution normal du présent Contrat.
+De manière expresse, sont considérées comme cas de force majeure ou cas fortuits outre ceux habituellement retenus par la jurisprudence des cours et tribunaux français : grèves totales ou partielles, internes ou externes à l'entreprise, lock-out,  intempéries, épidémies, blocages des moyens de transport ou d'approvisionnement pour quelque raison que ce soit, tremblements de terre, incendies, tempêtes, inondations, dégâts des eaux, restrictions gouvernementales ou légales, modifications légales ou réglementaires des formes de commercialisation, blocage total ou partiel des moyens de télécommunications ou de communication, y compris les réseaux, et tout autre cas indépendant de la volonté expresse des Parties et empêchant l'exécution normale du présent Contrat.
 
 La Partie victime d'un cas de force majeure en informe l'autre Partie dans un délai de 5 jours ouvrables.
 
