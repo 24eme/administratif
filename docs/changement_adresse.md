@@ -1,4 +1,4 @@
-# Procédure de changement d'adresse
+# Procédure de changement d'adresse du siége
 
 ##  Informer la CCI et obtenir le nouveau KBis
 
