@@ -2,9 +2,7 @@
 
 # Procès-verbal de l'assemblée générale ordinaire annuelle du 26 mars 2020
 
-L'an deux mille vingt et le vingt-six mars à onze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance.
-
-Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
+L'an deux mille vingt et le vingt-six mars à onze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance. Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
 
 Sont présents :
 
@@ -48,7 +46,6 @@ Elle donne en outre quitus à la gérance de sa gestion pour le dit exercice.
 Cette résolution, mise aux voix, est adoptée à l'unanimité,
 
 ### DEUXIÈME RESOLUTION
-
 
 L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion de l'exercice social 2020, s'élevant à : 31 137 €, ainsi qu'il suit :
 
