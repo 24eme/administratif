@@ -26,8 +26,6 @@ Le Président met d'abord à la disposition des associés les documents suivants
 
 La présente Assemblée est appelée à délibérer sur l'ordre du jour suivant :
 
-**A titre ordinaire** :
-
 - Approbation des comptes de l'exercice clos le 30/06/2020
 - Affectation du résultat
 
