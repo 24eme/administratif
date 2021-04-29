@@ -4,8 +4,7 @@
 
 L'an deux mille vingt et le vingt-six mars à onze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance.
 
-Tel qu'il en est justifié par la feuille de présence annexée au présent
-procès-verbal :
+Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
 
 Sont présents :
 
@@ -15,43 +14,60 @@ Sont présents :
 - M. Gabriel POMA, propriétaire de 24 parts.
 - M. Moussa ADJI, propriétaire de 24 parts.
 
-Tous les associés étant présents ou représentés à l'Assemblée, celle-ci, régulièrement convoquée, peut valablement délibérer.
+La feuille de présence permet de constater que cinq associés sont présents ou représentés à l'Assemblée, sur un nombre total de cinq associés de la coopérative.
+
+En conséquence l'Assemblée Générale est déclarée régulièrement constituée et peut valablement délibérer tant comme Assemblée Générale Ordinaire que comme Assemblée Générale Extraordinaire.
 
 L'assemblée est présidée par monsieur Mathurin PETIT, gérant.
 
-Le Président met d'abord à la disposition des associés les documents
-suivants, à savoir :
+Le Président met d'abord à la disposition des associés les documents suivants, à savoir :
 
 - récépissé des envois des convocations
+- documents comptables concernant l'exercice clos le 30 juin 2020
 - projet de résolution
 
-Puis le Président rappelle l'**ordre du jour**, à savoir :
+La présente Assemblée est appelée à délibérer sur l'ordre du jour suivant :
 
-- Répartition du résultat
+**A titre ordinaire** :
 
-Après discussion sur ce point, et plus personne ne demandant la parole, le Président soumet à l'approbation de l'Assemblée les résolutions suivantes :
+- Approbation des comptes de l'exercice clos le 30/06/2020
+- Affectation du résultat
 
-## PREMIERE RESOLUTION
+Après discussion sur ces différents points, et plus personne ne demandant la parole, le Président soumet à l'approbation de l'Assemblée les résolutions suivantes :
 
-L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion de l'exercice social 2019/2020 ainsi qu'il suit :
+## Résolutions de la compétence de l'Assemblée Générale Ordinaire
 
-- 84% à la part travail affectée à la RSP ;
-- 1% à la réserve légale, étant déjà dotée à son maximum ;
-- 15% à la réserve statutaire dite fonds de développement ;
-- 0% en dividendes ;
+### PREMIÈRE RESOLUTION
 
-Cette résolution est adoptée à l'unanimité
+L'Assemblée Générale des associés de la Société 24ème, après avoir entendu le rapport de gestion du Président de la séance, approuve, tels qu'ils ont été établis et lui sont présentés, les dits rapports dans leur ensemble ainsi que les comptes de l'exercice social clos le 30 juin 2020, le bilan et le montant des dépenses et charges non déductibles visées par l'article 224 quater du CGI.
+
+Elle prend également acte de la lecture du rapport annuel de révision coopérative.
+
+Elle donne en outre quitus à la gérance de sa gestion pour le dit exercice.
+
+Cette résolution, mise aux voix, est adoptée à l'unanimité,
+
+### DEUXIÈME RESOLUTION
+
+
+L'Assemblée Générale des associés de la Société 24ème décide, conformément aux dispositions de l'article 35 des statuts, de répartir le montant de l'excédent net de gestion de l'exercice social 2020, s'élevant à : 31 137 €, ainsi qu'il suit :
+
+- 84 % à la part travail affectée à la Réserve Spéciale de Participation, soit 26 155 €
+- 0 % à la réserve légale, étant déjà dotée à son maximum, soit 0 €
+- 16 % à la réserve statutaire dite fonds de développement, soit 4 185 €
+- 0 % en dividendes, soit 0 €
+
+Conformément à l'article 243 bis du Code Général des Impôts, nous vous informons n'avoir distribué, au titre des quatres derniers exercices, aucun dividende.
+
+Cette résolution, mise aux voix, est adoptée à l'unanimité.
 
 \newpage
 
-L'ordre du jour étant épuisé, la séance est levée.
-
-De tout ce que dessus, il a été dressé le présent procès-verbal qui a
-été signé par le président de séance et par les gérants.
+L'ordre du jour étant épuisé, la séance est levée à midi et il est dressé le présent procès-verbal signé par le président de séance et par les gérants.
 
 &nbsp;
 
-Fait à Paris, en six exemplaires, le 26/03/2020
+Fait à Paris, en sept exemplaires, le 26/03/2020
 
 &nbsp;
 
