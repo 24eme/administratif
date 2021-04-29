@@ -51,7 +51,7 @@ De tout ce que dessus, il a été dressé le présent procès-verbal qui a
 
 &nbsp;
 
-Fait à Paris, en cinq exemplaires, le 26/03/2020
+Fait à Paris, en six exemplaires, le 26/03/2020
 
 &nbsp;
 
