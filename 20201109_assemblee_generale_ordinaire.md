@@ -1,8 +1,8 @@
-\rhead{ PV AG Mars 2020 }
+\rhead{ PV AG Novembre 2020 }
 
-# Procès-verbal de l'assemblée générale ordinaire annuelle du 26 mars 2020
+# Procès-verbal de l'assemblée générale ordinaire annuelle du 09 novembre 2020
 
-L'an deux mille vingt et le vingt-six mars à onze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance. Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
+L'an deux mille vingt et le neuf novembre à onze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance. Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
 
 Sont présents :
 
@@ -64,7 +64,7 @@ L'ordre du jour étant épuisé, la séance est levée à midi et il est dressé
 
 &nbsp;
 
-Fait à Paris, en sept exemplaires, le 26/03/2020
+Fait à Paris, en sept exemplaires, le 09/11/2020
 
 &nbsp;
 
