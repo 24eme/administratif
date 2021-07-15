@@ -49,7 +49,7 @@ L'Assemblée Générale des associés de la Société 24ème décide, conformém
 
 - 84 % à la part travail affectée à la Réserve Spéciale de Participation, soit 26 155 €
 - 0 % à la réserve légale, étant déjà dotée à son maximum, soit 0 €
-- 16 % à la réserve statutaire dite fonds de développement, soit 4 185 €
+- 16 % à la réserve statutaire dite fonds de développement, soit 4 982 €
 - 0 % en dividendes, soit 0 €
 
 Conformément à l'article 243 bis du Code Général des Impôts, nous vous informons n'avoir distribué, au titre des quatres derniers exercices, aucun dividende.
