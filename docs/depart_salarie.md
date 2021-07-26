@@ -3,7 +3,7 @@
 Liste des choses à faire au départ d'un salarié
 
 * [ ] Vérifier les vacances restantes
-* [ ] Vérifier la part bloqué
+* [ ] Vérifier la part bloquée
 * [ ] Prévenir la médecine du travail : https://www.ciamt.org/espaceAdherent/
 * [ ] Désinscription de la mutuelle : https://alan.com/app/dashboard/pro
 * [ ] Si associé, AG indiquant le départ de l'associé
