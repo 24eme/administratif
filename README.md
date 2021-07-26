@@ -38,7 +38,7 @@ Activité administrative de la société 24ème
 - [Procédure de dégrèvement à la CFE](https://github.com/24eme/administratif/blob/master/docs/degrevement_cfe.md)
 - [Taxe d'apprentissage et formation continue](docs/taxe_apprentissage_et_formation_continue.md)
 - [Nouveau salarié](docs/nouveau_salarie.md)
-- [Départ d'un salarié](docs/nouveau_salarie.md)
+- [Départ d'un salarié](docs/depart_salarie.md)
 - [Déménagement des locaux](docs/demenagement_locaux.md)
 
 ## Modèles de contrats
