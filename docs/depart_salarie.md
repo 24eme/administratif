@@ -6,8 +6,8 @@ Liste des choses à faire au départ d'un salarié
 * [ ] Vérifier la part bloquée
 * [ ] Prévenir la médecine du travail : https://www.ciamt.org/espaceAdherent/
 * [ ] Désinscription de la mutuelle : https://alan.com/app/dashboard/pro
-* [ ] Signaler les enventuels matériels garder immobilisé au cabinet comptable 
-* [ ] Faire un avenant au contrat du ou des salariés subordonnés de ce salarié
+* [ ] Signaler le matériel immobilisé gardé par le salarié au cabinet comptable
+* [ ] Faire un avenant au(x) contrat(s) du ou des salariés subordonnés de ce salarié
 * [ ] Solde tout compte
 * [ ] Révoquer la clé tinc sur les serveurs
 * [ ] Révoquer la clé ssh sur les serveurs
