@@ -12,6 +12,8 @@ Liste des choses à faire au départ d'un salarié
 * [ ] Solde tout compte
 * [ ] Révoquer la clé tinc sur les serveurs
 * [ ] Révoquer la clé ssh sur les serveurs
+* [ ] Désinscrire l'email des différentes mailing liste
+* [ ] Inscrire l'email à la mailing liste anciens@24eme.fr
 
 Si associé :
 
