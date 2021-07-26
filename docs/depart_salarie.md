@@ -5,7 +5,7 @@ Liste des choses à faire au départ d'un salarié
 * [ ] Vérifier les vacances restantes
 * [ ] Vérifier la part bloqué
 * [ ] Prévenir la médecine du travail : https://www.ciamt.org/espaceAdherent/
-* [ ] Désinscription de la mutuelle : https://espace-entreprises.april-entreprise-prevoyance.fr/
+* [ ] Désinscription de la mutuelle : https://alan.com/app/dashboard/pro
 * [ ] Si associé, AG indiquant le départ de l'associé
 * [ ] Signaler les enventuels matériels garder immobilisé au cabinet comptable 
 * [ ] Faire un avenant au contrat du ou des salariés subordonnés de ce salarié
