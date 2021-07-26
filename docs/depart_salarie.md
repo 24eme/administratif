@@ -14,6 +14,8 @@ Liste des choses à faire au départ d'un salarié
 * [ ] Désinscrire le salarié du channel 24ème de Télégram
 * [ ] Désinscrire l'email des différentes mailing liste
 * [ ] Inscrire l'email à la mailing liste anciens@24eme.fr
+* [ ] Enlever le salarié de la section « L'équipe » du site institutionnel
+* [ ] Ajouter le salarié dans la section « Anciens » du site institutionnel
 
 Si associé :
 
