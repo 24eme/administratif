@@ -10,6 +10,8 @@ Liste des choses à faire au départ d'un salarié
 * [ ] Signaler les enventuels matériels garder immobilisé au cabinet comptable 
 * [ ] Faire un avenant au contrat du ou des salariés subordonnés de ce salarié
 * [ ] Solde tout compte
+* [ ] Révoquer la clé tinc sur les serveurs
+* [ ] Révoquer la clé ssh sur les serveurs
 
 Si associé :
 
