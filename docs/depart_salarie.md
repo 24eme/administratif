@@ -9,6 +9,7 @@ Liste des choses à faire au départ d'un salarié
 * [ ] Signaler le matériel immobilisé gardé par le salarié au cabinet comptable
 * [ ] Faire un avenant au(x) contrat(s) du ou des salariés subordonnés de ce salarié
 * [ ] Solde tout compte
+* [ ] Attestation pôle emploi
 * [ ] Révoquer la clé tinc sur les serveurs
 * [ ] Révoquer la clé ssh sur les serveurs
 * [ ] Désinscrire le salarié du channel 24ème de Télégram
@@ -27,5 +28,5 @@ Si co-gérant :
 
 Si apprenti :
 
-* [ ] Signaler la rupture à CFA : https://www.opco-atlas.fr/
+* [ ] Signaler la rupture au CFA : https://www.opco-atlas.fr/
 * [ ] Signaler la rupture à l'OPCO : https://www.opco-atlas.fr/
