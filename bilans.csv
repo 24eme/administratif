@@ -1,12 +1,12 @@
-Catégorie,Type,20150301-20160630,20160701-20170630,20170701-20180630,20180701-20190630,20190701-20200630
-Charges d'exploitation,Autres achats et charges externes,18926,16691,57644,108242,133473
-Charges d'exploitation,"Impôts, taxes et versements assimilés",30,2241,1796,1485,1046
-Charges d'exploitation,Salaires et traitements,160719,118317,115719,135133,169189
-Charges d'exploitation,Charges sociales,66780,59699,53057,45308,60138
-Charges d'exploitation,Dotations d'exploitation,1083,1166,1431,897,2551
-Charges d'exploitation,Autres charges,3,11,39,42,30
-Produits d'exploitation,Production vendue service,292766,241121,289230,339830,378614
-Produits d'exploitation,Production stockée,9130,-9130,0,0,5028
-Produits d'exploitation,Production immobilisée,0,0,0,1210,2993
-Produits d'exploitation,Subventions d'exploitation,5000,0,0,0,0
-Produits d'exploitation,Autres produits,2,3,37,4,8
+Catégorie,Type,20150301-20160630,20160701-20170630,20170701-20180630,20180701-20190630,20190701-20200630,20200701-20210630
+Charges d'exploitation,Autres achats et charges externes,18926,16691,57644,108242,133473,153975
+Charges d'exploitation,"Impôts, taxes et versements assimilés",30,2241,1796,1485,1046,2089
+Charges d'exploitation,Salaires et traitements,160719,118317,115719,135133,169189,228837
+Charges d'exploitation,Charges sociales,66780,59699,53057,45308,60138,71986
+Charges d'exploitation,Dotations d'exploitation,1083,1166,1431,897,2551,5905
+Charges d'exploitation,Autres charges,3,11,39,42,30,60
+Produits d'exploitation,Production vendue service,292766,241121,289230,339830,378614,438688
+Produits d'exploitation,Production stockée,9130,-9130,0,0,5028,2185
+Produits d'exploitation,Production immobilisée,0,0,0,1210,2993,364
+Produits d'exploitation,Subventions d'exploitation,5000,0,0,0,0,14000
+Produits d'exploitation,Autres produits,2,3,37,4,8,74
