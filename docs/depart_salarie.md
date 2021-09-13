@@ -28,5 +28,5 @@ Si co-gérant :
 
 Si apprenti :
 
-* [ ] Signaler la rupture au CFA : https://www.opco-atlas.fr/
-* [ ] Signaler la rupture à l'OPCO : https://www.opco-atlas.fr/
+* [ ] Signaler la rupture au CFA
+* [ ] Signaler la rupture à l'OPCO : https://myatlas-client.herokuapp.com/mes-dossiers-contrats
