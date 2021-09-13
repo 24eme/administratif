@@ -4,6 +4,8 @@ Liste des choses à faire au départ d'un salarié
 
 * [ ] Vérifier les vacances restantes
 * [ ] Vérifier la part bloquée
+* [ ] 6 mois pour payer la part bloqué
+* [ ] Plus autorisé à utiliser le compte bancaire
 * [ ] Prévenir la médecine du travail : https://www.ciamt.org/espaceAdherent/
 * [ ] Désinscription de la mutuelle : https://alan.com/app/dashboard/pro
 * [ ] Signaler le matériel immobilisé gardé par le salarié au cabinet comptable
