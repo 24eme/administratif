@@ -2,10 +2,10 @@
 
 ## Mensuelles
 
-- [ ] Faire les variables de paies - *Fin de mois*
-- [ ] Virement des paies - *Le plus proche possibe du 1er du mois*
-- [ ] Faire inidividuellement ses temps - *Avant le tactical*
-- [ ] Faire les indicateurs [(voir)](https://github.com/24eme/temps/#indicateurs) - *Avant le tactical*
+- [ ] Envoyer les variables de paies au cabinet comptable - *Fin de mois*
+- [ ] Effectuer le virement des paies - *Le plus proche possibe du 1er du mois*
+- [ ] Reporter inidividuellement ses temps - *Avant le tactical*
+- [ ] Calculer les indicateurs du mois [(voir)](https://github.com/24eme/temps/#indicateurs) - *Avant le tactical*
 - [ ] Facturer les clients - *Avant le tactical*
 - [ ] Envoyer les factures - *Avant le tactical*
 - [ ] Organiser le tactical meeting - *Début de mois*
