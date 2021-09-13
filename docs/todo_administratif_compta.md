@@ -15,4 +15,4 @@
 - [ ] Payer la formation de continue auprès de l'OPCO [(voir la procédure)](/docs/taxe_apprentissage_et_formation_continue.md) - *Septembre*
 - [ ] Payer la formation de continue auprès de l'Adesatt [(voir la procédure)](/docs/taxe_apprentissage_et_formation_continue.md) - *Septembre*
 - [ ] Payer la taxe d'apprentissage [(voir la procédure)](/docs/taxe_apprentissage_et_formation_continue.md) - *Septembre*
-- [ ] Publier les comptes
+- [ ] Publier les comptes [(voir la procédure)](/docs/publication_comptes.md) - *Octobre/Novembre, 1 mois après l'AG d'approbation de compte*
