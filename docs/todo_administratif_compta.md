@@ -1,8 +1,11 @@
-# Liste des tâches administratiches et comptables
+# Liste des tâches administratives et comptables
 
 ## Mensuelles
 
 - Faire les variables de paies
+- Faire inidividuellement ses temps
+- Facturer les clients
+- Envoyer les factures
 
 ## Annuelles
 
