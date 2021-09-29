@@ -10,6 +10,10 @@
 - [ ] Envoyer les factures - *Avant le tactical*
 - [ ] Organiser le tactical meeting - *Début de mois*
 
+## Trimestrielle
+
+- [ ] Facturer les colocataires de la micro pépite - *Avant le 10 janvier, le 10 avril, le 10 juillet, le 10 octobre*
+
 ## Annuelles
 
 - [ ] Payer la formation de continue auprès de l'OPCO [(voir la procédure)](/docs/taxe_apprentissage_et_formation_continue.md) - *Septembre*
