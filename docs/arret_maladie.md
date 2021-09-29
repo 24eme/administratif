@@ -1,8 +1,7 @@
-# Informations
+# Procédure Arrêt maladie de plus de 3 jours.
 
-L'Assurance Maladie verse des indemnités à partir du 4ème jour qui suit l'arrêt de travail.
+L'Assurance Maladie verse des indemnités au 24ème à partir du 4ème jour qui suit l'arrêt de travail.
+Pour faire la demande, il faut communiquer par mail l'arrêt de travail à Sillage et au 24ème.
 
-# Justification des absences
-
-Tout arrêt maladie doit être envoyer au 24ème et à sillage pour justifier son absence.
-Scanner l'arrêt de travail, l'envoyer par mail à sillage et mettre en copie le 24ème.
+### Informations
+Le 24ème maintient intégralement le salaire sans délai de carence.
