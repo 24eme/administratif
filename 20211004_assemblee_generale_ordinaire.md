@@ -1,4 +1,4 @@
-    \rhead{ PV AG Octobre 2021 }
+\rhead{ PV AG Octobre 2021 }
 
 # Procès-verbal de l'assemblée générale ordinaire annuelle du 04 octobre 2021
 
@@ -122,7 +122,7 @@ M. LAURENT Vincent
 
 M. POMA Gabriel
 
-![](images/signature_lu_approuve_4.jpg)\
+![](images/signature_lu_approuve_4b.jpg)\
 
 M. LE METAYER Jean-Baptiste
 
