@@ -24,3 +24,7 @@ Puis cliquer sur le lien <  Accédez au dépôt des comptes > du paragraphe : Po
     * Uploader **PV d'Assemblée (proposition et résolution d'affectation votée)**, AG de répartition du résultat
 * Cadre 3 :
     * Payer
+
+### 4. Stocker la preuve de dépot
+
+Stocker le récépissé de dépot dans le dossier `Greffe` et une preuve de paiement pour la compta
