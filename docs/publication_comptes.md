@@ -1,5 +1,7 @@
 # Procédure de publication des comptes
 
+La procédure est documenté ici : https://www.service-public.fr/professionnels-entreprises/vosdroits/F31214
+
 ### 1. Accéder à son compte Infogreffe
 
 Se connecter sur le site Infogreffe : https://www.infogreffe.fr/
