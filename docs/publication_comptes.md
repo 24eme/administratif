@@ -27,4 +27,4 @@ Puis cliquer sur le lien <  Accédez au dépôt des comptes > du paragraphe : Po
 
 ### 4. Stocker la preuve de dépot
 
-Stocker le récépissé de dépot dans le dossier `Greffe` et une preuve de paiement pour la compta
+Stocker le récépissé de dépot dans le dossier `Greffe` et un justificatif de paiement pour la compta
