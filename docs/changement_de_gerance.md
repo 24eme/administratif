@@ -1,10 +1,10 @@
 # Changement de gérance
 
-Documentation du service public : https://www.service-public.fr/professionnels-entreprises/vosdroits/F32234/personnalisation/resultat?lang=&quest0=0&quest1=1
+Documentation du service public : https://www.service-public.fr/professionnels-entreprises/vosdroits/F32234
 
 ## 1. Déclarer le changement de gérance dans une AG
 
-A indiquer comme résolution par exemple : https://github.com/24eme/administratif/blob/master/20211108_assemblee_generale_ordinaire.md#quatrieme-resolution
+A indiquer comme résolution, par exemple : https://github.com/24eme/administratif/blob/master/20211108_assemblee_generale_ordinaire.md#quatrieme-resolution
 
 ## 2. Publier une annonce légale dans un journal
 
@@ -27,11 +27,10 @@ Voici un modèle d'un cas plus complexe : https://www.lelegaliste.fr/annonce/mod
     * Votre modification concerne : [x] La gestion, la direction, l'administration, le contrôle  
 * Étape 2 :
     * Déclarer les modifications de gérant(s)
-* Étape 3 :
-    * Uploader les différents pièces justificatives :
-        * AG indiquant le changement de gérance
-        * Attestation sur l'honneur de non condamnation
-        * Copie de la CNI (certifié conforme ;-))
-        * Attestation de parution dans une annonce légale
+* Étape 3 : Uploader les différents pièces justificatives :
+   * AG indiquant le changement de gérance
+   * Attestation sur l'honneur de non condamnation
+   * Copie de la CNI (certifié conforme ;-))
+   * Attestation de parution dans une annonce légale
         
         
