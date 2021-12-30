@@ -1,8 +1,8 @@
-\rhead{ PV AG Octobre 2021 }
+\rhead{ PV AG Novembre 2021 }
 
-# Procès-verbal de l'assemblée générale ordinaire annuelle du 04 octobre 2021
+# Procès-verbal de l'assemblée générale ordinaire annuelle du 8 novembre 2021
 
-L'an deux mille vingt et un et le quatre octobre à quinze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance. Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
+L'an deux mille vingt et un et le huit novembre à quinze heures, les associés de la société 24ème, société coopérative et participative, à responsabilité limitée, à capital variable, se sont réunis au siège social sur convocation régulière de la gérance. Tel qu'il en est justifié par la feuille de présence annexée au présent procès-verbal :
 
 Sont présents :
 
@@ -98,7 +98,7 @@ L'ordre du jour étant épuisé, la séance est levée à seize heures trente et
 
 &nbsp;
 
-Fait à Paris, en cinq exemplaires, le 04/10/2021
+Fait à Paris, en cinq exemplaires, le 08/11/2021
 
 &nbsp;
 
