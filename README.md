@@ -48,7 +48,7 @@ Activité administrative de la société 24ème
 - [Nouveau salarié](docs/nouveau_salarie.md)
 - [Départ d'un salarié](docs/depart_salarie.md)
 - [Déménagement des locaux](docs/demenagement_locaux.md)
-- [Liste des tâches administratives et comptables](docs/taxe_apprentissage_et_formation_continue.md)
+- [Liste des tâches administratives et comptables](docs/todo_administratif_compta.md)
 
 ## Modèles de contrats
 
