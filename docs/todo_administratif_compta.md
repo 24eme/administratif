@@ -8,6 +8,10 @@
 - [ ] Calculer les indicateurs du mois [(voir)](https://github.com/24eme/temps/#indicateurs) - *Avant le tactical*
 - [ ] Facturer les clients - *Avant le tactical*
 - [ ] Envoyer les factures - *Avant le tactical*
+- [ ] Saisir les paiements - *Avant le tactical*
+- [ ] Relancer les factures en souffrances - *Avant le tactical*
+- [ ] Rédiger le Compte Rendu d'activité mensuelle - *Avant le tactical*
+- [ ] Envoyer le Compte Rendu d'activité mensuelle sur le réseau Libre Entreprise
 - [ ] Organiser le tactical meeting - *Début de mois*
 
 ## Trimestrielle
@@ -22,3 +26,8 @@
 - [ ] Transmettre la liste ministérielle à la CG SCOP (pour réinscription SCOP) en ligne sur [extranet.scop.coop](https://extranet.scop.coop/user) - *Avant le 30 septembre*
 - [ ] Rédiger l'AG d'approbation des comptes - *Septembre/Octobre, dans les 6 mois après la cloture*
 - [ ] Publier les comptes [(voir la procédure)](/docs/publication_comptes.md) - *Octobre/Novembre, 1 mois après l'AG d'approbation de compte*
+
+
+## En cas de mouvement
+
+- [ ] Modifier le registre des bénéficiaires effectifs - Déclaration en ligne sur [RBE - infogreffe](https://www.infogreffe.fr/rbe)
