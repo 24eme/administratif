@@ -61,7 +61,7 @@ XXXMOTIFCONTRATXXX
 
 ## Article 3 -  Durée du travail
 
-La durée hebdomadaire de travail du salarié sera de 35 heures conformément aux dispositions légales et conventionnelles applicables dans l’entreprise.
+La durée hebdomadaire de travail du salarié sera de XXXDUREEHEBDOXXX heures conformément aux dispositions légales et conventionnelles applicables dans l’entreprise.
 
 ## Article 4 - Fonctions et attributions
 
