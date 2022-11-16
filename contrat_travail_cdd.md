@@ -1,6 +1,6 @@
 % ![](images/logo.pdf "")
-% **Contrat de travail à Durée Déterminé**
-\rhead{ Contrat de travail à Durée Déterminé - XXXNOMXXX }
+% **Contrat de travail à Durée Déterminée**
+\rhead{ Contrat de travail à Durée Déterminée - XXXNOMXXX }
 
 **Entre :**
 
@@ -53,7 +53,7 @@ Le salarié déclare :
 - être libre de tout engagement contractuel avec une autre entreprise et être en conformité avec la réglementation du travail et de l'emploi en France,
 - n’être tenu par aucune clause de non-concurrence empêchant la conclusion du présent contrat.
 
-Le présent contrat est conclu pour une durée déterminé. Il est régi par le droit du travail et la convention collective nationale applicable à la Société qui est celle des Bureaux d’Etudes Techniques, dite « Syntec ».
+Le présent contrat est conclu pour une durée déterminée. Il est régi par le droit du travail et la convention collective nationale applicable à la Société qui est celle des Bureaux d’Etudes Techniques, dite « Syntec ».
 
 ## Article 2 - Motif du contrat
 
