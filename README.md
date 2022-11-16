@@ -60,6 +60,7 @@ Activité administrative de la société 24ème
 ## Modèles de contrats de travail
 
 - [Contrat de travail à Durée Indéterminée](contrat_travail_cdi.md)
+- [Contrat de travail à Durée Déterminée](contrat_travail_cdd.md)
 
 ## Utilisation
 
