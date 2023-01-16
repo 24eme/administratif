@@ -2,6 +2,8 @@
 
 La procédure est documenté ici : https://www.service-public.fr/professionnels-entreprises/vosdroits/F31214
 
+Elle doit être réalisée dans les 2 mois suivant l'approbation des comptes par l'assemblée ordinaire des associés.
+
 ### 1. Accéder à son compte Infogreffe
 
 Se connecter sur le site Infogreffe : https://www.infogreffe.fr/
