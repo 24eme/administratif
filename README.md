@@ -9,6 +9,8 @@ Activité administrative de la société 24ème
  - SIRET : 810 720 557 00034
  - N°TVA : FR76 810720557
  - Code NAF : 6201Z
+ - Convention Collective : SYNTEC (Code IDCC 1486)
+ - OPCO : Atlas
 
 ## Statuts
 
