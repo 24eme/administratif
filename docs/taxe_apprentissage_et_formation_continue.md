@@ -2,9 +2,14 @@
 
 Ces taxes sont à payer en début d'année pour l'année en cours.
 
-Elles sont toutes indexés sur la masse salariale (Pour l'OPCO les apprentis ne sont pas compté dans la masse salariale)
+Elles sont toutes indexées sur la masse salariale (pour l'OPCO les apprentis ne sont pas compté dans la masse salariale), normalement il est possible de récupérer cette masse salariale auprès du cabinet comptable.
 
-Le cabinet comptable nous envoi les documents déjà complétés en février, il y a juste à les signer, joindre le paiement et les envoyer.
+La taxe d'apprentissage est payé automatiquement mensuelement avec la DSN, nous la donnons à la **CCI de Paris**, il faut bien être vigilant la dessus parce que plein d'école et d'organisme nous la réclame.
+
+Les 2 autres sont payables en ligne :
+
+- ADESATT : https://www.adesatt.com/mon-compte/
+- OPCO ATLAS : https://myatlas-client.herokuapp.com/versement-conventionnel
 
 Tableau de la répartion des taxes par type et organisme :
 
