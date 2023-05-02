@@ -2,15 +2,15 @@
 
 C'est le cabinet comptable (Sillage) qui s'occupe de générèrer les bulletins paies.
 
-## 1 semaine avant la fin du mois - Envoyer les variables de paies
+## Au maximum 1 semaine avant la fin du mois - Envoyer les variables de paies
 
 Elles se trouvent ici : https://jeancloude.24eme.fr/index.php/f/48244
 
 Il suffit de dupliquer le fichier du dernier mois, éventuellement de l'adapté et l'envoyer par mail à Sillage.
        
-## Le 1er jour ouvrable du nouveau mois - Les bulletins de paies et les virements
+## Le 1er jour ouvrable du nouveau mois - Les virements
 
-Sillage va nous envoyer les bulletins de paies par mail dans un seul fichier PDF
+Sillage va nous envoyer les bulletins de paies par mail dans un seul fichier PDF.
 
 D'abord, il faut stocker le fichier PDF de l'ensemble de bulletins ici : https://jeancloude.24eme.fr/index.php/f/35560
 
