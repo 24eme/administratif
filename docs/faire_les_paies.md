@@ -1,6 +1,6 @@
 # Faire les paies
 
-C'est le cabinet comptable (Sillage) qui s'occupe de générèrer les bulletins paies.
+C'est le cabinet comptable (Sillage) qui s'occupe de générer les bulletins paies.
 
 ## Au maximum 1 semaine avant la fin du mois - Envoyer les variables de paies
 
