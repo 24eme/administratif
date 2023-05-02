@@ -4,7 +4,7 @@ C'est le cabinet comptable (Sillage) qui s'occupe de générer les bulletins pai
 
 ## Au maximum 1 semaine avant la fin du mois - Envoyer les variables de paies
 
-Elles se trouvent ici : https://jeancloude.24eme.fr/index.php/f/48244
+L'historique des variables de paies se trouvent ici : https://jeancloude.24eme.fr/index.php/f/48244
 
 Il suffit de dupliquer le fichier du dernier mois, éventuellement de l'adapté et l'envoyer par mail à Sillage.
        
