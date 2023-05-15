@@ -3,3 +3,5 @@ images/signature*.jpg
 images/paraphe*.jpg
 *.sed
 *.pdf
+*~
+*.swp
