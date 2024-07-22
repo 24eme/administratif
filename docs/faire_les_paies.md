@@ -12,9 +12,9 @@ Il suffit de dupliquer le fichier du dernier mois, éventuellement de l'adapté 
 
 Sillage va nous envoyer les bulletins de paies par mail dans un seul fichier PDF.
 
-D'abord, il faut stocker le fichier PDF de l'ensemble de bulletins ici : https://jeancloude.24eme.fr/index.php/f/35560
+D'abord, il faut stocker le fichier PDF de l'ensemble de bulletins ici : Salarie/24eme/bulletins_paie (dispo ici : <https://jeancloude.24eme.fr/index.php/f/35560>)
 
-Puis, il faut faire chacun des virements sur Qonto en mettant en référence : `Salaire MM/YY`
+Extraire chaque fiche de paie : le script bin/1bulletinperpage.sh qui se trouve dans Salarie permet de le faire.
 
-Et enfin extraire et stocker chaque fiche de paie dans le dossier `bulletins_paie` de chacun des dossiers des salariés : https://jeancloude.24eme.fr/index.php/f/34114
+Faire chacun des virements sur Qonto en mettant en référence : `Salaire MM/YY`. Pour chaque virement fait, déplacer le fichier du salariés dans son dossier `bulletins_paie`.
 
