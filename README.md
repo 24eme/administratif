@@ -9,6 +9,8 @@ Activité administrative de la société 24ème
  - SIRET : 810 720 557 00034
  - N°TVA : FR76 810720557
  - Code NAF : 6201Z
+ - Convention Collective : [SYNTEC](https://www.syntec.fr/) (Code IDCC 1486)
+ - OPCO : [Atlas](https://www.opco-atlas.fr/)
 
 ## Statuts
 
@@ -48,6 +50,7 @@ Activité administrative de la société 24ème
 - [Obtenir un Kbis](docs/obtenir_kbis.md)
 - [Taxe d'apprentissage et formation continue](docs/taxe_apprentissage_et_formation_continue.md)
 - [Nouveau salarié](docs/nouveau_salarie.md)
+- [Faire les paies](docs/faire_les_paies.md)
 - [Départ d'un salarié](docs/depart_salarie.md)
 - [Déménagement des locaux](docs/demenagement_locaux.md)
 - [Liste des tâches administratives et comptables](docs/todo_administratif_compta.md)
