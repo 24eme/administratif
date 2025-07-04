@@ -35,6 +35,7 @@ Activité administrative de la société 24ème
 - [Assemblée générale ordinaire du 8 novembre 2021](20211108_assemblee_generale_ordinaire.md)
 - [Assemblée générale ordinaire du 10 novembre 2022](20221110_assemblee_generale_ordinaire.md)
 - [Assemblée générale ordinaire du 29 novembre 2023](20231129_assemblee_generale_ordinaire.md)
+- [Assemblée générale ordinaire du 28 novembre 2024](20241128_assemblee_generale_ordinaire.md)
 
 ## Les comptes annuels
 
