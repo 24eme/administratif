@@ -4,7 +4,32 @@
 ### Lister les projets à facturer un jour
 ### Lister les clients à facturer en récurrent
 ### Aggrégation des temps
+
+Projet Temps
+
+```
+bash bin/mutu_temps.sh 
+```
+Copier le résultat dans le pad et dans le fichier './temps.csv'
+
+### Harmonisation des temps
+
+```
+bash bin/recap.csv temps.csv
+```
+Copier le résultat dans le pad
+
+On regarde la cohérence des résultats et on corrige en conséquence (ex. : une ligne avec 2j de travail sur la PDM et une autre avec 1j de travail sur la PdM ==> on les fond en une seule ligne de 3j de travail sur la PDM).
+
 ### Construire le CSV des factures
+
+On reprends les lignes de factures du mois précédent (si fin de trimestre prendre mois de fin de trimestre précédent)
+
+  - Mettre les dates de factures à jour
+  - Ajouter / enlever les lignes de facturation non pertinentes
+  - Si fin de trimestre : vérifier les facturations récurentes
+  - A la fin : reprendre les numéros de factures (1e colonne) à partir du dernier fichier en date dans le dossier "../../Compta/Factures/" et numéroter par client et non par ligne
+
 ### Génèrer les PDF
 À partir du dossier nextcloud :
 ```
