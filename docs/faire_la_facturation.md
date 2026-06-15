@@ -10,7 +10,7 @@ Projet Temps
 ```
 bash bin/mutu_temps.sh 
 ```
-Copier le résultat dans le pad et dans le fichier './temps.csv'
+Copier le résultat dans le fichier './temps.csv'
 
 ### Harmonisation des temps
 
