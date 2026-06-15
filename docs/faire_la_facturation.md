@@ -49,6 +49,13 @@ bash bin/archiveTemps.sh
 
 ## Dépenses
 ### Vérifier les dépenses dans le ficher : https://github.com/24eme/banque/blob/master/data/history.csv
+
+Copier toutes les lignes du mois concerné, les coller dans un tableur
+Mettre la 3e colonne au format nombre
+Retirer les valeur positives
+Retirer la ou les lignes de TVA 
+Faire la somme
+
 ### Calculer les dépenses
 ### Trier le tableur
 
